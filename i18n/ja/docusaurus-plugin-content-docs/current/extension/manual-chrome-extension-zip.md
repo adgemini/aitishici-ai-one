@@ -8,9 +8,9 @@ description: CRXが使えない場合はこちら。ZIPファイルを解凍し�
 
 ## 拡張機能のダウンロード
 
-ChatGPT Shortcut 拡張機能の Zip インストールパッケージ（ChatGPT_Shortcut-zip-3.x.x.zip）をダウンロードし、解凍します。（解凍したフォルダはコンピュータに保持する必要があるため、永続的な場所に解凍することを忘れないでください）
+Chat instructions 拡張機能の Zip インストールパッケージ（ChatGPT_Shortcut-zip-3.x.x.zip）をダウンロードし、解凍します。（解凍したフォルダはコンピュータに保持する必要があるため、永続的な場所に解凍することを忘れないでください）
 
-- **GitHub**: [GitHub Release](https://github.com/rockbenben/ChatGPT-Shortcut/releases/latest)
+- **GitHub**: [GitHub Release](https://github.com/rockbenben/Chat-instructions/releases/latest)
 - **国内ダウンロード**: [Alist クラウドドライブ](https://alist.newzone.top:9003/apps/ChatGPT%20Shortcut%20Extension)；[藍奏雲](https://wwva.lanzouq.com/b01lsc9vi), パスワード: 1qow
 
 ## 開発者モードを有効にする

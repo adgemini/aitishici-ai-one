@@ -1,17 +1,17 @@
 ---
 slug: /
 sidebar_label: Pengantar
-title: AI Short - Perpustakaan Prompt ChatGPT & AI Pilihan
-description: Kesulitan dengan respons AI? AI Short menyediakan prompt pilihan untuk ChatGPT, Claude dan lainnya. Salin prompt, kelola koleksi, dan tingkatkan produktivitas seketika.
+title: AI one - Perpustakaan Prompt ChatGPT & AI Pilihan
+description: Kesulitan dengan respons AI? AI one menyediakan prompt pilihan untuk ChatGPT, Claude dan lainnya. Salin prompt, kelola koleksi, dan tingkatkan produktivitas seketika.
 ---
 
-# Pengantar AI Short
+# Pengantar AI one
 
-AI Short (ChatGPT Shortcut) menyediakan daftar prompt AI yang ringkas dan mudah digunakan untuk membantu pengguna dengan cepat menemukan prompt yang sesuai untuk berbagai skenario.
+AI one (Chat instructions) menyediakan daftar prompt AI yang ringkas dan mudah digunakan untuk membantu pengguna dengan cepat menemukan prompt yang sesuai untuk berbagai skenario.
 
 ## ⚡ Mulai Cepat dalam 30 Detik
 
-1. Buka AI Short
+1. Buka AI one
 2. Cari atau jelajahi prompt yang Anda butuhkan
 3. Klik "Salin" dan tempelkan ke model percakapan AI mana pun
 
@@ -43,14 +43,3 @@ Sesederhana itu! Untuk fitur lebih lanjut, silakan lanjutkan membaca atau lihat 
 
 Prompt bersumber dari pilihan internet, berbagi komunitas, dan [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts). Kami memperbarui secara teratur untuk terus membawakan prompt dan inspirasi baru.
 
-## Bergabung dengan Komunitas
-
-Selamat bergabung dengan komunitas kami untuk bertukar ide dan umpan balik:
-
-<a href="https://t.me/aishort_top">
-   <img src="https://img.shields.io/badge/Telegram-Group-blue?logo=telegram&style=for-the-badge" alt="bergabung grup Telegram" />
-</a>
-
-<a href="https://discord.gg/PZTQfJ4GjX">
-   <img src="https://img.shields.io/discord/1048780149899939881?color=%2385c8c8&label=Discord&logo=discord&style=for-the-badge" alt="obrolan di Discord" />
-</a>

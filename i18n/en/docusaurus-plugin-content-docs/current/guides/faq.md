@@ -1,6 +1,6 @@
 ---
 sidebar_label: FAQ
-title: AI Short FAQ | Prompt Optimization & Fixing Hallucinations
+title: AI one FAQ | Prompt Optimization & Fixing Hallucinations
 description: Getting wrong AI answers? Learn how to fix prompt issues, avoid AI hallucinations, and secure your data with our comprehensive troubleshooting guide.
 ---
 

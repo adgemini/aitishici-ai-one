@@ -1,14 +1,14 @@
 ---
 sidebar_label: Dağıtım
-title: AI Short'u Dağıtın | Vercel, Docker & Cloudflare Kurulumu
-description: Kendi AI prompt kitaplığınızı barındırmak mı istiyorsunuz? AI Short'u Vercel, Docker veya Cloudflare kullanarak kolayca dağıtın. Yapılandırma ipuçları ve otomatik güncelleme scriptleri dahil.
+title: AI one'u Dağıtın | Vercel, Docker & Cloudflare Kurulumu
+description: Kendi AI prompt kitaplığınızı barındırmak mı istiyorsunuz? AI one'u Vercel, Docker veya Cloudflare kullanarak kolayca dağıtın. Yapılandırma ipuçları ve otomatik güncelleme scriptleri dahil.
 ---
 
 # Proje Dağıtımı
 
 ## Yapılandırma ve Özelleştirme
 
-AI Short, web sitesi başlığını, açıklamasını, promptları ve diğer içerikleri ihtiyaçlarınıza göre özgürce değiştirmenize olanak tanıyan açık kaynaklı bir projedir. Aşağıda yaygın değişiklik seçenekleri ve işlem talimatları bulunmaktadır:
+AI one, web sitesi başlığını, açıklamasını, promptları ve diğer içerikleri ihtiyaçlarınıza göre özgürce değiştirmenize olanak tanıyan açık kaynaklı bir projedir. Aşağıda yaygın değişiklik seçenekleri ve işlem talimatları bulunmaktadır:
 
 - **Web Sitesi Başlığı ve Açıklamasını Değiştirin**
   Web sitesinin başlık ve açıklama bilgilerini değiştirmek için lütfen `docusaurus.config.js` yapılandırma dosyasını düzenleyin.
@@ -69,9 +69,9 @@ yarn build --locale tr
 
 ### Vercel Dağıtımı
 
-ChatGPT-Shortcut'u Vercel platformuna tek tıkla dağıtmak için aşağıdaki düğmeye tıklayın:
+Chat-instructions'u Vercel platformuna tek tıkla dağıtmak için aşağıdaki düğmeye tıklayın:
 
-[![Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Frockbenben%2FChatGPT-Shortcut%2Ftree%2Fmain)
+[![Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Frockbenben%2FChat-instructions%2Ftree%2Fmain)
 
 ### Docker Dağıtımı
 

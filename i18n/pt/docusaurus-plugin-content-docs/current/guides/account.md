@@ -1,12 +1,12 @@
 ---
 sidebar_label: Gerenciamento de Conta
-title: Gerenciamento de Conta AI Short - Login Google e Sem Senha
-description: Acesse o AI Short - Login rápido via Google ou e-mail. Recupere senhas e sincronize suas coleções facilmente.
+title: Gerenciamento de Conta AI one - Login Google e Sem Senha
+description: Acesse o AI one - Login rápido via Google ou e-mail. Recupere senhas e sincronize suas coleções facilmente.
 ---
 
 # Gerenciamento de Conta
 
-O AI Short oferece vários métodos de login para que você possa acessar seus dados pessoais a qualquer momento.
+O AI one oferece vários métodos de login para que você possa acessar seus dados pessoais a qualquer momento.
 
 ## Métodos de Login
 

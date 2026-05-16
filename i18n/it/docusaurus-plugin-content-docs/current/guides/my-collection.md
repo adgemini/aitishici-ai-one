@@ -1,6 +1,6 @@
 ---
 sidebar_label: La Mia Collezione
-title: La Mia Collezione AI Short - Organizza i tuoi Prompt con Tag
+title: La Mia Collezione AI one - Organizza i tuoi Prompt con Tag
 description: Gestisci i tuoi prompt preferiti in "La Mia Collezione" - Usa tag personalizzati, ordinamento drag-and-drop e costruisci la tua libreria personale.
 ---
 
@@ -17,7 +17,7 @@ La parte superiore della home page fornisce pulsanti per cambiare vista, support
 
 Il browser ricorderà automaticamente la tua selezione di vista e passerà all'ultima vista alla tua prossima visita.
 
-![Vista La Mia Collezione](/img/docs/my-collection-view.gif)
+![Vista La Mia Collezione](/img/docs/my-collection-view.png)
 
 ## Aggiungi alla Collezione
 
@@ -63,7 +63,7 @@ La regolazione dell'ordine delle schede tramite drag-and-drop è supportata nell
 
 La funzione di ordinamento è disponibile solo nella vista La Mia Collezione.
 
-![Ordinamento Drag-and-Drop](/img/docs/my-collection-drag.gif)
+![Ordinamento Drag-and-Drop](/img/docs/my-collection-drag.png)
 
 ## Documentazione Correlata
 

@@ -111,7 +111,7 @@
     "message": "返回列表"
   },
   "community.description": {
-    "message": "想要更多實戰驗證的 AI 提示詞？加入 AiShort 社群，發現使用者分享的實用範本，交流最佳化技巧，共建高品質 Prompt 資源庫。"
+    "message": "想要更多實戰驗證的 AI 提示詞？加入 AI one 社群，發現使用者分享的實用範本，交流最佳化技巧，共建高品質 Prompt 資源庫。"
   },
   "community.loading": {
     "message": "載入中..."
@@ -126,7 +126,7 @@
     "message": "社群提示詞"
   },
   "community.title": {
-    "message": "AI 提示詞社群 | 發現與分享優質 Prompt - AiShort 創作平台"
+    "message": "AI 提示詞社群 | 發現與分享優質 Prompt - AI one 創作平台"
   },
   "description.clearCache.short": {
     "message": "重新整理本地快取數據"
@@ -138,7 +138,7 @@
     "message": "從 JSON 檔案匯入提示詞和收藏"
   },
   "faq.a1": {
-    "message": "AiShort（專案原名 ChatGPT Shortcut）是一個開源的 AI 提示詞管理工具，提供精選的提示詞列表幫你快速找到適用於不同場景的指令。專案最初聚焦 ChatGPT，所以程式碼倉庫名沿用 ChatGPT-Shortcut；目前已支援所有主流大語言模型（含 Claude、Gemini、DeepSeek、Kimi 等），名字保留是出於歷史延續。"
+    "message": "AI one（專案原名 Chat instructions）是一個開源的 AI 提示詞管理工具，提供精選的提示詞列表幫你快速找到適用於不同場景的指令。專案最初聚焦 ChatGPT，所以程式碼倉庫名沿用 Chat-instructions；目前已支援所有主流大語言模型（含 Claude、Gemini、DeepSeek、Kimi 等），名字保留是出於歷史延續。"
   },
   "faq.a2": {
     "message": "三步完成：(1) 在首頁搜尋或按標籤瀏覽所需提示詞；(2) 點擊卡片「複製」按鈕；(3) 貼到任意 AI 對話工具，按提示詞指引補充你的具體問題。"
@@ -147,7 +147,7 @@
     "message": "提示詞與模型無關，可用於所有主流大語言模型。國際模型：ChatGPT、Claude、Gemini、Grok。中國模型：DeepSeek、通義千問、文心一言、豆包、Kimi、智譜清言、訊飛星火、騰訊元寶。API 平台：OpenRouter、矽基流動、Groq。"
   },
   "faq.a4": {
-    "message": "Awesome ChatGPT Prompts 是 AiShort 的內容來源之一，但 AiShort 在其基礎上提供了：圖形化瀏覽介面與標籤篩選、18 種語言翻譯、個人提示詞管理（收藏/排序/標籤）、社群分享與投票、Chrome/Edge/Firefox 瀏覽器擴充（Alt+Shift+S 喚出側邊欄）、JSON 資料匯出備份、企業內網離線部署版。"
+    "message": "Awesome ChatGPT Prompts 是 AI one 的內容來源之一，但 AI one 在其基礎上提供了：圖形化瀏覽介面與標籤篩選、18 種語言翻譯、個人提示詞管理（收藏/排序/標籤）、社群分享與投票、Chrome/Edge/Firefox 瀏覽器擴充（Alt+Shift+S 喚出側邊欄）、JSON 資料匯出備份、企業內網離線部署版。"
   },
   "faq.a5": {
     "message": "完全免費且開源（程式碼託管在 GitHub）。瀏覽、搜尋、複製提示詞無需註冊。註冊後可解鎖：收藏與拖拽排序、自訂標籤、建立並管理個人提示詞、社群分享與投票、JSON 匯出備份、跨裝置同步。"
@@ -159,22 +159,22 @@
     "message": "常見問題"
   },
   "faq.q1": {
-    "message": "AiShort 是什麼？為什麼叫做 \"ChatGPT Shortcut\"？"
+    "message": "AI one 是什麼？為什麼叫做 \"Chat instructions\"？"
   },
   "faq.q2": {
-    "message": "怎麼使用 AiShort？"
+    "message": "怎麼使用 AI one？"
   },
   "faq.q3": {
     "message": "只能用於 ChatGPT 嗎？支援其他 AI 模型嗎？"
   },
   "faq.q4": {
-    "message": "AiShort 跟 Awesome ChatGPT Prompts 等開源提示詞集有什麼區別？"
+    "message": "AI one 跟 Awesome ChatGPT Prompts 等開源提示詞集有什麼區別？"
   },
   "faq.q5": {
-    "message": "AiShort 免費嗎？需要註冊嗎？"
+    "message": "AI one 免費嗎？需要註冊嗎？"
   },
   "faq.q6": {
-    "message": "AiShort 可以在企業內網或離線環境使用嗎？"
+    "message": "AI one 可以在企業內網或離線環境使用嗎？"
   },
   "faq.scenario.a": {
     "message": "適合完成與本頁標題和說明相關的任務。若首次嘗試效果不夠理想，可以在佔位符處提供更多上下文細節，或追加「請分步驟回答」「請舉例說明」等約束詞。"
@@ -207,13 +207,13 @@
     "message": "回饋與建議"
   },
   "homepage.description": {
-    "message": "AI 總是答非所問？AiShort 收錄論文寫作、程式設計、翻譯等場景的實用 Prompt 範本，一鍵複製即可讓 AI 精準理解指令，工作效率倍增！"
+    "message": "AI 總是答非所問？AI one 收錄論文寫作、程式設計、翻譯等場景的實用 Prompt 範本，一鍵複製即可讓 AI 精準理解指令，工作效率倍增！"
   },
   "homepage.slogan": {
     "message": "精選 AI 提示詞，一鍵複製即用"
   },
   "homepage.title": {
-    "message": "AiShort - AI 提示詞庫 | 精選 Prompt 範本，即刻提升 AI 效率"
+    "message": "AI one - AI 提示詞庫 | 精選 Prompt 範本，即刻提升 AI 效率"
   },
   "howto.step1.name": {
     "message": "複製提示詞"

@@ -10,7 +10,7 @@ Firefox 확장 프로그램을 사용하기 전에 다음 두 단계에 따라 �
 
 ## 1. 확장 프로그램 고정 및 액세스 설정
 
-먼저 Firefox 툴바에서 "ChatGPT Shortcut 확장 프로그램 고정"(Pin to Toolbar)을 선택합니다. 그런 다음 확장 프로그램 센터에 들어가 ChatGPT Shortcut 확장 프로그램 항목을 찾아 "옵션"(Options)을 선택합니다. 확장 프로그램 설정 인터페이스로 들어갑니다. 구체적인 단계는 아래 그림과 같습니다.
+먼저 Firefox 툴바에서 "Chat instructions 확장 프로그램 고정"(Pin to Toolbar)을 선택합니다. 그런 다음 확장 프로그램 센터에 들어가 Chat instructions 확장 프로그램 항목을 찾아 "옵션"(Options)을 선택합니다. 확장 프로그램 설정 인터페이스로 들어갑니다. 구체적인 단계는 아래 그림과 같습니다.
 
 ![Firefox settings](https://img.newzone.top/2023-12-25-05-51-47.png?imageMogr2/format/webp)
 

@@ -1,12 +1,12 @@
 ---
 sidebar_label: Avvio Rapido
-title: Avvio Rapido AI Short - Copia Prompt per ChatGPT e DeepSeek
-description: Inizia con AI Short in 30 secondi - Copia prompt pronti per ChatGPT, Gemini e DeepSeek. Migliora subito le tue conversazioni con l'IA.
+title: Avvio Rapido AI one - Copia Prompt per ChatGPT e DeepSeek
+description: Inizia con AI one in 30 secondi - Copia prompt pronti per ChatGPT, Gemini e DeepSeek. Migliora subito le tue conversazioni con l'IA.
 ---
 
 # Avvio Rapido
 
-Quando conversi con l'IA, buoni prompt possono aiutarti a ottenere risposte di alta qualità più velocemente. AiShort ha organizzato un gran numero di prompt pratici per te, pronti per essere copiati e usati.
+Quando conversi con l'IA, buoni prompt possono aiutarti a ottenere risposte di alta qualità più velocemente. AI one ha organizzato un gran numero di prompt pratici per te, pronti per essere copiati e usati.
 
 ## Uso Base
 
@@ -15,7 +15,7 @@ Quando conversi con l'IA, buoni prompt possono aiutarti a ottenere risposte di a
 3. Apri qualsiasi modello IA e incolla il prompt
 4. Segui le istruzioni del prompt per aggiungere la tua domanda specifica
 
-![](/img/docs/how-to-use-aishort.gif)
+![](/img/docs/how-to-use-aione.png)
 
 ## Accesso Rapido
 

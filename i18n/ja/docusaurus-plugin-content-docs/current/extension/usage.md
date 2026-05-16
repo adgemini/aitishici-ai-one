@@ -1,12 +1,12 @@
 ---
 sidebar_label: 拡張機能の使い方
-title: AI Short 拡張機能ガイド - サイドバーとショートカット
-description: AI Short ブラウザ拡張機能をマスター！Alt+Shift+S でプロンプトライブラリを呼び出し。
+title: AI one 拡張機能ガイド - サイドバーとショートカット
+description: AI one ブラウザ拡張機能をマスター！Alt+Shift+S でプロンプトライブラリを呼び出し。
 ---
 
 # ブラウザ拡張機能の使い方
 
-ChatGPT Shortcut は 13 の主要言語をサポートしています。拡張機能の言語はブラウザ環境に応じて自動設定されます。設定ページで手動変更も可能です。
+Chat instructions は 13 の主要言語をサポートしています。拡張機能の言語はブラウザ環境に応じて自動設定されます。設定ページで手動変更も可能です。
 
 ![](/img/docs/extension-settings.png)
 

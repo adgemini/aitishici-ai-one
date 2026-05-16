@@ -1,17 +1,17 @@
 ---
 slug: /
 sidebar_label: Giriş
-title: AI Short - Seçilmiş ChatGPT & AI Prompt Kütüphanesi
-description: AI yanıtlarıyla mı zorlanıyorsunuz? AI Short, ChatGPT, Claude ve daha fazlası için seçilmiş promptlar sunar. Promptları kopyalayın, koleksiyonları yönetin ve verimliliğinizi anında artırın.
+title: AI one - Seçilmiş ChatGPT & AI Prompt Kütüphanesi
+description: AI yanıtlarıyla mı zorlanıyorsunuz? AI one, ChatGPT, Claude ve daha fazlası için seçilmiş promptlar sunar. Promptları kopyalayın, koleksiyonları yönetin ve verimliliğinizi anında artırın.
 ---
 
-# AI Short'a Giriş
+# AI one'a Giriş
 
-AI Short (ChatGPT Shortcut), kullanıcıların farklı senaryolara uygun promptları hızlıca bulmasına yardımcı olan özlü ve kullanımı kolay bir AI prompt listesi sunar.
+AI one (Chat instructions), kullanıcıların farklı senaryolara uygun promptları hızlıca bulmasına yardımcı olan özlü ve kullanımı kolay bir AI prompt listesi sunar.
 
 ## ⚡ 30 Saniyede Hızlı Başlangıç
 
-1. AI Short'u açın
+1. AI one'u açın
 2. İhtiyacınız olan promptu arayın veya göz atın
 3. "Kopyala"ya tıklayın ve herhangi bir AI konuşma modeline yapıştırın
 
@@ -43,14 +43,3 @@ Bu kadar basit! Daha fazla özellik için okumaya devam edin veya [Kullanım Kı
 
 Promptlar internet seçmelerinden, topluluk paylaşımlarından ve [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)'tan alınmaktadır. Size sürekli yeni promptlar ve ilham sunmak için düzenli olarak güncelleme yapıyoruz.
 
-## Topluluğa Katılın
-
-Fikir alışverişi ve geri bildirim için topluluğumuza katılmaya hoş geldiniz:
-
-<a href="https://t.me/aishort_top">
-   <img src="https://img.shields.io/badge/Telegram-Group-blue?logo=telegram&style=for-the-badge" alt="Telegram grubuna katılın" />
-</a>
-
-<a href="https://discord.gg/PZTQfJ4GjX">
-   <img src="https://img.shields.io/discord/1048780149899939881?color=%2385c8c8&label=Discord&logo=discord&style=for-the-badge" alt="Discord'da sohbet edin" />
-</a>

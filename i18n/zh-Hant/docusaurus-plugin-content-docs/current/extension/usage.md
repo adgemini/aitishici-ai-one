@@ -1,12 +1,12 @@
 ---
 sidebar_label: 如何使用瀏覽器擴展
-title: AI Short 擴展使用 | 側邊欄與快捷鍵 Alt+Shift+S
-description: 掌握 AI Short 瀏覽器擴展！啓用側邊欄、Alt+Shift+S 快捷鍵一鍵喚出提示詞庫。
+title: AI one 擴展使用 | 側邊欄與快捷鍵 Alt+Shift+S
+description: 掌握 AI one 瀏覽器擴展！啓用側邊欄、Alt+Shift+S 快捷鍵一鍵喚出提示詞庫。
 ---
 
 # 如何使用瀏覽器擴展？
 
-ChatGPT Shortcut 支持 13 種主流語言，擴展語言將根據你的瀏覽器環境自動設置。你也可以在設置頁面手動更改語言。
+Chat instructions 支持 13 種主流語言，擴展語言將根據你的瀏覽器環境自動設置。你也可以在設置頁面手動更改語言。
 
 ![](/img/docs/extension-settings.png)
 

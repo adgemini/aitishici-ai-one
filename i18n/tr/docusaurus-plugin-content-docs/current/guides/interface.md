@@ -1,12 +1,12 @@
 ---
 sidebar_label: Arayüz Kılavuzu
-title: AI Short Arayüz Kılavuzu | Etiket Filtreleme ve Akıllı Arama
-description: AI Short arayüzünde ustalaşın! Etiket filtreleme ve anahtar kelime araması ile promptları hızlıca bulun, kart ayrıntılarını ve koleksiyon işlemlerini anlayın.
+title: AI one Arayüz Kılavuzu | Etiket Filtreleme ve Akıllı Arama
+description: AI one arayüzünde ustalaşın! Etiket filtreleme ve anahtar kelime araması ile promptları hızlıca bulun, kart ayrıntılarını ve koleksiyon işlemlerini anlayın.
 ---
 
 # Arayüz Kılavuzu
 
-AiShort sayfası, kullanıcılara promptlara göz atmak ve filtrelemek için sezgisel bir arayüz sunar. Sayfa esas olarak etiket alanı, arama alanı ve prompt görüntüleme alanından oluşur.
+AI one sayfası, kullanıcılara promptlara göz atmak ve filtrelemek için sezgisel bir arayüz sunar. Sayfa esas olarak etiket alanı, arama alanı ve prompt görüntüleme alanından oluşur.
 
 ![](/img/docs/interface-home.png)
 
@@ -37,7 +37,7 @@ Anahtar kelime arama işlevi, prompt başlıklarını, açıklamalarını ve iç
 
 Ayrıntı açılır penceresini açmak için bir prompt kartına tıklayın; burada başlığı, açıklamayı, tam prompt içeriğini, notları ve kopyala düğmesini görebilirsiniz.
 
-![](/img/docs/prompt-card.gif)
+![](/img/docs/prompt-card.png)
 
 ### Promptu Kopyala
 

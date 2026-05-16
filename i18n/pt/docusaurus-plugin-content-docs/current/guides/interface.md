@@ -1,12 +1,12 @@
 ---
 sidebar_label: Explicação da Interface
-title: Interface do AI Short - Filtros de Tags e Pesquisa Inteligente
-description: Aprenda a usar a interface do AI Short - Busque prompts por tags e palavras-chave e gerencie seus favoritos.
+title: Interface do AI one - Filtros de Tags e Pesquisa Inteligente
+description: Aprenda a usar a interface do AI one - Busque prompts por tags e palavras-chave e gerencie seus favoritos.
 ---
 
 # Explicação da Interface
 
-A página do AI Short oferece aos usuários uma interface intuitiva para navegar e filtrar prompts. A página consiste principalmente na área de tags, área de pesquisa e área de exibição de prompts.
+A página do AI one oferece aos usuários uma interface intuitiva para navegar e filtrar prompts. A página consiste principalmente na área de tags, área de pesquisa e área de exibição de prompts.
 
 ![](/img/docs/interface-home.png)
 
@@ -37,7 +37,7 @@ A função de pesquisa de palavras-chave suporta a pesquisa por título, descri�
 
 Clique no cartão de prompt para abrir uma janela pop-up com detalhes, mostrando o título, descrição, conteúdo completo do prompt, observações e botão de copiar.
 
-![](/img/docs/prompt-card.gif)
+![](/img/docs/prompt-card.png)
 
 ### Copiar Prompt
 

@@ -1,7 +1,7 @@
 ---
 sidebar_label: Perguntas Frequentes
-title: FAQ AI Short - Otimização de Prompts e Solução de Problemas
-description: Tire suas dúvidas sobre o AI Short - Como melhorar prompts, evitar alucinações da IA e fazer backup de dados.
+title: FAQ AI one - Otimização de Prompts e Solução de Problemas
+description: Tire suas dúvidas sobre o AI one - Como melhorar prompts, evitar alucinações da IA e fazer backup de dados.
 ---
 
 # Perguntas Frequentes

@@ -1,12 +1,12 @@
 ---
 sidebar_label: Hesap
-title: AI Short Hesabı | Google ve Şifresiz Giriş Kılavuzu
-description: AI Short promptlarınıza Google veya şifresiz giriş ile her yerden erişin. Hesap ayarlarınızı yönetin ve verilerinizi saniyeler içinde güvenle kurtarın.
+title: AI one Hesabı | Google ve Şifresiz Giriş Kılavuzu
+description: AI one promptlarınıza Google veya şifresiz giriş ile her yerden erişin. Hesap ayarlarınızı yönetin ve verilerinizi saniyeler içinde güvenle kurtarın.
 ---
 
 # Hesap Yönetimi
 
-AiShort, kişisel verilerinize her zaman erişimi kolaylaştırmak için birden fazla giriş yöntemi sunar.
+AI one, kişisel verilerinize her zaman erişimi kolaylaştırmak için birden fazla giriş yöntemi sunar.
 
 ## Giriş Yöntemleri
 

@@ -1,14 +1,14 @@
 ---
 sidebar_label: Deployment
-title: Deploy AI Short | Vercel, Docker & Cloudflare Setup
-description: Want to host your own AI prompt library? Deploy AI Short easily using Vercel, Docker, or Cloudflare. Includes config tips and auto-update scripts.
+title: Deploy AI one | Vercel, Docker & Cloudflare Setup
+description: Want to host your own AI prompt library? Deploy AI one easily using Vercel, Docker, or Cloudflare. Includes config tips and auto-update scripts.
 ---
 
 # Project Deployment
 
 ## Configuration and Customization
 
-AI Short is an open-source project that allows you to freely modify the website title, description, prompts, and other content according to your needs. Below are common modification options and operation instructions:
+AI one is an open-source project that allows you to freely modify the website title, description, prompts, and other content according to your needs. Below are common modification options and operation instructions:
 
 - **Modify Website Title and Description**
   To change the website's title and description information, please edit the `docusaurus.config.js` configuration file.
@@ -108,9 +108,9 @@ yarn build --locale zh-Hans && yarn build --locale en
 
 ### Vercel Deployment
 
-Click the button below to one-click deploy ChatGPT-Shortcut to the Vercel platform:
+Click the button below to one-click deploy Chat-instructions to the Vercel platform:
 
-[![Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Frockbenben%2FChatGPT-Shortcut%2Ftree%2Fmain)
+[![Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Frockbenben%2FChat-instructions%2Ftree%2Fmain)
 
 **Note**: The free version of Vercel may report an error due to insufficient memory. If you encounter this situation, you can choose to perform single-language deployment. Specific operations are as follows:
 
@@ -122,7 +122,7 @@ Click the button below to one-click deploy ChatGPT-Shortcut to the Vercel platfo
 
 Click the button or link below to Fork this project, then follow the instructions to deploy on Cloudflare Pages:
 
-👉 [Fork this project](https://github.com/rockbenben/ChatGPT-Shortcut/fork)
+👉 [Fork this project](https://github.com/rockbenben/Chat-instructions/fork)
 
 Deployment Steps:
 

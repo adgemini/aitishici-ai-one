@@ -1,20 +1,20 @@
 <h1 align="center">
-    <a href="https://www.aishort.top/">
-        <img src="../static/img/logo.png" alt="AiShort Logo" width="120" height="120" />
+    <a href="https://www.onebiu.cn/">
+        <img src="../static/img/logo.png" alt="AI one Logo" width="120" height="120" />
     </a>
     <br>
-    AiShort (ChatGPT Shortcut) - أداة إدارة أوامر الذكاء الاصطناعي سهلة الاستخدام
+    AI one (Chat instructions) - أداة إدارة أوامر الذكاء الاصطناعي سهلة الاستخدام
 </h1>
 
 <p align="center">
-    <a href="https://github.com/rockbenben/ChatGPT-Shortcut/blob/main/LICENSE">
-        <img src="https://img.shields.io/github/license/rockbenben/ChatGPT-Shortcut?color=blue&label=License" alt="License" />
+    <a href="https://github.com/rockbenben/Chat-instructions/blob/main/LICENSE">
+        <img src="https://img.shields.io/github/license/rockbenben/Chat-instructions?color=blue&label=License" alt="License" />
     </a>
-    <a href="https://github.com/rockbenben/ChatGPT-Shortcut/stargazers">
-        <img src="https://img.shields.io/github/stars/rockbenben/ChatGPT-Shortcut?style=social" alt="GitHub Stars" />
+    <a href="https://github.com/rockbenben/Chat-instructions/stargazers">
+        <img src="https://img.shields.io/github/stars/rockbenben/Chat-instructions?style=social" alt="GitHub Stars" />
     </a>
-    <a href="https://github.com/rockbenben/ChatGPT-Shortcut/releases">
-        <img src="https://img.shields.io/github/v/release/rockbenben/ChatGPT-Shortcut?color=green" alt="Version" />
+    <a href="https://github.com/rockbenben/Chat-instructions/releases">
+        <img src="https://img.shields.io/github/v/release/rockbenben/Chat-instructions?color=green" alt="Version" />
     </a>
     <a href="https://discord.gg/PZTQfJ4GjX">
         <img src="https://img.shields.io/discord/1048780149899939881?color=%2385c8c8&label=Discord&logo=discord&style=flat" alt="Discord" />
@@ -39,22 +39,22 @@
 <a href="./README-bn.md">বাংলা</a>
 </p>
 <p align="center">
-    <em>AiShort (ChatGPT Shortcut) - زيادة الكفاءة والإنتاجية</em>
+    <em>AI one (Chat instructions) - زيادة الكفاءة والإنتاجية</em>
 </p>
 
 ## ⚡ البدء السريع
 
-1. قم بزيارة [aishort.top](https://www.aishort.top/ar/)
+1. قم بزيارة [onebiu.cn](https://www.onebiu.cn/ar/)
 2. ابحث أو تصفح الأمر الذي تحتاجه
 3. انقر على "نسخ" والصقه في أي نموذج ذكاء اصطناعي
 
-![AiShort Interface](../static/img/docs/interface-home.png)
+![AI one Interface](../static/img/docs/interface-home.png)
 
-هذا كل شيء! لمزيد من الميزات، راجع [دليل المستخدم](https://www.aishort.top/ar/docs/guides/getting-started).
+هذا كل شيء! لمزيد من الميزات، راجع [دليل المستخدم](https://www.onebiu.cn/ar/docs/guides/getting-started).
 
-## لماذا AiShort؟
+## لماذا AI one؟
 
-يوفر AiShort (ChatGPT Shortcut) قائمة منسقة من أوامر الذكاء الاصطناعي لمساعدتك في العثور بسرعة على الأوامر المناسبة لأي موقف.
+يوفر AI one (Chat instructions) قائمة منسقة من أوامر الذكاء الاصطناعي لمساعدتك في العثور بسرعة على الأوامر المناسبة لأي موقف.
 
 ### الميزات الأساسية
 
@@ -80,18 +80,18 @@
 
 ## إضافة المتصفح
 
-الوصول إلى أوامر AiShort في أي وقت. يدعم Chrome وEdge وFirefox مع شريط جانبي عبر `Alt + Shift + S`.
+الوصول إلى أوامر AI one في أي وقت. يدعم Chrome وEdge وFirefox مع شريط جانبي عبر `Alt + Shift + S`.
 
 - **Chrome**: [Chrome Web Store](https://chrome.google.com/webstore/detail/chatgpt-shortcut/blcgeoojgdpodnmnhfpohphdhfncblnj)
 - **Edge**: [Microsoft Edge Addons](https://microsoftedge.microsoft.com/addons/detail/chatgpt-shortcut/hnggpalhfjmdhhmgfjpmhlfilnbmjoin)
 - **Firefox**: [Firefox Add-ons](https://addons.mozilla.org/addon/chatgpt-shortcut/)
-- **GitHub**: [Releases](https://github.com/rockbenben/ChatGPT-Shortcut/releases/latest)
+- **GitHub**: [Releases](https://github.com/rockbenben/Chat-instructions/releases/latest)
 
 ## النشر
 
-انشر نسختك الخاصة عبر Vercel أو Cloudflare Pages أو Docker أو محلياً. راجع [دليل النشر](https://www.aishort.top/ar/docs/deploy).
+انشر نسختك الخاصة عبر Vercel أو Cloudflare Pages أو Docker أو محلياً. راجع [دليل النشر](https://www.onebiu.cn/ar/docs/deploy).
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Frockbenben%2FChatGPT-Shortcut%2Ftree%2Fmain)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Frockbenben%2FChat-instructions%2Ftree%2Fmain)
 
 ## المجتمع
 

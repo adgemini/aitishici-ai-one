@@ -10,7 +10,7 @@ Firefox uzantısını kullanmadan önce, aşağıdaki iki adımı izleyerek kuru
 
 ## 1. Uzantıyı Sabitleyin ve Ayarlara Erişin
 
-İlk olarak, Firefox araç çubuğunda "ChatGPT Shortcut Uzantısını Sabitle" (Araç Çubuğuna Sabitle) seçeneğini seçin. Ardından, Uzantı Merkezi'ne girin, ChatGPT Shortcut uzantı girişini bulun ve "Seçenekler"i seçin. Uzantının ayarlar arayüzüne girin. Belirli adımlar aşağıda gösterilmiştir:
+İlk olarak, Firefox araç çubuğunda "Chat instructions Uzantısını Sabitle" (Araç Çubuğuna Sabitle) seçeneğini seçin. Ardından, Uzantı Merkezi'ne girin, Chat instructions uzantı girişini bulun ve "Seçenekler"i seçin. Uzantının ayarlar arayüzüne girin. Belirli adımlar aşağıda gösterilmiştir:
 
 ![Firefox ayarları](https://img.newzone.top/2023-12-25-05-51-47.png?imageMogr2/format/webp)
 

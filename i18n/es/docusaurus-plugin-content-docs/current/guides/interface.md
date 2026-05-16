@@ -1,12 +1,12 @@
 ---
 sidebar_label: Guía de Interfaz
 title: Guía de Interfaz - Búsqueda y Filtros Avanzados
-description: Domina AI Short. Aprende a filtrar por etiquetas y usar la búsqueda inteligente para encontrar el prompt perfecto. en segundos.
+description: Domina AI one. Aprende a filtrar por etiquetas y usar la búsqueda inteligente para encontrar el prompt perfecto. en segundos.
 ---
 
 # Guía de Interfaz
 
-La página de AiShort proporciona a los usuarios una interfaz intuitiva para navegar y filtrar prompts. La página consta principalmente del área de etiquetas, área de búsqueda y área de visualización de prompts.
+La página de AI one proporciona a los usuarios una interfaz intuitiva para navegar y filtrar prompts. La página consta principalmente del área de etiquetas, área de búsqueda y área de visualización de prompts.
 
 ![](/img/docs/interface-home.png)
 
@@ -37,7 +37,7 @@ La función de búsqueda por palabras clave soporta la búsqueda de títulos, de
 
 Haz clic en una tarjeta de prompt para abrir la ventana emergente de detalles, donde puedes ver el título, descripción, contenido completo del prompt, observaciones y botón de copiar.
 
-![](/img/docs/prompt-card.gif)
+![](/img/docs/prompt-card.png)
 
 ### Copiar Prompt
 

@@ -10,7 +10,7 @@ Antes de usar la extensión de Firefox, se recomienda seguir estos dos pasos par
 
 ## 1. Anclar Extensión y Configuración de Acceso
 
-Primero, selecciona "Anclar extensión ChatGPT Shortcut" (Pin to Toolbar) en la barra de herramientas de Firefox. Luego, ingresa al Centro de Extensiones, encuentra la entrada de la extensión ChatGPT Shortcut y selecciona "Opciones" (Options). Ingresa a la interfaz de configuración de la extensión. Los pasos específicos se muestran a continuación:
+Primero, selecciona "Anclar extensión Chat instructions" (Pin to Toolbar) en la barra de herramientas de Firefox. Luego, ingresa al Centro de Extensiones, encuentra la entrada de la extensión Chat instructions y selecciona "Opciones" (Options). Ingresa a la interfaz de configuración de la extensión. Los pasos específicos se muestran a continuación:
 
 ![Firefox settings](https://img.newzone.top/2023-12-25-05-51-47.png?imageMogr2/format/webp)
 

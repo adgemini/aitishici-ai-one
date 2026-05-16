@@ -17,7 +17,7 @@ Oben auf der Startseite befinden sich Schaltflächen zum Wechseln der Ansicht, d
 
 Der Browser merkt sich automatisch Ihre Ansichtsauswahl und wechselt bei Ihrem nächsten Besuch zur letzten Ansicht.
 
-![Ansicht Meine Sammlung](/img/docs/my-collection-view.gif)
+![Ansicht Meine Sammlung](/img/docs/my-collection-view.png)
 
 ## Zur Sammlung hinzufügen
 
@@ -63,7 +63,7 @@ Das Anpassen der Kartenreihenfolge durch Drag-and-Drop wird in der Ansicht "Mein
 
 Die Sortierfunktion ist nur in der Ansicht "Meine Sammlung" verfügbar.
 
-![Drag-and-Drop-Sortierung](/img/docs/my-collection-drag.gif)
+![Drag-and-Drop-Sortierung](/img/docs/my-collection-drag.png)
 
 ## Verwandte Dokumentation
 

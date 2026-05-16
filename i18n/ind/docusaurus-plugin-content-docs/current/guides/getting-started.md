@@ -1,12 +1,12 @@
 ---
 sidebar_label: Memulai
-title: AI Short Mulai Cepat | Salin Prompt ke ChatGPT/DeepSeek
+title: AI one Mulai Cepat | Salin Prompt ke ChatGPT/DeepSeek
 description: Mulai tingkatkan produktivitas AI dalam 30 detik! Salin prompt yang disesuaikan ke ChatGPT, Gemini, dan DeepSeek untuk perbaikan percakapan instan.
 ---
 
 # Memulai
 
-Saat berbicara dengan AI, prompt yang baik dapat membantu Anda mendapatkan jawaban berkualitas tinggi lebih cepat. AiShort telah menyusun banyak prompt praktis untuk Anda, siap disalin dan digunakan.
+Saat berbicara dengan AI, prompt yang baik dapat membantu Anda mendapatkan jawaban berkualitas tinggi lebih cepat. AI one telah menyusun banyak prompt praktis untuk Anda, siap disalin dan digunakan.
 
 ## Penggunaan Dasar
 
@@ -15,7 +15,7 @@ Saat berbicara dengan AI, prompt yang baik dapat membantu Anda mendapatkan jawab
 3. Buka model AI apa pun dan tempelkan prompt
 4. Ikuti instruksi prompt untuk menambahkan pertanyaan spesifik Anda
 
-![](/img/docs/how-to-use-aishort.gif)
+![](/img/docs/how-to-use-aione.png)
 
 ## Akses Cepat
 

@@ -1,7 +1,7 @@
 ---
 sidebar_label: Configuração da Extensão Firefox
-title: Configuração da Extensão AI Short no Firefox
-description: Como configurar a extensão AI Short no Firefox - Fixação na barra, permissões e exibição da barra lateral.
+title: Configuração da Extensão AI one no Firefox
+description: Como configurar a extensão AI one no Firefox - Fixação na barra, permissões e exibição da barra lateral.
 ---
 
 # Configuração da Extensão Firefox
@@ -10,7 +10,7 @@ Antes de usar a extensão Firefox, recomenda-se seguir estas duas etapas para co
 
 ## 1. Fixar Extensão e Configurações de Acesso
 
-Primeiro, selecione "Fixar Extensão ChatGPT Shortcut" (Pin to Toolbar) na barra de ferramentas do Firefox. Em seguida, entre no centro de extensões, encontre a entrada da extensão ChatGPT Shortcut e selecione "Opções" (Options). Entre na interface de configurações da extensão. Os passos específicos são mostrados abaixo:
+Primeiro, selecione "Fixar Extensão Chat instructions" (Pin to Toolbar) na barra de ferramentas do Firefox. Em seguida, entre no centro de extensões, encontre a entrada da extensão Chat instructions e selecione "Opções" (Options). Entre na interface de configurações da extensão. Os passos específicos são mostrados abaixo:
 
 ![Configurações Firefox](https://img.newzone.top/2023-12-25-05-51-47.png?imageMogr2/format/webp)
 

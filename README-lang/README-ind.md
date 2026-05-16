@@ -1,20 +1,20 @@
 <h1 align="center">
-    <a href="https://www.aishort.top/">
-        <img src="../static/img/logo.png" alt="AiShort Logo" width="120" height="120" />
+    <a href="https://www.onebiu.cn/">
+        <img src="../static/img/logo.png" alt="AI one Logo" width="120" height="120" />
     </a>
     <br>
-    AiShort (ChatGPT Shortcut) - Alat Manajemen Prompt AI yang Mudah Digunakan
+    AI one (Chat instructions) - Alat Manajemen Prompt AI yang Mudah Digunakan
 </h1>
 
 <p align="center">
-    <a href="https://github.com/rockbenben/ChatGPT-Shortcut/blob/main/LICENSE">
-        <img src="https://img.shields.io/github/license/rockbenben/ChatGPT-Shortcut?color=blue&label=License" alt="License" />
+    <a href="https://github.com/rockbenben/Chat-instructions/blob/main/LICENSE">
+        <img src="https://img.shields.io/github/license/rockbenben/Chat-instructions?color=blue&label=License" alt="License" />
     </a>
-    <a href="https://github.com/rockbenben/ChatGPT-Shortcut/stargazers">
-        <img src="https://img.shields.io/github/stars/rockbenben/ChatGPT-Shortcut?style=social" alt="GitHub Stars" />
+    <a href="https://github.com/rockbenben/Chat-instructions/stargazers">
+        <img src="https://img.shields.io/github/stars/rockbenben/Chat-instructions?style=social" alt="GitHub Stars" />
     </a>
-    <a href="https://github.com/rockbenben/ChatGPT-Shortcut/releases">
-        <img src="https://img.shields.io/github/v/release/rockbenben/ChatGPT-Shortcut?color=green" alt="Version" />
+    <a href="https://github.com/rockbenben/Chat-instructions/releases">
+        <img src="https://img.shields.io/github/v/release/rockbenben/Chat-instructions?color=green" alt="Version" />
     </a>
     <a href="https://discord.gg/PZTQfJ4GjX">
         <img src="https://img.shields.io/discord/1048780149899939881?color=%2385c8c8&label=Discord&logo=discord&style=flat" alt="Discord" />
@@ -39,22 +39,22 @@ Indonesia |
 <a href="./README-bn.md">বাংলা</a>
 </p>
 <p align="center">
-    <em>AiShort (ChatGPT Shortcut) - Maksimalkan Efisiensi dan Produktivitas Anda</em>
+    <em>AI one (Chat instructions) - Maksimalkan Efisiensi dan Produktivitas Anda</em>
 </p>
 
 ## ⚡ Mulai Cepat
 
-1. Kunjungi [aishort.top](https://www.aishort.top/ind/)
+1. Kunjungi [onebiu.cn](https://www.onebiu.cn/ind/)
 2. Cari atau telusuri prompt yang Anda butuhkan
 3. Klik "Copy" dan tempel ke model AI apa pun
 
-![AiShort Interface](../static/img/docs/interface-home.png)
+![AI one Interface](../static/img/docs/interface-home.png)
 
-Semudah itu! Untuk fitur lebih lanjut, baca terus atau periksa [Panduan Pengguna](https://www.aishort.top/ind/docs/guides/getting-started).
+Semudah itu! Untuk fitur lebih lanjut, baca terus atau periksa [Panduan Pengguna](https://www.onebiu.cn/ind/docs/guides/getting-started).
 
-## Mengapa Menggunakan AiShort?
+## Mengapa Menggunakan AI one?
 
-AiShort (ChatGPT Shortcut) menyediakan daftar prompt AI pilihan, membantu Anda menemukan prompt dengan cepat untuk skenario apa pun.
+AI one (Chat instructions) menyediakan daftar prompt AI pilihan, membantu Anda menemukan prompt dengan cepat untuk skenario apa pun.
 
 ### Fitur Utama
 
@@ -80,20 +80,20 @@ AiShort (ChatGPT Shortcut) menyediakan daftar prompt AI pilihan, membantu Anda m
 
 ## Ekstensi Browser
 
-Akses prompt AiShort kapan saja dengan ekstensi browser kami. Mendukung Chrome, Edge, dan Firefox dengan sidebar yang terbuka dengan `Alt + Shift + S`.
+Akses prompt AI one kapan saja dengan ekstensi browser kami. Mendukung Chrome, Edge, dan Firefox dengan sidebar yang terbuka dengan `Alt + Shift + S`.
 
 - **Chrome**: [Chrome Web Store](https://chrome.google.com/webstore/detail/chatgpt-shortcut/blcgeoojgdpodnmnhfpohphdhfncblnj)
 - **Edge**: [Microsoft Edge Addons](https://microsoftedge.microsoft.com/addons/detail/chatgpt-shortcut/hnggpalhfjmdhhmgfjpmhlfilnbmjoin)
 - **Firefox**: [Firefox Add-ons](https://addons.mozilla.org/addon/chatgpt-shortcut/)
-- **GitHub**: [Rilis](https://github.com/rockbenben/ChatGPT-Shortcut/releases/latest)
+- **GitHub**: [Rilis](https://github.com/rockbenben/Chat-instructions/releases/latest)
 
-Kami juga menawarkan skrip Tampermonkey [ChatGPT Shortcut Anywhere](https://greasyfork.org/scripts/482907-chatgpt-shortcut-anywhere) untuk menggunakan sidebar AiShort di situs web mana pun.
+Kami juga menawarkan skrip Tampermonkey [Chat instructions Anywhere](https://greasyfork.org/scripts/482907-chatgpt-shortcut-anywhere) untuk menggunakan sidebar AI one di situs web mana pun.
 
 ## Deploy
 
-Deploy instance Anda sendiri melalui Vercel, Cloudflare Pages, Docker, atau secara lokal. Lihat [Panduan Deployment](https://www.aishort.top/ind/docs/deploy).
+Deploy instance Anda sendiri melalui Vercel, Cloudflare Pages, Docker, atau secara lokal. Lihat [Panduan Deployment](https://www.onebiu.cn/ind/docs/deploy).
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Frockbenben%2FChatGPT-Shortcut%2Ftree%2Fmain)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Frockbenben%2FChat-instructions%2Ftree%2Fmain)
 
 ## Sinkronisasi Pembaruan
 

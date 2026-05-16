@@ -1,17 +1,17 @@
 ---
 slug: /
 sidebar_label: Giới thiệu
-title: AI Short - Thư viện Prompt ChatGPT & AI được tuyển chọn
-description: Bạn gặp khó khăn với câu trả lời AI? AI Short cung cấp các prompt được tuyển chọn cho ChatGPT, Claude và nhiều hơn nữa. Sao chép prompt, quản lý bộ sưu tập và tăng năng suất ngay lập tức.
+title: AI one - Thư viện Prompt ChatGPT & AI được tuyển chọn
+description: Bạn gặp khó khăn với câu trả lời AI? AI one cung cấp các prompt được tuyển chọn cho ChatGPT, Claude và nhiều hơn nữa. Sao chép prompt, quản lý bộ sưu tập và tăng năng suất ngay lập tức.
 ---
 
-# Giới thiệu về AI Short
+# Giới thiệu về AI one
 
-AI Short (ChatGPT Shortcut) cung cấp danh sách prompt AI ngắn gọn và dễ sử dụng để giúp người dùng nhanh chóng tìm thấy các prompt phù hợp với các tình huống khác nhau.
+AI one (Chat instructions) cung cấp danh sách prompt AI ngắn gọn và dễ sử dụng để giúp người dùng nhanh chóng tìm thấy các prompt phù hợp với các tình huống khác nhau.
 
 ## ⚡ Bắt đầu nhanh trong 30 giây
 
-1. Mở AI Short
+1. Mở AI one
 2. Tìm kiếm hoặc duyệt prompt bạn cần
 3. Nhấp "Sao chép" và dán vào bất kỳ mô hình hội thoại AI nào
 
@@ -43,14 +43,3 @@ AI Short (ChatGPT Shortcut) cung cấp danh sách prompt AI ngắn gọn và d�
 
 Các prompt được lấy từ các lựa chọn trên internet, chia sẻ cộng đồng và [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts). Chúng tôi cập nhật thường xuyên để mang đến cho bạn các prompt và cảm hứng mới liên tục.
 
-## Tham gia cộng đồng
-
-Chào mừng bạn tham gia cộng đồng của chúng tôi để trao đổi ý tưởng và phản hồi:
-
-<a href="https://t.me/aishort_top">
-   <img src="https://img.shields.io/badge/Telegram-Group-blue?logo=telegram&style=for-the-badge" alt="tham gia nhóm Telegram" />
-</a>
-
-<a href="https://discord.gg/PZTQfJ4GjX">
-   <img src="https://img.shields.io/discord/1048780149899939881?color=%2385c8c8&label=Discord&logo=discord&style=for-the-badge" alt="trò chuyện trên Discord" />
-</a>

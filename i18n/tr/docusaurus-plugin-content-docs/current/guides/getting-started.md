@@ -1,12 +1,12 @@
 ---
 sidebar_label: Başlarken
-title: AI Short Hızlı Başlangıç | Promptları ChatGPT/DeepSeek'e Kopyalayın
+title: AI one Hızlı Başlangıç | Promptları ChatGPT/DeepSeek'e Kopyalayın
 description: 30 saniyede AI verimliliğinizi artırmaya başlayın! Özelleştirilmiş promptları ChatGPT, Gemini ve DeepSeek'e kopyalayarak anında konuşma iyileştirmeleri sağlayın.
 ---
 
 # Başlarken
 
-AI ile konuşurken, iyi promptlar kaliteli yanıtları daha hızlı almanıza yardımcı olabilir. AiShort, sizin için kopyalamaya ve kullanmaya hazır çok sayıda pratik prompt derlemiştir.
+AI ile konuşurken, iyi promptlar kaliteli yanıtları daha hızlı almanıza yardımcı olabilir. AI one, sizin için kopyalamaya ve kullanmaya hazır çok sayıda pratik prompt derlemiştir.
 
 ## Temel Kullanım
 
@@ -15,7 +15,7 @@ AI ile konuşurken, iyi promptlar kaliteli yanıtları daha hızlı almanıza ya
 3. Herhangi bir AI modelini açın ve promptu yapıştırın
 4. Promptun talimatlarını izleyerek özel sorunuzu ekleyin
 
-![](/img/docs/how-to-use-aishort.gif)
+![](/img/docs/how-to-use-aione.png)
 
 ## Hızlı Erişim
 

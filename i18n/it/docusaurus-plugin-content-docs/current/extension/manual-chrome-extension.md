@@ -1,16 +1,16 @@
 ---
 sidebar_label: Guida Installazione CRX Chrome
-title: Installazione Manuale CRX Chrome - Estensione AI Short
-description: Come installare il file CRX di AI Short su Chrome - Guida passo-passo per la modalità sviluppatore e risoluzione problemi.
+title: Installazione Manuale CRX Chrome - Estensione AI one
+description: Come installare il file CRX di AI one su Chrome - Guida passo-passo per la modalità sviluppatore e risoluzione problemi.
 ---
 
 # Guida Installazione Locale Estensione CRX Chrome
 
 ## Scarica Pacchetto CRX
 
-Scarica il pacchetto di installazione crx di ChatGPT Shortcut (ChatGPT_Shortcut-crx-3.x.x.zip) e decomprimilo (il file crx è dentro la cartella decompressa).
+Scarica il pacchetto di installazione crx di Chat instructions (ChatGPT_Shortcut-crx-3.x.x.zip) e decomprimilo (il file crx è dentro la cartella decompressa).
 
-- **GitHub**: [GitHub Release](https://github.com/rockbenben/ChatGPT-Shortcut/releases/latest)
+- **GitHub**: [GitHub Release](https://github.com/rockbenben/Chat-instructions/releases/latest)
 - **Download Cina**: [Alist Drive](https://alist.newzone.top:9003/apps/ChatGPT%20Shortcut%20Extension); [Lanzou Cloud](https://wwva.lanzouq.com/b01lsc9vi), password: 1qow
 
 ![](https://img.newzone.top/2024-08-12-21-47-10.png?imageMogr2/format/webp)
@@ -29,7 +29,7 @@ chrome://extensions
 
 ## Installa Estensione
 
-Installa l'estensione ChatGPT Shortcut (Nota ⚠️: Devi trascinare il file .crx, NON cliccare su "Carica estensione non pacchettizzata")
+Installa l'estensione Chat instructions (Nota ⚠️: Devi trascinare il file .crx, NON cliccare su "Carica estensione non pacchettizzata")
 
 ![](https://img.newzone.top/2024-08-12-22-16-38.png?imageMogr2/format/webp)
 

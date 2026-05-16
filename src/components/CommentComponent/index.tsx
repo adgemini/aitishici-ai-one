@@ -25,7 +25,7 @@ const CommentComponent: React.FC<CommentComponentProps> = ({ actions, author, av
   const contentDom = (
     <div style={{ display: "flex", flexDirection: "column", flex: 1, minWidth: 0 }}>
       <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginBottom: token.marginXS }}>
-        <Text strong style={{ fontSize: 14, fontWeight: 500 }}>{author || "AI Short"}</Text>
+        <Text strong style={{ fontSize: 14, fontWeight: 500 }}>{author || "AI one"}</Text>
         <Text type="secondary" style={{ fontSize: 11.5, fontFamily: "var(--site-font-mono)", fontVariantNumeric: "tabular-nums" }}>
           {datetime}
         </Text>

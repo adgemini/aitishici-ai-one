@@ -2,7 +2,7 @@ import { translate } from "@docusaurus/Translate";
 
 // 站点品牌名，所有 schema.org / SEO 上下文使用（用于 author / publisher / breadcrumb 等）
 // 不通过 translate()——品牌名在所有语言保持一致
-export const SITE_NAME = "AiShort";
+export const SITE_NAME = "AI one";
 
 export const DEFAULT_FAVORITE_IDS = [2, 209, 251];
 export const DEFAULT_IDS = [2, 185, 209, 251, 197, 109, 20, 1];
@@ -29,21 +29,21 @@ export const SLOGAN = translate({
 export const SUPPORTED_AI_TOOLS = ["ChatGPT", "DeepSeek", "Claude", "Gemini"];
 export const TITLE = translate({
   id: "homepage.title",
-  message: "AiShort - AI提示词库 | 精选Prompt模板，即刻提升AI效率",
+  message: "AI one - AI提示词库 | 精选Prompt模板，即刻提升AI效率",
 });
 export const DESCRIPTION = translate({
   id: "homepage.description",
-  message: "AI总是答非所问？AiShort收录论文写作、编程、翻译等场景的实用Prompt模板，一键复制即可让AI精准理解指令，工作效率翻倍！",
+  message: "AI总是答非所问？AI one收录论文写作、编程、翻译等场景的实用Prompt模板，一键复制即可让AI精准理解指令，工作效率翻倍！",
 });
 
 // community-prompts
 export const COMMU_TITLE = translate({
   id: "community.title",
-  message: "AI提示词社区 | 发现与分享优质Prompt - AiShort创作平台",
+  message: "AI提示词社区 | 发现与分享优质Prompt - AI one创作平台",
 });
 export const COMMU_DESCRIPTION = translate({
   id: "community.description",
-  message: "想要更多实战验证的AI提示词？加入AiShort社区，发现用户分享的实用模板，交流优化技巧，共建高质量Prompt资源库。",
+  message: "想要更多实战验证的AI提示词？加入AI one社区，发现用户分享的实用模板，交流优化技巧，共建高质量Prompt资源库。",
 });
 
 export const SUPPORTED_LANGUAGES = ["zh-Hans", "en", "zh-Hant", "ja", "ko", "es", "pt", "hi", "ind", "vi", "th", "fr", "de", "it", "ru", "ar", "tr", "bn"];

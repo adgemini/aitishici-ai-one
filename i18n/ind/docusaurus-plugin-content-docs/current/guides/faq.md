@@ -1,6 +1,6 @@
 ---
 sidebar_label: FAQ
-title: FAQ AI Short | Optimasi Prompt & Memperbaiki Halusinasi AI
+title: FAQ AI one | Optimasi Prompt & Memperbaiki Halusinasi AI
 description: AI memberikan jawaban salah? Pelajari cara memperbaiki masalah prompt, menghindari "halusinasi" AI, dan mengamankan data Anda dengan panduan lengkap kami.
 ---
 

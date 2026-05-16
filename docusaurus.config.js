@@ -8,7 +8,7 @@ import { themes as prismThemes } from "prism-react-renderer";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "AiShort - Advanced AI Agent & Prompt Platform | Build, Share, and Multiply Productivity with One Click",
+  title: "AI one - Advanced AI Agent & Prompt Platform | Build, Share, and Multiply Productivity with One Click",
   // tagline: '方便中文使用 ChatGPT 快捷指令',
   favicon: "img/favicon.ico",
 
@@ -18,7 +18,7 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: "https://www.aishort.top",
+  url: "https://www.onebiu.cn",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
@@ -26,7 +26,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "rockbenben", // Usually your GitHub org/user name.
-  projectName: "ChatGPT-Shortcut", // Usually your repo name.
+  projectName: "Chat-instructions", // Usually your repo name.
 
   onBrokenLinks: "throw",
 
@@ -94,7 +94,7 @@ const config = {
       // Replace with your project's social card
       image: "img/logo.png",
       // 全局 meta 标签（Docusaurus 默认不加 og:site_name，Facebook/LinkedIn 分享卡片需要）
-      metadata: [{ property: "og:site_name", content: "AiShort" }],
+      metadata: [{ property: "og:site_name", content: "AI one" }],
       // autocorrect: false,
       colorMode: {
         defaultMode: "dark",
@@ -103,10 +103,10 @@ const config = {
       },
       navbar: {
         hideOnScroll: true,
-        title: "AI Short",
+        title: "AI one",
         logo: {
-          alt: "ChatGPT Shortcuts",
-          src: "img/logo.svg",
+          alt: "Chat instructions",
+          src: "img/logo.png",
           width: 32,
           height: 32,
         },
@@ -126,10 +126,6 @@ const config = {
             label: "应用工具",
             position: "left",
             items: [
-              {
-                label: "脚本扩展",
-                to: "/docs/extension",
-              },
               {
                 label: "ToolsByAI",
                 href: "https://tools.newzone.top/",
@@ -160,38 +156,10 @@ const config = {
           },
           // remove the language dropdown from the navbar (if you only have one language)
           { type: "localeDropdown", position: "right" },
-          {
-            type: "dropdown",
-            label: "支持",
-            position: "right",
-            items: [
-              {
-                label: "Telegram",
-                href: "https://t.me/aishort_top",
-                className: "header-tg-link",
-              },
-              {
-                label: "Discord",
-                href: "https://discord.gg/PZTQfJ4GjX",
-                className: "header-discord-link",
-              },
-              {
-                label: "QQ 群",
-                href: "https://img.newzone.top/qrcode/qq1092926837.jpg?imageMogr2/format/webp",
-                className: "header-qq-link",
-              },
-            ],
-          },
-          {
-            title: "GitHub",
-            href: "https://github.com/rockbenben/ChatGPT-Shortcut",
-            position: "right",
-            className: "header-github-link",
-          },
         ],
       },
       footer: {
-        copyright: `Copyright © ${new Date().getFullYear()} AiShort (ChatGPT Shortcut) · 用户内容仅代表作者本人`,
+        copyright: `Copyright © ${new Date().getFullYear()} AI one (Chat instructions) · 用户内容仅代表作者本人`,
       },
       prism: {
         theme: prismThemes.github,

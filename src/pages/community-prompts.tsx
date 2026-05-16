@@ -19,7 +19,6 @@ import { PromptCardSkeleton } from "@site/src/components/PromptCardSkeleton";
 import { primeCacheFromSnapshot, communitySnapshot, COMMUNITY_PAGE_SIZE, type CommunitySortField, type CommunityPrompt } from "@site/src/utils/snapshotPrime";
 const PromptDetailModal = React.lazy(() => import("@site/src/components/PromptDetailModal").then((m) => ({ default: m.PromptDetailModal })));
 
-const ShareButtons = React.lazy(() => import("@site/src/components/ShareButtons"));
 // LoginComponent (520 行 + antd Form/Card/Input) 仅当未登录用户打开登录 Modal 才渲染
 const LoginComponent = React.lazy(() => import("@site/src/components/user/login"));
 
@@ -97,8 +96,6 @@ const CommunityPrompts = () => {
   const [searchTerm, setSearchTerm] = useState("");
   const [modalOpen, setModalOpen] = useState(false);
   const [modalData, setModalData] = useState<any>(null);
-  // 直接读 window.location.href，随路由变化自然更新；避免旧方案的 useMemo 空依赖导致 share link 停留在初次 URL
-  const ShareUrl = typeof window !== "undefined" ? window.location.href : "";
 
   // useState 已经直接用 initialSnapshot seed 进 state；数据 useEffect 第一次跑时
   // state 跟 snapshot 完全一致，重复 setUserPrompts 只会触发一次无意义的 parent re-render
@@ -356,11 +353,7 @@ const CommunityPrompts = () => {
                 <PromptDetailModal open={modalOpen} onCancel={() => setModalOpen(false)} data={modalData} />
               </Suspense>
             )}
-            <Suspense fallback={null}>
-              <ShareButtons shareUrl={ShareUrl} title={COMMU_TITLE} popOver={false} />
-            </Suspense>
-            {/* BackTop 上推 60px，避免与 ShareButtons FloatButton.Group（默认 bottom=40）重叠 */}
-            <FloatButton.BackTop style={{ bottom: 100 }} />
+            <FloatButton.BackTop />
           </div>
         </section>
       </main>

@@ -1,6 +1,6 @@
 ---
 sidebar_label: FAQ
-title: FAQ AI Short - Optimisation et Hallucinations
+title: FAQ AI one - Optimisation et Hallucinations
 description: Résolvez les problèmes courants d'IA. Apprenez à optimiser vos prompts, éviter les hallucinations et sauvegarder vos données.
 ---
 

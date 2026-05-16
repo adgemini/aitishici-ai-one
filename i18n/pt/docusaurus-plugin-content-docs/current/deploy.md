@@ -1,14 +1,14 @@
 ---
 sidebar_label: Implantação
-title: Implantação do AI Short - Guia Vercel, Docker e Cloudflare
-description: Implante o AI Short facilmente - Suporte a Vercel, Docker e Cloudflare. Guia de configuração e atualizações automáticas.
+title: Implantação do AI one - Guia Vercel, Docker e Cloudflare
+description: Implante o AI one facilmente - Suporte a Vercel, Docker e Cloudflare. Guia de configuração e atualizações automáticas.
 ---
 
 # Implantação do Projeto
 
 ## Configuração e Personalização
 
-O AI Short é um projeto de código aberto, permitindo que você modifique o título, descrição e prompts do site conforme suas necessidades. Abaixo estão as opções de modificação e instruções comuns:
+O AI one é um projeto de código aberto, permitindo que você modifique o título, descrição e prompts do site conforme suas necessidades. Abaixo estão as opções de modificação e instruções comuns:
 
 - **Modificar Título e Descrição do Site**
   Para alterar o título e a descrição do site, edite o arquivo de configuração `docusaurus.config.js`.
@@ -108,9 +108,9 @@ yarn build --locale zh-Hans && yarn build --locale en
 
 ### Implantação Vercel
 
-Clique no botão abaixo para implantar o ChatGPT-Shortcut na plataforma Vercel com um clique:
+Clique no botão abaixo para implantar o Chat-instructions na plataforma Vercel com um clique:
 
-[![Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Frockbenben%2FChatGPT-Shortcut%2Ftree%2Fmain)
+[![Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Frockbenben%2FChat-instructions%2Ftree%2Fmain)
 
 **Nota**: A versão gratuita da Vercel pode falhar devido à memória insuficiente. Se encontrar essa situação, você pode optar pela implantação de idioma único. As operações específicas são as seguintes:
 
@@ -122,7 +122,7 @@ Clique no botão abaixo para implantar o ChatGPT-Shortcut na plataforma Vercel c
 
 Clique no botão ou link abaixo, faça um Fork deste projeto e siga as instruções para implantar no Cloudflare Pages:
 
-👉 [Fork deste projeto](https://github.com/rockbenben/ChatGPT-Shortcut/fork)
+👉 [Fork deste projeto](https://github.com/rockbenben/Chat-instructions/fork)
 
 Passos de Implantação:
 

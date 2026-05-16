@@ -61,7 +61,7 @@ const ShowcaseHeader: React.FC = () => (
           marginBottom: 8,
           color: "var(--ifm-color-content)",
         }}>
-        AI Short
+        AI one
       </Title>
       <p style={{ fontSize: 18, maxWidth: 560, margin: "0 auto 4px", lineHeight: 1.55, color: "var(--ifm-color-content-secondary)" }}>{SLOGAN}</p>
       <div
@@ -874,7 +874,7 @@ export default function Showcase(): React.ReactElement {
   // SSR 安全的站点级 schema.org
   // - WebSite + SearchAction：让 ChatGPT/Perplexity/Google 在 SERP 直接激活站内搜索框
   // - Organization + sameAs：建立知识图谱实体关联（GitHub repo）
-  // - SoftwareApplication：让 LLM 在"工具推荐"答案中考虑 AiShort
+  // - SoftwareApplication：让 LLM 在"工具推荐"答案中考虑 AI one
   // - FAQPage：让 LLM 直接抓取常见问答
   const localePrefix = i18n.currentLocale && i18n.currentLocale !== i18n.defaultLocale ? `/${i18n.currentLocale}` : "";
   const homeUrl = `${siteConfig.url}${localePrefix}/`;
@@ -884,15 +884,15 @@ export default function Showcase(): React.ReactElement {
   // 通过 translate() 在 build 时按 locale 渲染
   const faqs = [
     {
-      q: translate({ id: "faq.q1", message: 'AiShort 是什么？为什么叫 "ChatGPT Shortcut"？' }),
+      q: translate({ id: "faq.q1", message: 'AI one 是什么？为什么叫 "Chat instructions"？' }),
       a: translate({
         id: "faq.a1",
         message:
-          "AiShort（项目原名 ChatGPT Shortcut）是一个开源的 AI 提示词管理工具，提供精选的提示词列表帮你快速找到适用于不同场景的指令。项目最初聚焦 ChatGPT，所以代码仓库名沿用 ChatGPT-Shortcut；目前已支持所有主流大语言模型（含 Claude、Gemini、DeepSeek、Kimi 等），名字保留是出于历史延续。",
+          "AI one（项目原名 Chat instructions）是一个开源的 AI 提示词管理工具，提供精选的提示词列表帮你快速找到适用于不同场景的指令。项目最初聚焦 ChatGPT，所以代码仓库名沿用 Chat-instructions；目前已支持所有主流大语言模型（含 Claude、Gemini、DeepSeek、Kimi 等），名字保留是出于历史延续。",
       }),
     },
     {
-      q: translate({ id: "faq.q2", message: "怎么用 AiShort？" }),
+      q: translate({ id: "faq.q2", message: "怎么用 AI one？" }),
       a: translate({
         id: "faq.a2",
         message: "三步完成：(1) 在首页搜索或按标签浏览所需提示词；(2) 点击卡片「复制」按钮；(3) 粘贴到任意 AI 对话工具，按提示词指引补充你的具体问题。",
@@ -907,22 +907,22 @@ export default function Showcase(): React.ReactElement {
       }),
     },
     {
-      q: translate({ id: "faq.q4", message: "AiShort 跟 Awesome ChatGPT Prompts 等开源提示词集有什么区别？" }),
+      q: translate({ id: "faq.q4", message: "AI one 跟 Awesome ChatGPT Prompts 等开源提示词集有什么区别？" }),
       a: translate({
         id: "faq.a4",
         message:
-          "Awesome ChatGPT Prompts 是 AiShort 的内容来源之一，但 AiShort 在其基础上提供了：图形化浏览界面与标签筛选、18 种语言翻译、个人提示词管理（收藏/排序/标签）、社区分享与投票、Chrome/Edge/Firefox 浏览器扩展（Alt+Shift+S 唤出侧边栏）、JSON 数据导出备份、企业内网离线部署版。",
+          "Awesome ChatGPT Prompts 是 AI one 的内容来源之一，但 AI one 在其基础上提供了：图形化浏览界面与标签筛选、18 种语言翻译、个人提示词管理（收藏/排序/标签）、社区分享与投票、Chrome/Edge/Firefox 浏览器扩展（Alt+Shift+S 唤出侧边栏）、JSON 数据导出备份、企业内网离线部署版。",
       }),
     },
     {
-      q: translate({ id: "faq.q5", message: "AiShort 免费吗？需要注册吗？" }),
+      q: translate({ id: "faq.q5", message: "AI one 免费吗？需要注册吗？" }),
       a: translate({
         id: "faq.a5",
         message: "完全免费且开源（代码托管在 GitHub）。浏览、搜索、复制提示词无需注册。注册后可解锁：收藏与拖拽排序、自定义标签、创建并管理个人提示词、社区分享与投票、JSON 导出备份、跨设备同步。",
       }),
     },
     {
-      q: translate({ id: "faq.q6", message: "AiShort 可以在企业内网或离线环境使用吗？" }),
+      q: translate({ id: "faq.q6", message: "AI one 可以在企业内网或离线环境使用吗？" }),
       a: translate({
         id: "faq.a6",
         message: "提供独立的离线部署版，专为企业内网、政务网络等无法访问外网的环境设计。无需后端服务器和用户账号，部署后开箱即用，保留浏览、搜索、收藏、自定义提示词等核心功能，数据格式与在线版互通。",
@@ -956,7 +956,7 @@ export default function Showcase(): React.ReactElement {
         url: siteConfig.url,
         name: SITE_NAME,
         logo: { "@type": "ImageObject", url: `${siteConfig.url}/img/logo.png`, width: 200, height: 200 },
-        sameAs: ["https://github.com/rockbenben/ChatGPT-Shortcut"],
+        sameAs: ["https://github.com/rockbenben/Chat-instructions"],
       },
       {
         "@type": "SoftwareApplication",

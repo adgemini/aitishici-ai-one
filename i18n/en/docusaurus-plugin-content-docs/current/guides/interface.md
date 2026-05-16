@@ -1,12 +1,12 @@
 ---
 sidebar_label: Interface Guide
-title: AI Short Interface Guide | Tag Filtering & Smart Search
-description: Master the AI Short interface! Quickly locate prompts via tag filtering and keyword search, understand card details and collection operations.
+title: AI one Interface Guide | Tag Filtering & Smart Search
+description: Master the AI one interface! Quickly locate prompts via tag filtering and keyword search, understand card details and collection operations.
 ---
 
 # Interface Guide
 
-The AiShort page provides users with an intuitive interface to browse and filter prompts. The page mainly consists of the tag area, search area, and prompt display area.
+The AI one page provides users with an intuitive interface to browse and filter prompts. The page mainly consists of the tag area, search area, and prompt display area.
 
 ![](/img/docs/interface-home.png)
 
@@ -37,7 +37,7 @@ Keyword search function supports searching for prompt titles, descriptions, and 
 
 Click on a prompt card to open the details popup, where you can view the title, description, complete prompt content, remarks, and copy button.
 
-![](/img/docs/prompt-card.gif)
+![](/img/docs/prompt-card.png)
 
 ### Copy Prompt
 

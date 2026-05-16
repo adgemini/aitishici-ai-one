@@ -1,6 +1,6 @@
 ---
 sidebar_label: 自定義提示詞
-title: AI Short 自定義提示詞 | 創建編輯與分享
+title: AI one 自定義提示詞 | 創建編輯與分享
 description: 創建專屬 AI 提示詞，保存到個人賬戶隨時調用。支持分享到社區或設爲私密，一鍵導出備份數據。
 ---
 

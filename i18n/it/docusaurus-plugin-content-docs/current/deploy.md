@@ -1,14 +1,14 @@
 ---
 sidebar_label: Distribuzione
-title: Guida alla Distribuzione AI Short - Vercel, Docker e Cloudflare
-description: Distribuisci AI Short facilmente - Supporta Vercel, Docker e Cloudflare. Include guide per configurazione personalizzata e aggiornamenti automatici.
+title: Guida alla Distribuzione AI one - Vercel, Docker e Cloudflare
+description: Distribuisci AI one facilmente - Supporta Vercel, Docker e Cloudflare. Include guide per configurazione personalizzata e aggiornamenti automatici.
 ---
 
 # Distribuzione del Progetto
 
 ## Configurazione e Personalizzazione
 
-AI Short è un progetto open source che ti permette di modificare liberamente il titolo del sito web, la descrizione, i prompt e altri contenuti in base alle tue esigenze. Di seguito sono riportate le opzioni di modifica comuni e le istruzioni operative:
+AI one è un progetto open source che ti permette di modificare liberamente il titolo del sito web, la descrizione, i prompt e altri contenuti in base alle tue esigenze. Di seguito sono riportate le opzioni di modifica comuni e le istruzioni operative:
 
 - **Modificare Titolo e Descrizione del Sito Web**
   Per cambiare il titolo e la descrizione del sito web, modifica il file di configurazione `docusaurus.config.js`.
@@ -108,9 +108,9 @@ yarn build --locale zh-Hans && yarn build --locale en
 
 ### Distribuzione su Vercel
 
-Clicca sul pulsante qui sotto per distribuire ChatGPT-Shortcut sulla piattaforma Vercel con un clic:
+Clicca sul pulsante qui sotto per distribuire Chat-instructions sulla piattaforma Vercel con un clic:
 
-[![Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Frockbenben%2FChatGPT-Shortcut%2Ftree%2Fmain)
+[![Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Frockbenben%2FChat-instructions%2Ftree%2Fmain)
 
 **Nota**: La versione gratuita di Vercel potrebbe segnalare un errore a causa di memoria insufficiente. Se incontri questa situazione, puoi scegliere di distribuire una singola lingua. Le operazioni specifiche sono le seguenti:
 
@@ -122,7 +122,7 @@ Clicca sul pulsante qui sotto per distribuire ChatGPT-Shortcut sulla piattaforma
 
 Clicca sul pulsante o link qui sotto per fare un Fork di questo progetto, poi segui le istruzioni per distribuire su Cloudflare Pages:
 
-👉 [Fai un Fork di questo progetto](https://github.com/rockbenben/ChatGPT-Shortcut/fork)
+👉 [Fai un Fork di questo progetto](https://github.com/rockbenben/Chat-instructions/fork)
 
 Passaggi di Distribuzione:
 

@@ -1,12 +1,12 @@
 ---
 sidebar_label: Panduan Antarmuka
-title: Panduan Antarmuka AI Short | Filter Tag & Pencarian Cerdas
-description: Kuasai antarmuka AI Short! Temukan prompt dengan cepat melalui filter tag dan pencarian kata kunci, pahami detail kartu dan operasi koleksi.
+title: Panduan Antarmuka AI one | Filter Tag & Pencarian Cerdas
+description: Kuasai antarmuka AI one! Temukan prompt dengan cepat melalui filter tag dan pencarian kata kunci, pahami detail kartu dan operasi koleksi.
 ---
 
 # Panduan Antarmuka
 
-Halaman AiShort menyediakan antarmuka intuitif bagi pengguna untuk menjelajahi dan memfilter prompt. Halaman ini terutama terdiri dari area tag, area pencarian, dan area tampilan prompt.
+Halaman AI one menyediakan antarmuka intuitif bagi pengguna untuk menjelajahi dan memfilter prompt. Halaman ini terutama terdiri dari area tag, area pencarian, dan area tampilan prompt.
 
 ![](/img/docs/interface-home.png)
 
@@ -37,7 +37,7 @@ Fungsi pencarian kata kunci mendukung pencarian judul, deskripsi, dan konten pro
 
 Klik kartu prompt untuk membuka popup detail, di mana Anda dapat melihat judul, deskripsi, konten prompt lengkap, catatan, dan tombol salin.
 
-![](/img/docs/prompt-card.gif)
+![](/img/docs/prompt-card.png)
 
 ### Salin Prompt
 

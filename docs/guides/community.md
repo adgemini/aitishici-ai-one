@@ -1,6 +1,6 @@
 ---
 sidebar_label: 社区提示词
-title: AI Short 社区 | 发现分享优质 AI 提示词
+title: AI one 社区 | 发现分享优质 AI 提示词
 description: 发现社区精选 AI 提示词！通过投票筛选优质内容，分享你的创意获得曝光，或设为私密仅自己可见。
 ---
 

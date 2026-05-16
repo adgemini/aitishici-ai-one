@@ -1,16 +1,16 @@
 ---
 sidebar_label: Chrome CRX 安裝指南
-title: AI Short Chrome CRX 安裝 | 開發者模式手動安裝
-description: 通過 CRX 文件手動安裝 AI Short 插件，開啓開發者模式後拖拽安裝。含常見問題解決方案。
+title: AI one Chrome CRX 安裝 | 開發者模式手動安裝
+description: 通過 CRX 文件手動安裝 AI one 插件，開啓開發者模式後拖拽安裝。含常見問題解決方案。
 ---
 
 # Chrome CRX 插件本地安裝指南
 
 ## 下載 CRX 安裝包
 
-下載 ChatGPT Shortcut crx 安裝包（ChatGPT_Shortcut-crx-3.x.x.zip），並解壓（crx 文件在解壓的文件夾裏)。
+下載 Chat instructions crx 安裝包（ChatGPT_Shortcut-crx-3.x.x.zip），並解壓（crx 文件在解壓的文件夾裏)。
 
-- **GitHub**: [GitHub Release](https://github.com/rockbenben/ChatGPT-Shortcut/releases/latest)
+- **GitHub**: [GitHub Release](https://github.com/rockbenben/Chat-instructions/releases/latest)
 - **國內下載**: [Alist 雲盤](https://alist.newzone.top:9003/apps/ChatGPT%20Shortcut%20Extension)；[藍奏雲](https://wwva.lanzouq.com/b01lsc9vi),密碼:1qow
 
 ![](https://img.newzone.top/2024-08-12-21-47-10.png?imageMogr2/format/webp)
@@ -29,7 +29,7 @@ chrome://extensions
 
 ## 安裝插件
 
-安裝 ChatGPT Shortcut 插件（注意 ⚠️：需要拖入 .crx 文件，不要點擊【加載已解壓的擴展程序】）
+安裝 Chat instructions 插件（注意 ⚠️：需要拖入 .crx 文件，不要點擊【加載已解壓的擴展程序】）
 
 ![](https://img.newzone.top/2024-08-12-22-16-38.png?imageMogr2/format/webp)
 

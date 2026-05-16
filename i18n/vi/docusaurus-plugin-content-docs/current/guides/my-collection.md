@@ -17,7 +17,7 @@ Phía trên trang chủ cung cấp các nút chuyển đổi chế độ xem, h�
 
 Trình duyệt sẽ tự động ghi nhớ lựa chọn chế độ xem của bạn và chuyển sang chế độ xem cuối cùng khi bạn truy cập lần sau.
 
-![Chế độ xem Bộ sưu tập của tôi](/img/docs/my-collection-view.gif)
+![Chế độ xem Bộ sưu tập của tôi](/img/docs/my-collection-view.png)
 
 ## Thêm vào Bộ sưu tập
 
@@ -63,7 +63,7 @@ Hỗ trợ điều chỉnh thứ tự thẻ bằng kéo thả trong chế độ 
 
 Chức năng sắp xếp chỉ khả dụng trong chế độ xem Bộ sưu tập của tôi.
 
-![Kéo Thả Sắp xếp](/img/docs/my-collection-drag.gif)
+![Kéo Thả Sắp xếp](/img/docs/my-collection-drag.png)
 
 ## Tài liệu Liên quan
 

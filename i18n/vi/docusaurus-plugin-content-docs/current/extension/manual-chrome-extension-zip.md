@@ -1,16 +1,16 @@
 ---
 sidebar_label: Hướng dẫn Cài đặt Chrome ZIP
-title: Cài đặt Chrome ZIP - Thiết lập Tiện ích AI Short Thủ công
-description: Cài đặt tiện ích AI Short trong Chrome qua tệp ZIP. Giải nén và kéo vào trang tiện ích. Phù hợp khi không thể cài đặt CRX.
+title: Cài đặt Chrome ZIP - Thiết lập Tiện ích AI one Thủ công
+description: Cài đặt tiện ích AI one trong Chrome qua tệp ZIP. Giải nén và kéo vào trang tiện ích. Phù hợp khi không thể cài đặt CRX.
 ---
 
 # Hướng dẫn Cài đặt Tiện ích Chrome ZIP Cục bộ
 
 ## Tải xuống Tiện ích
 
-Tải xuống gói cài đặt ZIP tiện ích ChatGPT Shortcut (ChatGPT_Shortcut-zip-3.x.x.zip) và giải nén. (Thư mục đã giải nén cần được giữ trên máy tính, nên nhớ giải nén đến vị trí cố định.)
+Tải xuống gói cài đặt ZIP tiện ích Chat instructions (ChatGPT_Shortcut-zip-3.x.x.zip) và giải nén. (Thư mục đã giải nén cần được giữ trên máy tính, nên nhớ giải nén đến vị trí cố định.)
 
-- **GitHub**: [GitHub Release](https://github.com/rockbenben/ChatGPT-Shortcut/releases/latest)
+- **GitHub**: [GitHub Release](https://github.com/rockbenben/Chat-instructions/releases/latest)
 
 ## Bật Chế độ Nhà phát triển
 

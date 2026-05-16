@@ -1,6 +1,6 @@
 ---
 sidebar_label: Déploiement
-title: Déploiement AI Short - Vercel/Docker Facile
+title: Déploiement AI one - Vercel/Docker Facile
 description: Déployez votre propre bibliothéque de prompts. Guide complet pour Vercel et Docker, incluant la configuration et les mises à jour auto.
 ---
 
@@ -8,7 +8,7 @@ description: Déployez votre propre bibliothéque de prompts. Guide complet pour
 
 ## Configuration et personnalisation
 
-AI Short est un projet open source qui vous permet de modifier librement le titre, la description, les prompts et d'autres contenus du site web selon vos besoins. Voici les options de modification courantes et les instructions d'opération :
+AI one est un projet open source qui vous permet de modifier librement le titre, la description, les prompts et d'autres contenus du site web selon vos besoins. Voici les options de modification courantes et les instructions d'opération :
 
 - **Modifier le titre et la description du site web**
   Pour changer le titre et la description du site web, veuillez éditer le fichier de configuration `docusaurus.config.js`.
@@ -108,9 +108,9 @@ yarn build --locale zh-Hans && yarn build --locale en
 
 ### Déploiement Vercel
 
-Cliquez sur le bouton ci-dessous pour déployer ChatGPT-Shortcut sur la plateforme Vercel en un clic :
+Cliquez sur le bouton ci-dessous pour déployer Chat-instructions sur la plateforme Vercel en un clic :
 
-[![Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Frockbenben%2FChatGPT-Shortcut%2Ftree%2Fmain)
+[![Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Frockbenben%2FChat-instructions%2Ftree%2Fmain)
 
 **Note** : La version gratuite de Vercel peut signaler une erreur en raison d'une mémoire insuffisante. Si vous rencontrez cette situation, vous pouvez choisir de déployer une seule langue. Les opérations spécifiques sont les suivantes :
 
@@ -122,7 +122,7 @@ Cliquez sur le bouton ci-dessous pour déployer ChatGPT-Shortcut sur la platefor
 
 Cliquez sur le bouton ou le lien ci-dessous pour faire un Fork de ce projet, puis suivez les instructions pour déployer sur Cloudflare Pages :
 
-👉 [Faire un Fork de ce projet](https://github.com/rockbenben/ChatGPT-Shortcut/fork)
+👉 [Faire un Fork de ce projet](https://github.com/rockbenben/Chat-instructions/fork)
 
 Étapes de déploiement :
 

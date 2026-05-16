@@ -17,7 +17,7 @@ The top of the homepage provides view switching buttons, supporting two modes:
 
 The browser will automatically remember your view selection and switch to the last view upon your next visit.
 
-![My Collection View](/img/docs/my-collection-view.gif)
+![My Collection View](/img/docs/my-collection-view.png)
 
 ## Add to Collection
 
@@ -63,7 +63,7 @@ Drag and drop adjustment of card order is supported in the My Collection view:
 
 Sorting function is only available in the My Collection view.
 
-![Drag and Drop Sorting](/img/docs/my-collection-drag.gif)
+![Drag and Drop Sorting](/img/docs/my-collection-drag.png)
 
 ## Related Documentation
 

@@ -10,7 +10,7 @@ Sebelum menggunakan ekstensi Firefox, disarankan untuk mengikuti dua langkah ini
 
 ## 1. Pin Ekstensi dan Akses Pengaturan
 
-Pertama, pilih "Pin Ekstensi ChatGPT Shortcut" (Pin ke Toolbar) di toolbar Firefox. Kemudian, masuk ke Pusat Ekstensi, temukan entri ekstensi ChatGPT Shortcut dan pilih "Opsi". Masuk ke antarmuka pengaturan ekstensi. Langkah-langkah spesifik ditunjukkan di bawah:
+Pertama, pilih "Pin Ekstensi Chat instructions" (Pin ke Toolbar) di toolbar Firefox. Kemudian, masuk ke Pusat Ekstensi, temukan entri ekstensi Chat instructions dan pilih "Opsi". Masuk ke antarmuka pengaturan ekstensi. Langkah-langkah spesifik ditunjukkan di bawah:
 
 ![Pengaturan Firefox](https://img.newzone.top/2023-12-25-05-51-47.png?imageMogr2/format/webp)
 

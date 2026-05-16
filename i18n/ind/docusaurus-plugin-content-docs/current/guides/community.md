@@ -1,6 +1,6 @@
 ---
 sidebar_label: Prompt Komunitas
-title: Komunitas AI Short | Temukan & Bagikan Prompt AI Berkualitas
+title: Komunitas AI one | Temukan & Bagikan Prompt AI Berkualitas
 description: Temukan prompt AI dengan rating tertinggi di komunitas! Filter berdasarkan suara, bagikan ide terbaik Anda untuk eksposur, atau kelola prompt pribadi untuk penggunaan personal.
 ---
 

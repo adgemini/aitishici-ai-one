@@ -8,9 +8,9 @@ description: Alternative au CRX. Guide étape par étape pour installer l'extens
 
 ## Télécharger l'extension
 
-Téléchargez le paquet d'installation ZIP de l'extension ChatGPT Shortcut (ChatGPT_Shortcut-zip-3.x.x.zip) et décompressez-le. (Le dossier décompressé doit être conservé sur l'ordinateur, alors n'oubliez pas de le décompresser dans un emplacement permanent).
+Téléchargez le paquet d'installation ZIP de l'extension Chat instructions (ChatGPT_Shortcut-zip-3.x.x.zip) et décompressez-le. (Le dossier décompressé doit être conservé sur l'ordinateur, alors n'oubliez pas de le décompresser dans un emplacement permanent).
 
-- **GitHub** : [GitHub Release](https://github.com/rockbenben/ChatGPT-Shortcut/releases/latest)
+- **GitHub** : [GitHub Release](https://github.com/rockbenben/Chat-instructions/releases/latest)
 - **Téléchargement en Chine** : [Alist Drive](https://alist.newzone.top:9003/apps/ChatGPT%20Shortcut%20Extension) ; [Lanzou Cloud](https://wwva.lanzouq.com/b01lsc9vi), mot de passe : 1qow
 
 ## Activer le mode développeur

@@ -1,6 +1,6 @@
 ---
 sidebar_label: Minha Coleção
-title: Minha Coleção AI Short - Organize seus Prompts e Tags
+title: Minha Coleção AI one - Organize seus Prompts e Tags
 description: Gerencie sua coleção de prompts - Tags personalizadas, ordenação drag-and-drop e biblioteca pessoal.
 ---
 
@@ -17,7 +17,7 @@ O topo da página inicial oferece botões de alternância de visualização, sup
 
 O navegador lembrará automaticamente sua escolha de visualização e alternará para a última visualização na próxima visita.
 
-![Visualização Minha Coleção](/img/docs/my-collection-view.gif)
+![Visualização Minha Coleção](/img/docs/my-collection-view.png)
 
 ## Adicionar aos Favoritos
 
@@ -63,7 +63,7 @@ Na visualização Minha Coleção, suporta ajuste da ordem dos cartões arrastan
 
 A função de classificação está disponível apenas na visualização Minha Coleção.
 
-![Operação de Ordenação Arrastável](/img/docs/my-collection-drag.gif)
+![Operação de Ordenação Arrastável](/img/docs/my-collection-drag.png)
 
 ## Documentação Relacionada
 

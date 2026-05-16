@@ -17,7 +17,7 @@ Bagian atas halaman utama menyediakan tombol beralih tampilan, mendukung dua mod
 
 Browser akan secara otomatis mengingat pilihan tampilan Anda dan beralih ke tampilan terakhir pada kunjungan berikutnya.
 
-![Tampilan Koleksi Saya](/img/docs/my-collection-view.gif)
+![Tampilan Koleksi Saya](/img/docs/my-collection-view.png)
 
 ## Tambah ke Koleksi
 
@@ -63,7 +63,7 @@ Penyesuaian urutan kartu dengan seret-lepas didukung di tampilan Koleksi Saya:
 
 Fungsi pengurutan hanya tersedia di tampilan Koleksi Saya.
 
-![Pengurutan Seret-Lepas](/img/docs/my-collection-drag.gif)
+![Pengurutan Seret-Lepas](/img/docs/my-collection-drag.png)
 
 ## Dokumentasi Terkait
 

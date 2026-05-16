@@ -1,6 +1,6 @@
 ---
 sidebar_label: Firefox 插件設置
-title: AI Short Firefox 設置 | 固定擴展與授權運行
+title: AI one Firefox 設置 | 固定擴展與授權運行
 description: Firefox 插件設置指南：固定擴展到工具欄，授權在 ChatGPT、Gemini 等網站運行，確保側邊欄正常顯示。
 ---
 
@@ -10,7 +10,7 @@ description: Firefox 插件設置指南：固定擴展到工具欄，授權在 C
 
 ## 1. 固定擴展與訪問設置
 
-首先，在 Firefox 工具欄上選擇“固定 ChatGPT Shortcut 擴展”（Pin to Toolbar）。然後，進入擴展中心，找到 ChatGPT Shortcut 擴展條目並選擇“選項”（Options）。進入擴展的設置界面。具體步驟如下圖所示：
+首先，在 Firefox 工具欄上選擇“固定 Chat instructions 擴展”（Pin to Toolbar）。然後，進入擴展中心，找到 Chat instructions 擴展條目並選擇“選項”（Options）。進入擴展的設置界面。具體步驟如下圖所示：
 
 ![Firefox settings](https://img.newzone.top/2023-12-25-05-51-47.png?imageMogr2/format/webp)
 

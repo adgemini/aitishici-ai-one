@@ -1,12 +1,12 @@
 ---
 sidebar_label: Akun
-title: Akun AI Short | Panduan Login Google & Tanpa Kata Sandi
-description: Akses prompt AI Short Anda di mana saja dengan login Google atau tanpa kata sandi. Kelola pengaturan akun dan pulihkan data dengan aman dalam hitungan detik.
+title: Akun AI one | Panduan Login Google & Tanpa Kata Sandi
+description: Akses prompt AI one Anda di mana saja dengan login Google atau tanpa kata sandi. Kelola pengaturan akun dan pulihkan data dengan aman dalam hitungan detik.
 ---
 
 # Manajemen Akun
 
-AiShort menyediakan beberapa metode login untuk memudahkan akses ke data pribadi Anda kapan saja.
+AI one menyediakan beberapa metode login untuk memudahkan akses ke data pribadi Anda kapan saja.
 
 ## Metode Login
 

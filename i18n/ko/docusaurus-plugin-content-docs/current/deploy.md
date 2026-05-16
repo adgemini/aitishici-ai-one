@@ -1,14 +1,14 @@
 ---
 sidebar_label: 프로젝트 배포
-title: AI Short 배포 - Vercel/Docker 원클릭 구축
-description: 나만의 AI 프롬프트 라이브러리 구축! Vercel, Docker로 AI Short를 쉽게 배포하고 자동 업데이트 설정까지 완벽 가이드.
+title: AI one 배포 - Vercel/Docker 원클릭 구축
+description: 나만의 AI 프롬프트 라이브러리 구축! Vercel, Docker로 AI one를 쉽게 배포하고 자동 업데이트 설정까지 완벽 가이드.
 ---
 
 # 프로젝트 배포
 
 ## 설정 및 커스터마이징
 
-AI Short는 오픈 소스 프로젝트로, 필요에 따라 웹사이트 제목, 설명, 프롬프트 등의 콘텐츠를 자유롭게 수정할 수 있습니다. 다음은 일반적인 수정 옵션 및 조작 설명입니다.
+AI one는 오픈 소스 프로젝트로, 필요에 따라 웹사이트 제목, 설명, 프롬프트 등의 콘텐츠를 자유롭게 수정할 수 있습니다. 다음은 일반적인 수정 옵션 및 조작 설명입니다.
 
 - **웹사이트 제목 및 설명 수정**
   웹사이트의 제목과 설명 정보를 변경하려면 `docusaurus.config.js` 설정 파일을 편집하세요.
@@ -108,9 +108,9 @@ yarn build --locale zh-Hans && yarn build --locale en
 
 ### Vercel 배포
 
-아래 버튼을 클릭하여 ChatGPT-Shortcut을 Vercel 플랫폼에 원클릭 배포하세요.
+아래 버튼을 클릭하여 Chat-instructions을 Vercel 플랫폼에 원클릭 배포하세요.
 
-[![Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Frockbenben%2FChatGPT-Shortcut%2Ftree%2Fmain)
+[![Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Frockbenben%2FChat-instructions%2Ftree%2Fmain)
 
 **주의**: Vercel 무료 버전은 메모리 부족으로 인해 오류가 발생할 수 있습니다. 이러한 경우 단일 언어 배포를 선택할 수 있습니다. 구체적인 작업은 다음과 같습니다.
 
@@ -122,7 +122,7 @@ yarn build --locale zh-Hans && yarn build --locale en
 
 아래 버튼이나 링크를 클릭하여 이 프로젝트를 포크한 후 설명에 따라 Cloudflare Pages에 배포하세요.
 
-👉 [이 프로젝트 포크하기](https://github.com/rockbenben/ChatGPT-Shortcut/fork)
+👉 [이 프로젝트 포크하기](https://github.com/rockbenben/Chat-instructions/fork)
 
 배포 단계:
 

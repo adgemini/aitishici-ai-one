@@ -1,6 +1,6 @@
 ---
 sidebar_label: Prompt Tùy chỉnh
-title: Prompt Tùy chỉnh AI Short | Tạo, Lưu & Chia sẻ
+title: Prompt Tùy chỉnh AI one | Tạo, Lưu & Chia sẻ
 description: Tạo và lưu prompt AI của riêng bạn để truy cập ngay lập tức. Chia sẻ với cộng đồng hoặc giữ riêng tư, và xuất bản sao lưu bất cứ lúc nào.
 ---
 

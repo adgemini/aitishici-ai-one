@@ -1,14 +1,14 @@
 ---
 sidebar_label: 离线版（企业内网）
-title: AI Short 离线部署 | 企业内网无需外部服务器
-description: AI Short 离线版专为无法访问外网的企业和团队设计。无需后端服务器，无需注册账户，数据存储在浏览器本地，开箱即用。
+title: AI one 离线部署 | 企业内网无需外部服务器
+description: AI one 离线版专为无法访问外网的企业和团队设计。无需后端服务器，无需注册账户，数据存储在浏览器本地，开箱即用。
 ---
 
 # 离线部署版
 
 **适用场景**：企业内网、政务网络、保密环境、校园网等**无法或不便访问外部网络**的场景。
 
-AI Short 离线版无需后端服务器和用户注册，所有数据存储在浏览器本地。部署后即可在内网中供团队直接使用。
+AI one 离线版无需后端服务器和用户注册，所有数据存储在浏览器本地。部署后即可在内网中供团队直接使用。
 
 ## 团队使用方式
 
@@ -101,8 +101,8 @@ services:
 
 ```bash
 # 克隆离线版分支
-git clone -b offline https://github.com/rockbenben/ChatGPT-Shortcut.git
-cd ChatGPT-Shortcut
+git clone -b offline https://github.com/rockbenben/Chat-instructions.git
+cd Chat-instructions
 
 # 安装依赖
 yarn

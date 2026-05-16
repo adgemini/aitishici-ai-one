@@ -2,69 +2,68 @@
 sidebar_position: 2
 ---
 
-# Terms of Service
+# 服务条款
 
-Last updated May 25, 2023
+最后更新于 2023 年 5 月 25 日
 
-## 1. Introduction
+## 1. 简介
 
-These Terms of Service ("Terms") govern your access to and use of the website, products, and services (collectively, "Services") provided by AiShort ("we", "us", or "our"). By accessing or using our Services, you agree to be bound by these Terms and our Privacy Policy.
+本服务条款（"条款"）约束您访问和使用 AI one（"我们"）提供的网站、产品和服务（统称"服务"）。访问或使用我们的服务即表示您同意受本条款及我们的隐私政策的约束。
 
-## 2. Account Registration
+## 2. 账号注册
 
-You may need to create an account to access certain features of our Services. If you create an account, you must provide accurate and complete information and keep the account information up-to-date. You are responsible for maintaining the confidentiality of your account and password and for any activities that occur under your account. AiShort reserves the right to refuse service, terminate accounts, or remove or edit content, in its sole discretion.
+您可能需要创建账号才能使用我们服务的某些功能。创建账号时，您必须提供准确、完整的信息，并保持账号信息更新。您有责任维护账号和密码的机密性，并对账号下发生的所有活动负责。AI one 保留自行决定拒绝服务、终止账号或删除、编辑内容的权利。
 
-## 3. User Content and Conduct
+## 3. 用户内容与行为准则
 
-### 3.1 User Content
+### 3.1 用户内容
 
-By posting, uploading, or otherwise submitting any content, including without limitation, text, images, videos, and links, to AiShort (collectively, "User Content"), you grant us a non-exclusive, royalty-free, worldwide, perpetual, irrevocable, and fully sublicensable right to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, and display such content throughout the world in any media.
+通过发布、上传或以其他方式向 AI one 提交任何内容，包括但不限于文本、图片、视频和链接（统称"用户内容"），您授予我们非排他、免版税、全球范围、永久、不可撤销且可再许可的权利，以任何媒介在全球范围内使用、复制、修改、改编、发布、翻译、创作衍生作品、分发和展示该等内容。
 
-### 3.2 User Conduct
+### 3.2 用户行为准则
 
-You agree not to use our Services to:
+您同意不使用我们的服务从事以下行为：
 
-- Post, upload, or otherwise submit any User Content that:
+- 发布、上传或以其他方式提交任何存在以下情况的用户内容：
+  - a. 诽谤、淫秽、色情、粗俗或令人反感；
+  - b. 侵犯任何第三方的知识产权、商业秘密、隐私权或其他专有权利；
+  - c. 含有软件病毒或任何其他旨在中断、破坏或限制计算机软硬件或电信设备功能的程序；
+  - d. 构成未经授权的广告、垃圾邮件、连锁信或任何形式的赌博抽奖；
+  - e. 包含虚假或误导性信息，或冒充他人或实体；
+  - f. 违反任何适用法律法规；
+  - g. 宣扬非法或有害的活动或物质；
 
-  - a. is defamatory, obscene, pornographic, vulgar, or offensive;
-  - b. infringes on the intellectual property, trade secret, privacy, or other proprietary rights of any third party;
-  - c. contains software viruses or any other computer code, files or programs designed to interrupt, destroy or limit the functionality of any computer software or hardware or telecommunications equipment;
-  - d. constitutes unauthorized or unsolicited advertising, junk or bulk email (also known as "spamming"), chain letters, any other form of unauthorized solicitation, or any form of lottery or gambling;
-  - e. contains false or misleading information or impersonates any person or entity, including without limitation, an official or representative of AiShort;
-  - f. violates any applicable laws or regulations; or
-  - g. promotes illegal or harmful activities or substances;
+- 骚扰、威胁或欺诈其他用户或 AI one 成员；
+- 违反与我们的服务相关的网络的任何程序、政策或规定；
+- 干扰、破坏服务或对其造成不合理的负担；
+- 试图未经授权访问服务、其他账号或与之相连的计算机系统或网络；
+- 使用任何机器人、爬虫或其他自动化手段访问服务；
+- 反向工程、反编译、反汇编或以其他方式试图获取服务的源代码；
+- 修改、改编或篡改服务，或虚假暗示其他网站与服务或 AI one 有关联；
+- 未经 AI one 明确书面许可，复制、出售或利用服务的任何部分。
 
-- Harass, threaten, or defraud other users or members of AiShort;
-- Violate any procedures, policies, or regulations of networks connected to our Services;
-- Interfere with, disrupt, or create an undue burden on the Services or the networks or services connected to the Services;
-- Attempt to gain unauthorized access to the Services, other accounts, or computer systems or networks connected to the Services;
-- Use any robot, spider, scraper, or other automated means to access the Services for any purpose;
-- Reverse engineer, decompile, disassemble, or otherwise attempt to discover the source code of the Services;
-- Modify, adapt, or hack the Services, or falsely imply that some other site is associated with the Services or AiShort;
-- Reproduce, duplicate, copy, sell, resell, or exploit any portion of the Services without the express written permission of AiShort.
+## 4. 终止
 
-## 4. Termination
+AI one 可自行决定，在任何时候、无需通知、因任何原因（包括但不限于违反本条款）终止或暂停您对服务的访问。终止后，本条款授予您的所有权利将立即终止。AI one 不对您或任何第三方因终止访问服务而承担任何责任。
 
-AiShort may, in its sole discretion, terminate or suspend your access to the Services, without notice, for any reason, including but not limited to, breach of these Terms. Upon termination, all rights granted to you under these Terms will immediately cease. AiShort will not be liable to you or any third party for termination of your access to the Services.
+## 5. 免责声明与责任限制
 
-## 5. Disclaimer of Warranties and Limitation of Liability
+服务按"现状"和"可用"基础提供。在适用法律允许的最大范围内，AI one 不承担任何明示或暗示的保证，包括但不限于适销性、特定用途适用性和非侵权的默示保证。AI one 不保证服务将满足您的要求，也不保证服务不会中断、及时、安全或无错误。
 
-The Services are provided on an "AS IS" and "AS AVAILABLE" basis. To the fullest extent permitted by applicable law, AiShort disclaims all warranties, express or implied, including but not limited to, implied warranties of merchantability, fitness for a particular purpose, and non-infringement. AiShort does not warrant that the Services will meet your requirements or that the Services will be uninterrupted, timely, secure, or error-free.
+在任何情况下，AI one、其关联公司及其各自的管理人员、董事、员工或代理人均不对因您访问或使用（或无法访问或使用）服务而产生的任何直接、间接、附带、特殊、后果性或惩罚性损害承担责任，无论是基于保证、合同、侵权（包括过失）还是任何其他法律理论。
 
-In no event shall AiShort, its affiliates, or their respective officers, directors, employees, or agents be liable for any direct, indirect, incidental, special, consequential, or punitive damages, including but not limited to, loss of profits, goodwill, use, data, or other intangible losses, resulting from your access to or use of, or your inability to access or use, the Services, whether based on warranty, contract, tort (including negligence), or any other legal theory.
+## 6. 条款变更
 
-## 6. Changes to Terms
+AI one 可随时自行决定修改本条款。如果我们对条款进行更改，我们将更新本页顶部的"最后更新"日期。在修订生效后继续访问或使用我们的服务，即表示您同意受修订后条款的约束。如果您不同意新条款，请停止使用服务。
 
-AiShort may modify these Terms at any time and in its sole discretion. If we make changes to these Terms, we will update the "Last Updated" date at the top of this page. By continuing to access or use our Services after any revisions become effective, you agree to be bound by the revised terms. If you do not agree to the new terms, you must stop using the Services.
+## 7. 适用法律与争议解决
 
-## 7. Governing Law and Dispute Resolution
+本条款受 AI one 所在地司法管辖区的法律管辖并依其解释，不适用法律冲突条款。因本条款或服务引起或与之相关的任何争议应首先通过双方善意协商解决。如协商未能解决争议，双方同意根据适用仲裁机构的规则将争议提交具有约束力的仲裁，胜诉方有权获得合理的律师费和费用补偿。
 
-These Terms will be governed by and construed in accordance with the laws of the jurisdiction where AiShort is located, without regard to its conflict of law provisions. Any disputes arising from or relating to these Terms or the Services shall be resolved through good faith negotiations between the parties. If such negotiations fail to resolve the dispute, the parties agree to submit the dispute to binding arbitration under the rules of the applicable arbitration organization, with the prevailing party entitled to recover its reasonable attorneys' fees and costs.
+## 8. 其他条款
 
-## 8. Miscellaneous
+如果本条款的任何规定被认定为不可执行或无效，该规定将在必要的最小范围内被限制或删除，以使本条款其余部分保持完全有效和可执行。AI one 未能行使或执行本条款的任何权利或规定不构成对该权利或规定的放弃。未经我们同意，您不得转让本条款及依据本条款授予的任何权利和许可，但 AI one 可不受限制地进行转让。本条款构成您与 AI one 之间关于服务的完整协议，取代之前的所有协议。
 
-If any provision of these Terms is found to be unenforceable or invalid, that provision will be limited or eliminated to the minimum extent necessary so that these Terms will otherwise remain in full force and effect and enforceable. The failure of AiShort to exercise or enforce any right or provision of these Terms does not constitute a waiver of such right or provision. These Terms, and any rights and licenses granted hereunder, may not be transferred or assigned by you, but may be assigned by AiShort without restriction. These Terms constitute the entire agreement between you and AiShort concerning the Services and supersede and replace any prior agreements between you and AiShort with respect to the Services.
+## 9. 联系方式
 
-## 9. Contact Information
-
-If you have any questions or concerns about these Terms, please contact us at qingwhat@gmail.com
+如果您对本条款有任何疑问或疑虑，请通过 admin@onebiu.com 与我们联系。

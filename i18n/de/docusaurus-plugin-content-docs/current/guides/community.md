@@ -1,6 +1,6 @@
 ---
 sidebar_label: Community-Prompts
-title: AI Short Community - Teilen & Abstimmen
+title: AI one Community - Teilen & Abstimmen
 description: Entdecken Sie die besten Community-Prompts. Teilen Sie Ihre Ideen oder nutzen Sie sie privat. Finden Sie KI-Inspiration.
 ---
 

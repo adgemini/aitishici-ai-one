@@ -1,16 +1,16 @@
 ---
 sidebar_label: Chrome CRX ইনস্টলেশন গাইড
-title: Chrome এ AI Short CRX ফাইল কীভাবে ইনস্টল করবেন
-description: Chrome এ AI Short এক্সটেনশনটি CRX ফাইলের সাথে ম্যানুয়ালি ইনস্টল করুন। ইনস্টলেশন এবং সমস্যা সমাধানের জন্য ধাপে ধাপে নির্দেশিকা।
+title: Chrome এ AI one CRX ফাইল কীভাবে ইনস্টল করবেন
+description: Chrome এ AI one এক্সটেনশনটি CRX ফাইলের সাথে ম্যানুয়ালি ইনস্টল করুন। ইনস্টলেশন এবং সমস্যা সমাধানের জন্য ধাপে ধাপে নির্দেশিকা।
 ---
 
 # Chrome CRX এক্সটেনশন স্থানীয় ইনস্টলেশন গাইড
 
 ## CRX ইনস্টলেশন প্যাকেজ ডাউনলোড করুন
 
-ChatGPT Shortcut crx ইনস্টলেশন প্যাকেজ (ChatGPT_Shortcut-crx-3.x.x.zip) ডাউনলোড করুন, এবং এটি আনজিপ করুন (crx ফাইলটি আনজিপ করা ফোল্ডারে রয়েছে)।
+Chat instructions crx ইনস্টলেশন প্যাকেজ (ChatGPT_Shortcut-crx-3.x.x.zip) ডাউনলোড করুন, এবং এটি আনজিপ করুন (crx ফাইলটি আনজিপ করা ফোল্ডারে রয়েছে)।
 
-- **GitHub**: [GitHub Release](https://github.com/rockbenben/ChatGPT-Shortcut/releases/latest)
+- **GitHub**: [GitHub Release](https://github.com/rockbenben/Chat-instructions/releases/latest)
 - **ঘরোয়া ডাউনলোড**: [Alist Cloud](https://alist.newzone.top:9003/apps/ChatGPT%20Shortcut%20Extension); [Lanzou Cloud](https://wwva.lanzouq.com/b01lsc9vi), পাসওয়ার্ড: 1qow
 
 ![](https://img.newzone.top/2024-08-12-21-47-10.png?imageMogr2/format/webp)
@@ -29,7 +29,7 @@ chrome://extensions
 
 ## প্লাগইন ইনস্টল করুন
 
-ChatGPT Shortcut প্লাগইন ইনস্টল করুন (নোট ⚠️: আপনাকে .crx ফাইলটি টেনে আনতে হবে, [আনপ্যাক করা লোড করুন] এ ক্লিক করবেন না)
+Chat instructions প্লাগইন ইনস্টল করুন (নোট ⚠️: আপনাকে .crx ফাইলটি টেনে আনতে হবে, [আনপ্যাক করা লোড করুন] এ ক্লিক করবেন না)
 
 ![](https://img.newzone.top/2024-08-12-22-16-38.png?imageMogr2/format/webp)
 

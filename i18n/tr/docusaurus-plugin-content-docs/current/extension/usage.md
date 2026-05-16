@@ -1,12 +1,12 @@
 ---
 sidebar_label: Uzantı Nasıl Kullanılır
-title: AI Short Uzantı Kılavuzu - Kenar Çubuğu ve Kısayollar
-description: AI Short tarayıcı uzantısında ustalaşın! Kenar çubuğunu etkinleştirin, Alt+Shift+S ile tek tıkla prompt kütüphanesini çağırın.
+title: AI one Uzantı Kılavuzu - Kenar Çubuğu ve Kısayollar
+description: AI one tarayıcı uzantısında ustalaşın! Kenar çubuğunu etkinleştirin, Alt+Shift+S ile tek tıkla prompt kütüphanesini çağırın.
 ---
 
 # Tarayıcı Uzantısı Nasıl Kullanılır?
 
-ChatGPT Shortcut 13 ana dili destekler ve uzantı dili tarayıcı ortamınıza göre otomatik olarak ayarlanır. Dili ayarlar sayfasından manuel olarak da değiştirebilirsiniz.
+Chat instructions 13 ana dili destekler ve uzantı dili tarayıcı ortamınıza göre otomatik olarak ayarlanır. Dili ayarlar sayfasından manuel olarak da değiştirebilirsiniz.
 
 ![](/img/docs/extension-settings.png)
 

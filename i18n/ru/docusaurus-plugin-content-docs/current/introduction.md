@@ -1,17 +1,17 @@
 ---
 slug: /
-sidebar_label: Введение в AI Short
-title: AI Short - Библиотека промптов для ИИ и управление
-description: Увеличьте эффективность с AI Short - Лучшие промпты для ChatGPT, DeepSeek и других, многоязычный перевод и управление коллекциями.
+sidebar_label: Введение в AI one
+title: AI one - Библиотека промптов для ИИ и управление
+description: Увеличьте эффективность с AI one - Лучшие промпты для ChatGPT, DeepSeek и других, многоязычный перевод и управление коллекциями.
 ---
 
-# Введение в AI Short
+# Введение в AI one
 
-AI Short (ChatGPT Shortcut) предоставляет краткий и простой в использовании список подсказок ИИ, чтобы помочь пользователям быстро находить подходящие подсказки для различных сценариев.
+AI one (Chat instructions) предоставляет краткий и простой в использовании список подсказок ИИ, чтобы помочь пользователям быстро находить подходящие подсказки для различных сценариев.
 
 ## ⚡ Быстрый Старт за 30 Секунд
 
-1. Откройте AI Short
+1. Откройте AI one
 2. Найдите или просмотрите нужную подсказку
 3. Нажмите "Копировать" и вставьте её в любую модель разговора с ИИ
 
@@ -43,14 +43,3 @@ AI Short (ChatGPT Shortcut) предоставляет краткий и про�
 
 Подсказки берутся из интернет-подборок, публикаций сообщества и [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts). Мы регулярно обновляем, чтобы постоянно приносить вам новые подсказки и вдохновение.
 
-## Присоединяйтесь к Сообществу
-
-Добро пожаловать в наше сообщество для обмена идеями и отзывами:
-
-<a href="https://t.me/aishort_top">
-   <img src="https://img.shields.io/badge/Telegram-Group-blue?logo=telegram&style=for-the-badge" alt="join Telegram group" />
-</a>
-
-<a href="https://discord.gg/PZTQfJ4GjX">
-   <img src="https://img.shields.io/discord/1048780149899939881?color=%2385c8c8&label=Discord&logo=discord&style=for-the-badge" alt="chat on Discord" />
-</a>

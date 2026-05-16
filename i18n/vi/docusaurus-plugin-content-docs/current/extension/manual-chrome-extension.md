@@ -1,16 +1,16 @@
 ---
 sidebar_label: Hướng dẫn Cài đặt Chrome CRX
 title: Cài đặt Chrome CRX - Thiết lập Chế độ Nhà phát triển Thủ công
-description: Cài đặt thủ công tiện ích AI Short qua tệp CRX. Bật chế độ nhà phát triển và kéo thả để cài đặt. Bao gồm giải pháp cho các vấn đề phổ biến.
+description: Cài đặt thủ công tiện ích AI one qua tệp CRX. Bật chế độ nhà phát triển và kéo thả để cài đặt. Bao gồm giải pháp cho các vấn đề phổ biến.
 ---
 
 # Hướng dẫn Cài đặt Tiện ích Chrome CRX Cục bộ
 
 ## Tải xuống Gói CRX
 
-Tải xuống gói cài đặt crx ChatGPT Shortcut (ChatGPT_Shortcut-crx-3.x.x.zip) và giải nén (tệp crx nằm trong thư mục đã giải nén).
+Tải xuống gói cài đặt crx Chat instructions (ChatGPT_Shortcut-crx-3.x.x.zip) và giải nén (tệp crx nằm trong thư mục đã giải nén).
 
-- **GitHub**: [GitHub Release](https://github.com/rockbenben/ChatGPT-Shortcut/releases/latest)
+- **GitHub**: [GitHub Release](https://github.com/rockbenben/Chat-instructions/releases/latest)
 
 ![](https://img.newzone.top/2024-08-12-21-47-10.png?imageMogr2/format/webp)
 
@@ -28,7 +28,7 @@ chrome://extensions
 
 ## Cài đặt Tiện ích
 
-Cài đặt tiện ích ChatGPT Shortcut (Lưu ý ⚠️: Bạn cần kéo vào tệp .crx, KHÔNG nhấp "Tải tiện ích đã giải nén")
+Cài đặt tiện ích Chat instructions (Lưu ý ⚠️: Bạn cần kéo vào tệp .crx, KHÔNG nhấp "Tải tiện ích đã giải nén")
 
 ![](https://img.newzone.top/2024-08-12-22-16-38.png?imageMogr2/format/webp)
 

@@ -1,17 +1,17 @@
 ---
 slug: /
-sidebar_label: AI Short পরিচিতি
-title: AI Short - AI প্রম্পট লাইব্রেরি এবং ম্যানেজমেন্ট
-description: AI Short এর সাথে উৎপাদনশীলতা বাড়ান - ChatGPT এবং DeepSeek এর জন্য সেরা প্রম্পট খুঁজুন, অনুবাদ করুন এবং পরিচালনা করুন।
+sidebar_label: AI one পরিচিতি
+title: AI one - AI প্রম্পট লাইব্রেরি এবং ম্যানেজমেন্ট
+description: AI one এর সাথে উৎপাদনশীলতা বাড়ান - ChatGPT এবং DeepSeek এর জন্য সেরা প্রম্পট খুঁজুন, অনুবাদ করুন এবং পরিচালনা করুন।
 ---
 
-# AI Short পরিচিতি
+# AI one পরিচিতি
 
-AI Short (ChatGPT Shortcut) ব্যবহারকারীদের বিভিন্ন পরিস্থিতির জন্য উপযুক্ত প্রম্পট দ্রুত খুঁজে পেতে সহায়তা করার জন্য একটি সংক্ষিপ্ত এবং সহজে ব্যবহারযোগ্য AI প্রম্পট তালিকা প্রদান করে।
+AI one (Chat instructions) ব্যবহারকারীদের বিভিন্ন পরিস্থিতির জন্য উপযুক্ত প্রম্পট দ্রুত খুঁজে পেতে সহায়তা করার জন্য একটি সংক্ষিপ্ত এবং সহজে ব্যবহারযোগ্য AI প্রম্পট তালিকা প্রদান করে।
 
 ## ⚡ ৩০ সেকেন্ডে শুরু করুন
 
-1. AI Short খুলুন
+1. AI one খুলুন
 2. আপনার প্রয়োজনীয় প্রম্পট খুঁজুন বা ব্রাউজ করুন
 3. "কপি" এ ক্লিক করুন এবং যেকোনো AI ডায়ালগ মডেলে পেস্ট করুন
 
@@ -43,14 +43,3 @@ AI Short (ChatGPT Shortcut) ব্যবহারকারীদের বিভ
 
 প্রম্পটগুলি ইন্টারনেট নির্বাচন, সম্প্রদায় শেয়ারিং এবং [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) থেকে আসে। আমরা নিয়মিত আপডেট করি যাতে আপনাকে নতুন প্রম্পট এবং অনুপ্রেরণা দেওয়া যায়।
 
-## কমিউনিটিতে যোগ দিন
-
-মতামত এবং প্রতিক্রিয়া বিনিময় করতে আমাদের কমিউনিটিতে স্বাগতম:
-
-<a href="https://t.me/aishort_top">
-   <img src="https://img.shields.io/badge/Telegram-Group-blue?logo=telegram&style=for-the-badge" alt="join Telegram group" />
-</a>
-
-<a href="https://discord.gg/PZTQfJ4GjX">
-   <img src="https://img.shields.io/discord/1048780149899939881?color=%2385c8c8&label=Discord&logo=discord&style=for-the-badge" alt="chat on Discord" />
-</a>

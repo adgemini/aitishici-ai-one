@@ -1,6 +1,6 @@
 ---
 sidebar_label: 자주 묻는 질문
-title: AI Short FAQ - 프롬프트 최적화·환각 대처법
+title: AI one FAQ - 프롬프트 최적화·환각 대처법
 description: AI 답변이 이상한가요? 프롬프트 작성 팁부터 AI '환각' 대처, 데이터 백업 방법까지 자주 묻는 문제 해결법을 정리했습니다.
 ---
 

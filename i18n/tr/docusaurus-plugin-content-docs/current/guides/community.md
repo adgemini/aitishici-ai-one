@@ -1,6 +1,6 @@
 ---
 sidebar_label: Topluluk Promptları
-title: AI Short Topluluğu | Kaliteli AI Promptlarını Keşfedin ve Paylaşın
+title: AI one Topluluğu | Kaliteli AI Promptlarını Keşfedin ve Paylaşın
 description: Toplulukta en çok oy alan AI promptlarını keşfedin! Oylara göre filtreleyin, en iyi fikirlerinizi görünürlük için paylaşın veya kişisel kullanım için özel promptları yönetin.
 ---
 

@@ -1,7 +1,7 @@
 ---
 sidebar_label: Impostazioni Estensione Firefox
-title: Configurazione Estensione Firefox AI Short - Guida Rapida
-description: Configura l'estensione AI Short su Firefox - Appunta alla barra, autorizza l'esecuzione su ChatGPT e Gemini e assicurati il massimo rendimento.
+title: Configurazione Estensione Firefox AI one - Guida Rapida
+description: Configura l'estensione AI one su Firefox - Appunta alla barra, autorizza l'esecuzione su ChatGPT e Gemini e assicurati il massimo rendimento.
 ---
 
 # Impostazioni Estensione Firefox
@@ -10,7 +10,7 @@ Prima di usare l'estensione Firefox, si raccomanda di seguire questi due passagg
 
 ## 1. Appunta Estensione e Impostazioni Accesso
 
-Prima, seleziona "Appunta Estensione ChatGPT Shortcut" (Pin to Toolbar) nella barra degli strumenti di Firefox. Poi, entra nel Centro Estensioni, trova la voce dell'estensione ChatGPT Shortcut e seleziona "Opzioni" (Options). Entra nell'interfaccia di configurazione dell'estensione. I passaggi specifici sono mostrati di seguito:
+Prima, seleziona "Appunta Estensione Chat instructions" (Pin to Toolbar) nella barra degli strumenti di Firefox. Poi, entra nel Centro Estensioni, trova la voce dell'estensione Chat instructions e seleziona "Opzioni" (Options). Entra nell'interfaccia di configurazione dell'estensione. I passaggi specifici sono mostrati di seguito:
 
 ![Firefox settings](https://img.newzone.top/2023-12-25-05-51-47.png?imageMogr2/format/webp)
 

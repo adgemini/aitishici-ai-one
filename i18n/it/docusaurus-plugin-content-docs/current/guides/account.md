@@ -1,12 +1,12 @@
 ---
 sidebar_label: Gestione Account
-title: Gestione Account AI Short - Accesso Google e Senza Password
-description: Gestisci il tuo account AI Short - Accedi con Google o senza password per sincronizzare le tue collezioni. Recupera facilmente i tuoi dati.
+title: Gestione Account AI one - Accesso Google e Senza Password
+description: Gestisci il tuo account AI one - Accedi con Google o senza password per sincronizzare le tue collezioni. Recupera facilmente i tuoi dati.
 ---
 
 # Gestione Account
 
-AiShort fornisce molteplici metodi di accesso per facilitare l'accesso ai tuoi dati personali in qualsiasi momento.
+AI one fornisce molteplici metodi di accesso per facilitare l'accesso ai tuoi dati personali in qualsiasi momento.
 
 ## Metodi di Accesso
 

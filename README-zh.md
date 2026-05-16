@@ -1,20 +1,20 @@
 <h1 align="center">
-    <a href="https://www.aishort.top/">
-        <img src="static/img/logo.png" alt="AiShort Logo" width="120" height="120" />
+    <a href="https://www.onebiu.cn/">
+        <img src="static/img/logo.png" alt="AI one Logo" width="120" height="120" />
     </a>
     <br>
-    AiShort (ChatGPT Shortcut) - 简单好用的 AI 提示词管理工具
+    AI one (Chat instructions) - 简单好用的 AI 提示词管理工具
 </h1>
 
 <p align="center">
-    <a href="https://github.com/rockbenben/ChatGPT-Shortcut/blob/main/LICENSE">
-        <img src="https://img.shields.io/github/license/rockbenben/ChatGPT-Shortcut?color=blue&label=License" alt="License" />
+    <a href="https://github.com/rockbenben/Chat-instructions/blob/main/LICENSE">
+        <img src="https://img.shields.io/github/license/rockbenben/Chat-instructions?color=blue&label=License" alt="License" />
     </a>
-    <a href="https://github.com/rockbenben/ChatGPT-Shortcut/stargazers">
-        <img src="https://img.shields.io/github/stars/rockbenben/ChatGPT-Shortcut?style=social" alt="GitHub Stars" />
+    <a href="https://github.com/rockbenben/Chat-instructions/stargazers">
+        <img src="https://img.shields.io/github/stars/rockbenben/Chat-instructions?style=social" alt="GitHub Stars" />
     </a>
-    <a href="https://github.com/rockbenben/ChatGPT-Shortcut/releases">
-        <img src="https://img.shields.io/github/v/release/rockbenben/ChatGPT-Shortcut?color=green" alt="Version" />
+    <a href="https://github.com/rockbenben/Chat-instructions/releases">
+        <img src="https://img.shields.io/github/v/release/rockbenben/Chat-instructions?color=green" alt="Version" />
     </a>
     <a href="https://discord.gg/PZTQfJ4GjX">
         <img src="https://img.shields.io/discord/1048780149899939881?color=%2385c8c8&label=Discord&logo=discord&style=flat" alt="Discord" />
@@ -40,22 +40,22 @@
 <a href="./README-lang/README-bn.md">বাংলা</a>
 </p>
 <p align="center">
-    <em>AiShort (ChatGPT Shortcut) 提供精选的 AI 提示词列表，是你的 AI 提示词指令管理工具，帮助你快速找到适用于各种场景的提示词，让生产力加倍！</em>
+    <em>AI one (Chat instructions) 提供精选的 AI 提示词列表，是你的 AI 提示词指令管理工具，帮助你快速找到适用于各种场景的提示词，让生产力加倍！</em>
 </p>
 
 ## ⚡ 30 秒快速开始
 
-1. 打开 [aishort.top](https://www.aishort.top/)
+1. 打开 [onebiu.cn](https://www.onebiu.cn/)
 2. 搜索或浏览你需要的提示词
 3. 点击「复制」，粘贴到任意 AI 模型
 
-![AiShort Interface](static/img/docs/interface-home.png)
+![AI one Interface](static/img/docs/interface-home.png)
 
-就这么简单！更多功能请查看[使用手册](https://www.aishort.top/docs/guides/getting-started)。
+就这么简单！更多功能请查看[使用手册](https://www.onebiu.cn/docs/guides/getting-started)。
 
-## 为什么选择 AiShort？
+## 为什么选择 AI one？
 
-AiShort（ChatGPT Shortcut）提供精选的 AI 提示词列表，帮助你快速找到适用于各种场景的提示词。
+AI one（Chat instructions）提供精选的 AI 提示词列表，帮助你快速找到适用于各种场景的提示词。
 
 ### 核心功能
 
@@ -81,20 +81,20 @@ AiShort（ChatGPT Shortcut）提供精选的 AI 提示词列表，帮助你快�
 
 ## 浏览器扩展
 
-AiShort 扩展让你随时调用提示词库。支持 Chrome、Edge、Firefox，使用 `Alt + Shift + S` 快速唤出侧边栏。
+AI one 扩展让你随时调用提示词库。支持 Chrome、Edge、Firefox，使用 `Alt + Shift + S` 快速唤出侧边栏。
 
 - **Chrome**: [Chrome 应用商店](https://chrome.google.com/webstore/detail/chatgpt-shortcut/blcgeoojgdpodnmnhfpohphdhfncblnj)
 - **Edge**: [Edge 扩展商店](https://microsoftedge.microsoft.com/addons/detail/chatgpt-shortcut/hnggpalhfjmdhhmgfjpmhlfilnbmjoin)
 - **Firefox**: [Firefox 附加组件](https://addons.mozilla.org/addon/chatgpt-shortcut/)
-- **GitHub**: [下载地址](https://github.com/rockbenben/ChatGPT-Shortcut/releases/latest)
+- **GitHub**: [下载地址](https://github.com/rockbenben/Chat-instructions/releases/latest)
 
-还提供油猴脚本 [ChatGPT Shortcut Anywhere](https://greasyfork.org/scripts/482907-chatgpt-shortcut-anywhere)，可在任意网站使用 AiShort 侧边栏。
+还提供油猴脚本 [Chat instructions Anywhere](https://greasyfork.org/scripts/482907-chatgpt-shortcut-anywhere)，可在任意网站使用 AI one 侧边栏。
 
 ## 部署
 
-支持通过 Vercel、Cloudflare Pages、Docker 或本地环境部署。详见[部署指南](https://www.aishort.top/docs/deploy)。
+支持通过 Vercel、Cloudflare Pages、Docker 或本地环境部署。详见[部署指南](https://www.onebiu.cn/docs/deploy)。
 
-[![Vercel 部署](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Frockbenben%2FChatGPT-Shortcut%2Ftree%2Fmain)
+[![Vercel 部署](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Frockbenben%2FChat-instructions%2Ftree%2Fmain)
 
 ## 同步更新
 

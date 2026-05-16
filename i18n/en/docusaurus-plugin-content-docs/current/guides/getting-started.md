@@ -1,12 +1,12 @@
 ---
 sidebar_label: Getting Started
-title: AI Short Quick Start | Copy Prompts to ChatGPT/DeepSeek
+title: AI one Quick Start | Copy Prompts to ChatGPT/DeepSeek
 description: Start boosting AI productivity in 30 seconds! Copy tailored prompts to ChatGPT, Gemini, and DeepSeek for instant conversation improvements.
 ---
 
 # Getting Started
 
-When conversing with AI, good prompts can help you get high-quality answers faster. AiShort has curated a large number of practical prompts for you, ready to copy and use.
+When conversing with AI, good prompts can help you get high-quality answers faster. AI one has curated a large number of practical prompts for you, ready to copy and use.
 
 ## Basic Usage
 
@@ -15,7 +15,7 @@ When conversing with AI, good prompts can help you get high-quality answers fast
 3. Open any AI model and paste the prompt
 4. Follow the prompt's instructions to add your specific question
 
-![](/img/docs/how-to-use-aishort.gif)
+![](/img/docs/how-to-use-aione.png)
 
 ## Quick Access
 

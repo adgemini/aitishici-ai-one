@@ -1,12 +1,12 @@
 ---
 sidebar_label: Bien commencer
-title: Débuter avec AI Short - ChatGPT en 30s
+title: Débuter avec AI one - ChatGPT en 30s
 description: Commencez en 30 secondes. Copiez des prompts pour ChatGPT et Gemini et améliorez instantanément la qualité de vos conversations.
 ---
 
 # Bien commencer
 
-Lorsque vous conversez avec l'IA, de bons prompts peuvent vous aider à obtenir des réponses de haute qualité plus rapidement. AiShort a organisé un grand nombre de prompts pratiques pour vous, prêts à être copiés et utilisés.
+Lorsque vous conversez avec l'IA, de bons prompts peuvent vous aider à obtenir des réponses de haute qualité plus rapidement. AI one a organisé un grand nombre de prompts pratiques pour vous, prêts à être copiés et utilisés.
 
 ## Utilisation de base
 
@@ -15,7 +15,7 @@ Lorsque vous conversez avec l'IA, de bons prompts peuvent vous aider à obtenir 
 3. Ouvrez n'importe quel modèle d'IA et collez le prompt
 4. Suivez les instructions du prompt pour ajouter votre question spécifique
 
-![](/img/docs/how-to-use-aishort.gif)
+![](/img/docs/how-to-use-aione.png)
 
 ## Accès rapide
 

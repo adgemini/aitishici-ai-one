@@ -1,12 +1,12 @@
 ---
 sidebar_label: 확장 프로그램 사용법
-title: AI Short 확장 프로그램 가이드 - 사이드바 및 단축키
-description: AI Short 브라우저 확장 프로그램 마스터! Alt+Shift+S로 프롬프트 라이브러리 호출.
+title: AI one 확장 프로그램 가이드 - 사이드바 및 단축키
+description: AI one 브라우저 확장 프로그램 마스터! Alt+Shift+S로 프롬프트 라이브러리 호출.
 ---
 
 # 브라우저 확장 프로그램 사용법
 
-ChatGPT Shortcut은 13개 주요 언어를 지원합니다. 확장 프로그램 언어는 브라우저 환경에 따라 자동 설정됩니다. 설정 페이지에서 수동으로 변경할 수도 있습니다.
+Chat instructions은 13개 주요 언어를 지원합니다. 확장 프로그램 언어는 브라우저 환경에 따라 자동 설정됩니다. 설정 페이지에서 수동으로 변경할 수도 있습니다.
 
 ![](/img/docs/extension-settings.png)
 

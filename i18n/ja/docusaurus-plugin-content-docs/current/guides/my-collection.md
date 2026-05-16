@@ -17,7 +17,7 @@ description: お気に入りのプロンプトをタグで整理！ドラッグ�
 
 ブラウザはビューの選択を自動的に記憶し、次回の訪問時に最後のビューに切り替わります。
 
-![マイコレクションビュー](/img/docs/my-collection-view.gif)
+![マイコレクションビュー](/img/docs/my-collection-view.png)
 
 ## コレクションに追加
 
@@ -63,7 +63,7 @@ description: お気に入りのプロンプトをタグで整理！ドラッグ�
 
 並べ替え機能は、マイコレクションビューでのみ利用可能です。
 
-![ドラッグアンドドロップ並べ替え](/img/docs/my-collection-drag.gif)
+![ドラッグアンドドロップ並べ替え](/img/docs/my-collection-drag.png)
 
 ## 関連ドキュメント
 

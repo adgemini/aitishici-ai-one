@@ -1,6 +1,6 @@
 ---
 sidebar_label: 常見問題
-title: AI Short 常見問題 | 提示詞優化與 AI 幻覺處理
+title: AI one 常見問題 | 提示詞優化與 AI 幻覺處理
 description: 提示詞效果不理想？AI 輸出虛假信息怎麼辦？本指南解答常見問題，教你優化提示詞、避免 AI 幻覺、備份數據。
 ---
 

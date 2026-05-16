@@ -1,16 +1,16 @@
 ---
 sidebar_label: Panduan Instal Chrome CRX
 title: Instal Chrome CRX - Pengaturan Mode Developer Manual
-description: Instal ekstensi AI Short secara manual melalui file CRX. Aktifkan mode developer dan seret untuk menginstal. Termasuk solusi untuk masalah umum.
+description: Instal ekstensi AI one secara manual melalui file CRX. Aktifkan mode developer dan seret untuk menginstal. Termasuk solusi untuk masalah umum.
 ---
 
 # Panduan Instalasi Lokal Ekstensi Chrome CRX
 
 ## Unduh Paket CRX
 
-Unduh paket instalasi crx ChatGPT Shortcut (ChatGPT_Shortcut-crx-3.x.x.zip) dan ekstrak (file crx ada di dalam folder yang diekstrak).
+Unduh paket instalasi crx Chat instructions (ChatGPT_Shortcut-crx-3.x.x.zip) dan ekstrak (file crx ada di dalam folder yang diekstrak).
 
-- **GitHub**: [GitHub Release](https://github.com/rockbenben/ChatGPT-Shortcut/releases/latest)
+- **GitHub**: [GitHub Release](https://github.com/rockbenben/Chat-instructions/releases/latest)
 
 ![](https://img.newzone.top/2024-08-12-21-47-10.png?imageMogr2/format/webp)
 
@@ -28,7 +28,7 @@ chrome://extensions
 
 ## Instal Ekstensi
 
-Instal ekstensi ChatGPT Shortcut (Catatan ⚠️: Anda harus menyeret file .crx, JANGAN klik "Muat yang belum dikemas")
+Instal ekstensi Chat instructions (Catatan ⚠️: Anda harus menyeret file .crx, JANGAN klik "Muat yang belum dikemas")
 
 ![](https://img.newzone.top/2024-08-12-22-16-38.png?imageMogr2/format/webp)
 

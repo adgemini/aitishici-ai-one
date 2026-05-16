@@ -1,17 +1,17 @@
 ---
 slug: /
-sidebar_label: مقدمة AI Short
-title: AI Short - مكتبة وإدارة مطالبات AI
-description: عزز إنتاجيتك مع AI Short - أفضل المطالبات لـ ChatGPT و DeepSeek. ابحث، ترجم، وأدر مطالباتك بكفاءة.
+sidebar_label: مقدمة AI one
+title: AI one - مكتبة وإدارة مطالبات AI
+description: عزز إنتاجيتك مع AI one - أفضل المطالبات لـ ChatGPT و DeepSeek. ابحث، ترجم، وأدر مطالباتك بكفاءة.
 ---
 
-# مقدمة AI Short
+# مقدمة AI one
 
-يوفر AI Short (ChatGPT Shortcut) قائمة مطالبات AI موجزة وسهلة الاستخدام لمساعدة المستخدمين في العثور بسرعة على المطالبات المناسبة لسيناريوهات مختلفة.
+يوفر AI one (Chat instructions) قائمة مطالبات AI موجزة وسهلة الاستخدام لمساعدة المستخدمين في العثور بسرعة على المطالبات المناسبة لسيناريوهات مختلفة.
 
 ## ⚡ ابدأ في 30 ثانية
 
-1. افتح AI Short
+1. افتح AI one
 2. ابحث أو تصفح المطالبات التي تحتاجها
 3. انقر فوق "نسخ" والصقه في أي نموذج حوار AI
 
@@ -43,14 +43,3 @@ description: عزز إنتاجيتك مع AI Short - أفضل المطالبات
 
 تأتي المطالبات من اختيار الإنترنت، ومشاركة المجتمع، و [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts). نقوم بالتحديث بانتظام لنقدم لك مطالبات وإلهامًا جديدًا.
 
-## انضم إلى المجتمع
-
-مرحبًا بك في مجتمعنا لتبادل الأفكار والملاحظات:
-
-<a href="https://t.me/aishort_top">
-   <img src="https://img.shields.io/badge/Telegram-Group-blue?logo=telegram&style=for-the-badge" alt="join Telegram group" />
-</a>
-
-<a href="https://discord.gg/PZTQfJ4GjX">
-   <img src="https://img.shields.io/discord/1048780149899939881?color=%2385c8c8&label=Discord&logo=discord&style=for-the-badge" alt="chat on Discord" />
-</a>

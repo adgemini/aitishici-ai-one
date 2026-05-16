@@ -1,6 +1,6 @@
 ---
 sidebar_label: Community Prompts
-title: AI Short Community | Discover & Share Quality AI Prompts
+title: AI one Community | Discover & Share Quality AI Prompts
 description: Discover top-rated AI prompts in the community! Filter by votes, share your best ideas for exposure, or manage private prompts for personal use.
 ---
 

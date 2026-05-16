@@ -5,7 +5,7 @@ import { Button, Tag, Typography, Row, Col, Flex, Space } from "antd";
 import { GithubOutlined } from "@ant-design/icons";
 import Comments from "@site/src/components/Comments";
 
-const REPO = "rockbenben/ChatGPT-Shortcut";
+const REPO = "rockbenben/Chat-instructions";
 const ISSUES_BASE = `https://github.com/${REPO}/issues`;
 
 // Chips 携带 GitHub label query — 点击 chip 跳到对应 label 已有 issues 列表（浏览历史反馈）

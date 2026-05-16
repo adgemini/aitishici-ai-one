@@ -1,20 +1,20 @@
 <h1 align="center">
-    <a href="https://www.aishort.top/">
-        <img src="../static/img/logo.png" alt="AiShort Logo" width="120" height="120" />
+    <a href="https://www.onebiu.cn/">
+        <img src="../static/img/logo.png" alt="AI one Logo" width="120" height="120" />
     </a>
     <br>
-    AiShort (ChatGPT Shortcut) - 使いやすいAIプロンプト管理ツール
+    AI one (Chat instructions) - 使いやすいAIプロンプト管理ツール
 </h1>
 
 <p align="center">
-    <a href="https://github.com/rockbenben/ChatGPT-Shortcut/blob/main/LICENSE">
-        <img src="https://img.shields.io/github/license/rockbenben/ChatGPT-Shortcut?color=blue&label=License" alt="License" />
+    <a href="https://github.com/rockbenben/Chat-instructions/blob/main/LICENSE">
+        <img src="https://img.shields.io/github/license/rockbenben/Chat-instructions?color=blue&label=License" alt="License" />
     </a>
-    <a href="https://github.com/rockbenben/ChatGPT-Shortcut/stargazers">
-        <img src="https://img.shields.io/github/stars/rockbenben/ChatGPT-Shortcut?style=social" alt="GitHub Stars" />
+    <a href="https://github.com/rockbenben/Chat-instructions/stargazers">
+        <img src="https://img.shields.io/github/stars/rockbenben/Chat-instructions?style=social" alt="GitHub Stars" />
     </a>
-    <a href="https://github.com/rockbenben/ChatGPT-Shortcut/releases">
-        <img src="https://img.shields.io/github/v/release/rockbenben/ChatGPT-Shortcut?color=green" alt="Version" />
+    <a href="https://github.com/rockbenben/Chat-instructions/releases">
+        <img src="https://img.shields.io/github/v/release/rockbenben/Chat-instructions?color=green" alt="Version" />
     </a>
     <a href="https://discord.gg/PZTQfJ4GjX">
         <img src="https://img.shields.io/discord/1048780149899939881?color=%2385c8c8&label=Discord&logo=discord&style=flat" alt="Discord" />
@@ -39,22 +39,22 @@
 <a href="./README-bn.md">বাংলা</a>
 </p>
 <p align="center">
-    <em>AiShort (ChatGPT Shortcut) - 効率と生産性を最大化</em>
+    <em>AI one (Chat instructions) - 効率と生産性を最大化</em>
 </p>
 
 ## ⚡ クイックスタート
 
-1. [aishort.top](https://www.aishort.top/ja/) にアクセス
+1. [onebiu.cn](https://www.onebiu.cn/ja/) にアクセス
 2. 必要なプロンプトを検索または閲覧
 3. 「コピー」をクリックして任意の AI モデルに貼り付け
 
-![AiShort Interface](../static/img/docs/interface-home.png)
+![AI one Interface](../static/img/docs/interface-home.png)
 
-これだけです！詳細は[ユーザーガイド](https://www.aishort.top/ja/docs/guides/getting-started)をご覧ください。
+これだけです！詳細は[ユーザーガイド](https://www.onebiu.cn/ja/docs/guides/getting-started)をご覧ください。
 
-## AiShort を使う理由
+## AI one を使う理由
 
-AiShort（ChatGPT Shortcut）は、あらゆるシーンに対応した AI プロンプトを素早く見つけられる厳選リストを提供します。
+AI one（Chat instructions）は、あらゆるシーンに対応した AI プロンプトを素早く見つけられる厳選リストを提供します。
 
 ### 基本機能
 
@@ -80,18 +80,18 @@ AiShort（ChatGPT Shortcut）は、あらゆるシーンに対応した AI プ�
 
 ## ブラウザ拡張機能
 
-いつでも AiShort プロンプトにアクセス。Chrome、Edge、Firefox 対応。`Alt + Shift + S`でサイドバーを表示。
+いつでも AI one プロンプトにアクセス。Chrome、Edge、Firefox 対応。`Alt + Shift + S`でサイドバーを表示。
 
 - **Chrome**: [Chrome ウェブストア](https://chrome.google.com/webstore/detail/chatgpt-shortcut/blcgeoojgdpodnmnhfpohphdhfncblnj)
 - **Edge**: [Microsoft Edge アドオン](https://microsoftedge.microsoft.com/addons/detail/chatgpt-shortcut/hnggpalhfjmdhhmgfjpmhlfilnbmjoin)
 - **Firefox**: [Firefox アドオン](https://addons.mozilla.org/addon/chatgpt-shortcut/)
-- **GitHub**: [リリース](https://github.com/rockbenben/ChatGPT-Shortcut/releases/latest)
+- **GitHub**: [リリース](https://github.com/rockbenben/Chat-instructions/releases/latest)
 
 ## デプロイ
 
-Vercel、Cloudflare Pages、Docker、またはローカル環境でデプロイ可能。[デプロイガイド](https://www.aishort.top/ja/docs/deploy)をご確認ください。
+Vercel、Cloudflare Pages、Docker、またはローカル環境でデプロイ可能。[デプロイガイド](https://www.onebiu.cn/ja/docs/deploy)をご確認ください。
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Frockbenben%2FChatGPT-Shortcut%2Ftree%2Fmain)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Frockbenben%2FChat-instructions%2Ftree%2Fmain)
 
 ## コミュニティ
 

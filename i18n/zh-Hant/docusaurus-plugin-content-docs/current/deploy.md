@@ -1,14 +1,14 @@
 ---
 sidebar_label: 項目部署
-title: AI Short 部署指南 | Vercel/Docker 一鍵部署配置
-description: 快速部署 AI Short 提示詞項目！支持 Vercel、Cloudflare、Docker 多種方式，含自定義配置與自動更新教程。
+title: AI one 部署指南 | Vercel/Docker 一鍵部署配置
+description: 快速部署 AI one 提示詞項目！支持 Vercel、Cloudflare、Docker 多種方式，含自定義配置與自動更新教程。
 ---
 
 # 項目部署
 
 ## 配置與自定義
 
-AI Short 是一個開源項目，你可以根據需求自由修改網站的標題、描述、提示詞等內容。以下是常見的修改選項及操作說明：
+AI one 是一個開源項目，你可以根據需求自由修改網站的標題、描述、提示詞等內容。以下是常見的修改選項及操作說明：
 
 - **修改網站標題和描述**  
   要更改網站的標題和描述信息，請編輯 `docusaurus.config.js` 配置文件。
@@ -108,9 +108,9 @@ yarn build --locale zh-Hans && yarn build --locale en
 
 ### Vercel 部署
 
-點擊下方按鈕，一鍵將 ChatGPT-Shortcut 部署到 Vercel 平臺：
+點擊下方按鈕，一鍵將 Chat-instructions 部署到 Vercel 平臺：
 
-[![Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Frockbenben%2FChatGPT-Shortcut%2Ftree%2Fmain)
+[![Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Frockbenben%2FChat-instructions%2Ftree%2Fmain)
 
 **注意**：Vercel 免費版可能會因內存不足而報錯，遇到這種情況可以選擇進行單語言部署。具體操作如下：
 
@@ -122,7 +122,7 @@ yarn build --locale zh-Hans && yarn build --locale en
 
 點擊下方按鈕或鏈接，Fork 本項目後，按說明在 Cloudflare Pages 上部署：
 
-👉 [Fork 本項目](https://github.com/rockbenben/ChatGPT-Shortcut/fork)
+👉 [Fork 本項目](https://github.com/rockbenben/Chat-instructions/fork)
 
 部署步驟：
 

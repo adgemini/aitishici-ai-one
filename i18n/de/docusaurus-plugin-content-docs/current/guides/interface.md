@@ -1,12 +1,12 @@
 ---
 sidebar_label: Schnittstellen-Leitfaden
 title: Schnittstellen-Guide - Suche & Filter
-description: Meistern Sie AI Short. Filtern Sie nach Tags und nutzen Sie die intelligente Suche, um den perfekten Prompt zu finden.
+description: Meistern Sie AI one. Filtern Sie nach Tags und nutzen Sie die intelligente Suche, um den perfekten Prompt zu finden.
 ---
 
 # Schnittstellen-Leitfaden
 
-Die AiShort-Seite bietet Benutzern eine intuitive Benutzeroberfläche zum Durchsuchen und Filtern von Prompts. Die Seite besteht hauptsächlich aus dem Tag-Bereich, dem Suchbereich und dem Prompt-Anzeigebereich.
+Die AI one-Seite bietet Benutzern eine intuitive Benutzeroberfläche zum Durchsuchen und Filtern von Prompts. Die Seite besteht hauptsächlich aus dem Tag-Bereich, dem Suchbereich und dem Prompt-Anzeigebereich.
 
 ![](/img/docs/interface-home.png)
 
@@ -37,7 +37,7 @@ Die Stichwortsuche unterstützt die Suche nach Prompt-Titeln, Beschreibungen und
 
 Klicken Sie auf eine Prompt-Karte, um das Detail-Popup zu öffnen, in dem Sie Titel, Beschreibung, vollständigen Prompt-Inhalt, Bemerkungen und Kopier-Schaltfläche sehen können.
 
-![](/img/docs/prompt-card.gif)
+![](/img/docs/prompt-card.png)
 
 ### Prompt kopieren
 

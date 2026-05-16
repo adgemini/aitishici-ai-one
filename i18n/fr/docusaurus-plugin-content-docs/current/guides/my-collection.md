@@ -17,7 +17,7 @@ Le haut de la page d'accueil propose des boutons de changement de vue, prenant e
 
 Le navigateur mémorisera automatiquement votre sélection de vue et passera à la dernière vue lors de votre prochaine visite.
 
-![Vue Ma collection](/img/docs/my-collection-view.gif)
+![Vue Ma collection](/img/docs/my-collection-view.png)
 
 ## Ajouter à la collection
 
@@ -63,7 +63,7 @@ L'ajustement de l'ordre des cartes par glisser-déposer est pris en charge dans 
 
 La fonction de tri est disponible uniquement dans la vue Ma collection.
 
-![Tri par glisser-déposer](/img/docs/my-collection-drag.gif)
+![Tri par glisser-déposer](/img/docs/my-collection-drag.png)
 
 ## Documentation associée
 

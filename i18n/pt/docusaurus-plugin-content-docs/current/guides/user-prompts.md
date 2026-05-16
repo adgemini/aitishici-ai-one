@@ -1,6 +1,6 @@
 ---
 sidebar_label: Prompts Personalizados
-title: Prompts Personalizados no AI Short - Crie e Compartilhe
+title: Prompts Personalizados no AI one - Crie e Compartilhe
 description: Crie seus próprios prompts - Armazenamento em nuvem, controle de privacidade e exportação de backup.
 ---
 

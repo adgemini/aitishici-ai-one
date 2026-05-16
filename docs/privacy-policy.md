@@ -2,57 +2,59 @@
 sidebar_position: 1
 ---
 
-# AiShort Privacy Policy
+# AI one 隐私政策
 
-Last updated May 25, 2023
+最后更新于 2023 年 5 月 25 日
 
-This privacy notice for aishort.top ("we," "us," or "our") describes how and why we might collect, store, use, and/or share ("process") your information when you use our services ("Services"), such as when you:
+本隐私声明由 onebiu.cn（"我们"）提供，描述我们在您使用服务（"服务"）时如何以及为何收集、存储、使用和/或分享（"处理"）您的信息，例如当您：
 
-Visit our website at aishort.top, or any website of ours that links to this privacy notice
-Engage with us in other related ways, including any sales, marketing, or events.
-Questions or concerns? Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our services. If you still have any questions or concerns, please contact us at qingwhat@gmail.com.
+- 访问我们的网站 onebiu.cn 或链接到本隐私声明的任何其他由我们运营的网站；
+- 以其他相关方式与我们互动，包括任何销售、营销或活动。
 
-## Personal Data We Collect
+有问题或疑虑？阅读本隐私声明将帮助您了解您的隐私权利和选择。如果您不同意我们的政策和做法，请不要使用我们的服务。如果您仍有任何问题或疑虑，请通过 admin@onebiu.com 与我们联系。
 
-Personal information you disclose to us
-We collect information that you voluntarily provide to us when you register on the Services, express an interest in obtaining information about us or our products and Services, when you participate in activities on the Services, or otherwise when you contact us.
+## 我们收集的个人数据
 
-The personal information we collect may include the following:
+### 您向我们披露的个人信息
 
-- email addresses
-- usernames
-- passwords
+我们在您注册服务、表达获取我们或我们的产品及服务信息的兴趣、参与服务活动或以其他方式联系我们时，收集您自愿提供给我们的信息。
 
-We do not process sensitive information.
+我们收集的个人信息可能包括：
 
-## Personal Data We Obtain From Third Parties
+- 电子邮件地址
+- 用户名
+- 密码
 
-Single-Sign Ons – If you sign up to our website aishort.top through Google, you authorize us to collect your authentication information, such as your username and encrypted access credentials, and other personal data available through the third party application account, including the following personal data:
+我们不处理敏感信息。
 
-Google – You can sign up and log in to AiShort using your Google account. When you sign up using Google, Google will ask your permission to share certain information from your Google account with aishort.top. This includes your Google email address and avatar (optional). This information is collected by Google and is provided to us under the terms of Google’s privacy policy. You can regulate the information that we receive from Google using your Google activity controls. If you signed up using Google by mistake, you can delete your account from the Account page within your Settings at any time, or you can contact us by emailing us at qingwhat@gmail.com.
+## 我们从第三方获取的个人数据
 
-## How We Use Your Personal Data
+单点登录 — 如果您通过 Google 注册我们的网站 onebiu.cn，您授权我们收集您的身份验证信息，例如您的用户名和加密访问凭证，以及通过第三方应用账号可获得的其他个人数据，包括以下个人数据：
 
-We use your personal data to:
+Google — 您可以使用 Google 账号注册和登录 AI one。使用 Google 注册时，Google 会请求您的许可，将您的 Google 账号中的某些信息共享给 onebiu.cn，包括您的 Google 邮箱地址和头像（可选）。此信息由 Google 收集，并根据 Google 隐私政策的条款提供给我们。您可以使用 Google 活动控制来管理我们从 Google 收到的信息。如果您误用了 Google 注册，您可以在设置中的账号页面随时删除您的账号，或通过 admin@onebiu.com 联系我们。
 
-- Provide, Improve, and Develop the Platform - We process your personal data primarily for the adequate performance of our website. We may also process your personal data in light of our legitimate interest in improving the Website and giving our users the best experience. We do this to:
-  - Operate and maintain your aishort.top account, and to provide you with access to and use of the Platform. Your email address and password are used to identify you when you log into the Platform.
-  - Identify you as the creator of the prompts that you upload, the comments that you post and/or the other contributions that you make to the Website.
-  - Respond to you about any comment or enquiry you have submitted.
-- Maintain a Safe and Secure Environment - We also process your personal data in light of our legitimate interest in improving the security of the Platform (including the security of your personal data) in order to give our users the best experience.
+## 我们如何使用您的个人数据
 
-## How We Share Your Personal Data
+我们将您的个人数据用于以下目的：
 
-We do not sell your personal data to external parties.
+- 提供、改进和开发平台 — 我们处理您的个人数据主要是为了正常运行我们的网站。我们也可能出于改善网站和为用户提供最佳体验的合法利益处理您的个人数据。具体用途包括：
+  - 运营和维护您的 onebiu.cn 账号，并为 您提供平台的访问和使用权限。您的邮箱地址和密码用于在您登录平台时识别您的身份。
+  - 将您标识为您上传的提示词、发布的评论和/或其他对网站贡献内容的创建者。
+  - 回复您提交的任何评论或咨询。
+- 维护安全可靠的环境 — 我们也出于改善平台安全性（包括您个人数据的安全性）的合法利益处理您的个人数据，以为用户提供最佳体验。
 
-- Through Your Profile – Any personal data that you choose to disclose in your public profile on aishort.top will be accessible by other users of the website, who may view your profile information, view or and comment on any of your public prompts.
-- Third Party Applications – If you choose to connect your AiShort account to other apps or social networks such as Facebook and Twitter, you may be sharing certain personal data with these apps or networks. Materials that you share with social media networks will appear on your timeline (or similar functions) as well as in feeds that may be viewed by the public or by certain followers, subject to the terms and conditions of such social media networks.
-- Compliance with Laws – We may disclose your personal data to courts, law enforcement agencies, and governmental authorities (i) to comply with our legal obligations, (ii) to comply with legal process and to respond to claims asserted against aishort.top, (iii) to respond to verified requests relating to a criminal investigation or alleged or suspected illegal activity or any other activity that may expose us, you, or any other of our users to legal liability, (iv) to enforce and administer our Terms of Use and other agreements with users, or (v) to protect the rights, property or personal safety of aishort.top, its employees, and members of the public.
+## 我们如何分享您的个人数据
 
-## Information Security
+我们不出售您的个人数据给外部方。
 
-aishort.top maintains appropriate technical, administrative, and physical safeguards that are designed to prevent unauthorized access, use or disclosure of personal data we collect or store and to ensure a level of security appropriate to the risk of varying likelihood and severity for the rights and freedoms of natural persons that may be involved with our processing operations. We regularly monitor our systems for possible vulnerabilities and attacks. However, it is not possible to guarantee the security of personal data transmitted over the Internet. You use the website and provide us with personal data at your own discretion and risk.
+- 通过您的个人主页 — 您在 onebiu.cn 的公开个人主页中选择披露的任何个人数据均可被网站其他用户查看，他们可以查看您的个人主页信息、查看或评论您的任何公开提示词。
+- 第三方应用 — 如果您选择将您的 AI one 账号连接到其他应用或社交网络（如 Facebook 和 Twitter），您可能会与这些应用或网络分享某些个人数据。您分享到社交网络的内容将出现在您的时间线（或类似功能）以及公开或特定粉丝可见的推送中，具体受相关社交网络的条款和条件约束。
+- 遵守法律 — 我们可能向法院、执法机构和政府机关披露您的个人数据，以便 (i) 遵守我们的法律义务，(ii) 遵守法律程序并回应针对 onebiu.cn 的索赔主张，(iii) 回应与刑事调查或涉嫌非法活动或任何可能使我们、您或其他用户承担法律责任的活动的验证请求，(iv) 执行和管理我们的使用条款及其他与用户的协议，或 (v) 保护 onebiu.cn、其员工和公众的权利、财产或人身安全。
 
-## Contact Information
+## 信息安全
 
-If you have questions or complaints about this Privacy Policy or our practices, please contact us by email at qingwhat@gmail.com.
+onebiu.cn 维护适当的技术、行政和物理安全措施，旨在防止未经授权访问、使用或披露我们收集或存储的个人数据，并确保与我们的处理操作中可能涉及的自然人权利和自由的风险程度相匹配的安全水平。我们定期监控系统是否存在可能的漏洞和攻击。然而，无法保证通过互联网传输的个人数据的安全。您自行决定使用网站并承担风险向我们提供个人数据。
+
+## 联系方式
+
+如果您对本隐私政策或我们的做法有任何疑问或投诉，请通过 admin@onebiu.com 与我们联系。

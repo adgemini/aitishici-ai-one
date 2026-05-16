@@ -1,14 +1,14 @@
 ---
 sidebar_label: デプロイ
-title: AI Short デプロイ：Vercel/Docker構築ガイド
-description: 自分だけのAIプロンプトライブラリを構築！Vercel、DockerでAI Shortを簡単デプロイ。自動更新設定も解説。
+title: AI one デプロイ：Vercel/Docker構築ガイド
+description: 自分だけのAIプロンプトライブラリを構築！Vercel、DockerでAI oneを簡単デプロイ。自動更新設定も解説。
 ---
 
 # プロジェクトのデプロイ
 
 ## 設定とカスタマイズ
 
-AI Short はオープンソースプロジェクトであり、ニーズに合わせてウェブサイトのタイトル、説明、プロンプトなどのコンテンツを自由に変更できます。以下は一般的な変更オプションと操作説明です：
+AI one はオープンソースプロジェクトであり、ニーズに合わせてウェブサイトのタイトル、説明、プロンプトなどのコンテンツを自由に変更できます。以下は一般的な変更オプションと操作説明です：
 
 - **ウェブサイトのタイトルと説明の変更**
   ウェブサイトのタイトルと説明情報を変更するには、`docusaurus.config.js` 設定ファイルを編集してください。
@@ -108,9 +108,9 @@ yarn build --locale zh-Hans && yarn build --locale en
 
 ### Vercel デプロイ
 
-下のボタンをクリックして、ChatGPT-Shortcut を Vercel プラットフォームにワンクリックでデプロイします：
+下のボタンをクリックして、Chat-instructions を Vercel プラットフォームにワンクリックでデプロイします：
 
-[![Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Frockbenben%2FChatGPT-Shortcut%2Ftree%2Fmain)
+[![Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Frockbenben%2FChat-instructions%2Ftree%2Fmain)
 
 **注意**：Vercel の無料版ではメモリ不足によりエラーが発生する場合があります。このような状況に遭遇した場合は、単一言語のデプロイを選択できます。具体的な操作は以下の通りです：
 
@@ -122,7 +122,7 @@ yarn build --locale zh-Hans && yarn build --locale en
 
 下のボタンまたはリンクをクリックして、このプロジェクトをフォークした後、説明に従って Cloudflare Pages にデプロイします：
 
-👉 [このプロジェクトをフォーク](https://github.com/rockbenben/ChatGPT-Shortcut/fork)
+👉 [このプロジェクトをフォーク](https://github.com/rockbenben/Chat-instructions/fork)
 
 デプロイ手順：
 

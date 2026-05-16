@@ -1,20 +1,20 @@
 <h1 align="center">
-    <a href="https://www.aishort.top/">
-        <img src="../static/img/logo.png" alt="AiShort Logo" width="120" height="120" />
+    <a href="https://www.onebiu.cn/">
+        <img src="../static/img/logo.png" alt="AI one Logo" width="120" height="120" />
     </a>
     <br>
-    AiShort (ChatGPT Shortcut) - उपयोग में आसान एआई प्रॉम्प्ट प्रबंधन उपकरण
+    AI one (Chat instructions) - उपयोग में आसान एआई प्रॉम्प्ट प्रबंधन उपकरण
 </h1>
 
 <p align="center">
-    <a href="https://github.com/rockbenben/ChatGPT-Shortcut/blob/main/LICENSE">
-        <img src="https://img.shields.io/github/license/rockbenben/ChatGPT-Shortcut?color=blue&label=License" alt="License" />
+    <a href="https://github.com/rockbenben/Chat-instructions/blob/main/LICENSE">
+        <img src="https://img.shields.io/github/license/rockbenben/Chat-instructions?color=blue&label=License" alt="License" />
     </a>
-    <a href="https://github.com/rockbenben/ChatGPT-Shortcut/stargazers">
-        <img src="https://img.shields.io/github/stars/rockbenben/ChatGPT-Shortcut?style=social" alt="GitHub Stars" />
+    <a href="https://github.com/rockbenben/Chat-instructions/stargazers">
+        <img src="https://img.shields.io/github/stars/rockbenben/Chat-instructions?style=social" alt="GitHub Stars" />
     </a>
-    <a href="https://github.com/rockbenben/ChatGPT-Shortcut/releases">
-        <img src="https://img.shields.io/github/v/release/rockbenben/ChatGPT-Shortcut?color=green" alt="Version" />
+    <a href="https://github.com/rockbenben/Chat-instructions/releases">
+        <img src="https://img.shields.io/github/v/release/rockbenben/Chat-instructions?color=green" alt="Version" />
     </a>
     <a href="https://discord.gg/PZTQfJ4GjX">
         <img src="https://img.shields.io/discord/1048780149899939881?color=%2385c8c8&label=Discord&logo=discord&style=flat" alt="Discord" />
@@ -39,22 +39,22 @@
 <a href="./README-bn.md">বাংলা</a>
 </p>
 <p align="center">
-    <em>AiShort (ChatGPT Shortcut) - अपनी दक्षता और उत्पादकता को अधिकतम करें</em>
+    <em>AI one (Chat instructions) - अपनी दक्षता और उत्पादकता को अधिकतम करें</em>
 </p>
 
 ## ⚡ त्वरित प्रारंभ
 
-1. [aishort.top](https://www.aishort.top/hi/) पर जाएं
+1. [onebiu.cn](https://www.onebiu.cn/hi/) पर जाएं
 2. आवश्यक प्रॉम्प्ट खोजें या ब्राउज़ करें
 3. "कॉपी" पर क्लिक करें और किसी भी AI मॉडल में पेस्ट करें
 
-![AiShort Interface](../static/img/docs/interface-home.png)
+![AI one Interface](../static/img/docs/interface-home.png)
 
-बस इतना ही! अधिक सुविधाओं के लिए [उपयोगकर्ता गाइड](https://www.aishort.top/hi/docs/guides/getting-started) देखें।
+बस इतना ही! अधिक सुविधाओं के लिए [उपयोगकर्ता गाइड](https://www.onebiu.cn/hi/docs/guides/getting-started) देखें।
 
-## AiShort क्यों?
+## AI one क्यों?
 
-AiShort (ChatGPT Shortcut) AI प्रॉम्प्ट्स की एक क्यूरेटेड सूची प्रदान करता है, जो आपको किसी भी स्थिति के लिए जल्दी से प्रॉम्प्ट खोजने में मदद करता है।
+AI one (Chat instructions) AI प्रॉम्प्ट्स की एक क्यूरेटेड सूची प्रदान करता है, जो आपको किसी भी स्थिति के लिए जल्दी से प्रॉम्प्ट खोजने में मदद करता है।
 
 ### मुख्य विशेषताएं
 
@@ -80,18 +80,18 @@ AiShort (ChatGPT Shortcut) AI प्रॉम्प्ट्स की एक �
 
 ## ब्राउज़र एक्सटेंशन
 
-कभी भी AiShort प्रॉम्प्ट एक्सेस करें। Chrome, Edge और Firefox समर्थित, `Alt + Shift + S` से साइडबार खोलें।
+कभी भी AI one प्रॉम्प्ट एक्सेस करें। Chrome, Edge और Firefox समर्थित, `Alt + Shift + S` से साइडबार खोलें।
 
 - **Chrome**: [Chrome Web Store](https://chrome.google.com/webstore/detail/chatgpt-shortcut/blcgeoojgdpodnmnhfpohphdhfncblnj)
 - **Edge**: [Microsoft Edge Addons](https://microsoftedge.microsoft.com/addons/detail/chatgpt-shortcut/hnggpalhfjmdhhmgfjpmhlfilnbmjoin)
 - **Firefox**: [Firefox Add-ons](https://addons.mozilla.org/addon/chatgpt-shortcut/)
-- **GitHub**: [Releases](https://github.com/rockbenben/ChatGPT-Shortcut/releases/latest)
+- **GitHub**: [Releases](https://github.com/rockbenben/Chat-instructions/releases/latest)
 
 ## डिप्लॉयमेंट
 
-Vercel, Cloudflare Pages, Docker या स्थानीय रूप से अपना इंस्टेंस डिप्लॉय करें। [डिप्लॉयमेंट गाइड](https://www.aishort.top/hi/docs/deploy) देखें।
+Vercel, Cloudflare Pages, Docker या स्थानीय रूप से अपना इंस्टेंस डिप्लॉय करें। [डिप्लॉयमेंट गाइड](https://www.onebiu.cn/hi/docs/deploy) देखें।
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Frockbenben%2FChatGPT-Shortcut%2Ftree%2Fmain)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Frockbenben%2FChat-instructions%2Ftree%2Fmain)
 
 ## समुदाय
 

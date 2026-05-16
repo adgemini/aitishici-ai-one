@@ -1,14 +1,14 @@
 ---
 sidebar_label: النشر (Deployment)
-title: دليل نشر AI Short - Vercel و Docker
-description: انشر AI Short بسهولة مع Vercel و Docker و Cloudflare. دليل خطوة بخطوة للإعداد والتحديث التلقائي.
+title: دليل نشر AI one - Vercel و Docker
+description: انشر AI one بسهولة مع Vercel و Docker و Cloudflare. دليل خطوة بخطوة للإعداد والتحديث التلقائي.
 ---
 
 # نشر المشروع
 
 ## التكوين والتخصيص
 
-AI Short هو مشروع مفتوح المصدر، يسمح لك بتعديل عنوان الموقع، الوصف، والمطالبات وفقًا لاحتياجاتك. فيما يلي خيارات التعديل الشائعة والتعليمات:
+AI one هو مشروع مفتوح المصدر، يسمح لك بتعديل عنوان الموقع، الوصف، والمطالبات وفقًا لاحتياجاتك. فيما يلي خيارات التعديل الشائعة والتعليمات:
 
 - **تعديل عنوان الموقع والوصف**
   لتغيير عنوان الموقع والوصف، يرجى تحرير ملف التكوين `docusaurus.config.js`.
@@ -108,9 +108,9 @@ yarn build --locale zh-Hans && yarn build --locale en
 
 ### نشر Vercel
 
-انقر فوق الزر أدناه لنشر ChatGPT-Shortcut بنقرة واحدة على منصة Vercel:
+انقر فوق الزر أدناه لنشر Chat-instructions بنقرة واحدة على منصة Vercel:
 
-[![Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Frockbenben%2FChatGPT-Shortcut%2Ftree%2Fmain)
+[![Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Frockbenben%2FChat-instructions%2Ftree%2Fmain)
 
 **ملاحظة**: قد يفشل الإصدار المجاني من Vercel بسبب عدم كفاية الذاكرة. إذا واجهت هذا الموقف، يمكنك اختيار نشر لغة واحدة. العمليات المحددة هي كما يلي:
 
@@ -122,7 +122,7 @@ yarn build --locale zh-Hans && yarn build --locale en
 
 انقر فوق الزر أو الرابط أدناه، قم بعمل Fork لهذا المشروع، واتبع التعليمات لنشره على Cloudflare Pages:
 
-👉 [Fork this project](https://github.com/rockbenben/ChatGPT-Shortcut/fork)
+👉 [Fork this project](https://github.com/rockbenben/Chat-instructions/fork)
 
 خطوات النشر:
 

@@ -17,7 +17,7 @@ description: 즐겨찾는 프롬프트를 태그로 정리! 드래그 앤 드롭
 
 브라우저는 뷰 선택을 자동으로 기억하고 다음 방문 시 마지막 뷰로 자동 전환합니다.
 
-![마이 컬렉션 뷰](/img/docs/my-collection-view.gif)
+![마이 컬렉션 뷰](/img/docs/my-collection-view.png)
 
 ## 컬렉션에 추가
 
@@ -63,7 +63,7 @@ description: 즐겨찾는 프롬프트를 태그로 정리! 드래그 앤 드롭
 
 정렬 기능은 마이 컬렉션 뷰에서만 사용할 수 있습니다.
 
-![드래그 앤 드롭 정렬](/img/docs/my-collection-drag.gif)
+![드래그 앤 드롭 정렬](/img/docs/my-collection-drag.png)
 
 ## 관련 문서
 

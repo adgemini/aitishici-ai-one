@@ -1,6 +1,6 @@
 ---
 sidebar_label: 我的收藏
-title: AI Short 我的收藏 | 标签分类与拖拽排序
+title: AI one 我的收藏 | 标签分类与拖拽排序
 description: 收藏喜欢的 AI 提示词，通过自定义标签分类管理。支持拖拽排序，打造个性化提示词库。
 ---
 
@@ -21,7 +21,7 @@ description: 收藏喜欢的 AI 提示词，通过自定义标签分类管理。
 
 浏览器会自动记忆您的视图选择，下次访问时自动切换到上次的视图。
 
-![我的收藏视图](/img/docs/my-collection-view.gif)
+![我的收藏视图](/img/docs/my-collection-view.png)
 
 ## 添加收藏
 
@@ -67,7 +67,7 @@ description: 收藏喜欢的 AI 提示词，通过自定义标签分类管理。
 
 排序功能仅在我的收藏视图中可用。
 
-![拖拽排序操作](/img/docs/my-collection-drag.gif)
+![拖拽排序操作](/img/docs/my-collection-drag.png)
 
 ## 相关文档
 

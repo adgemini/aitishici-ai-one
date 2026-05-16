@@ -1,6 +1,6 @@
 ---
 sidebar_label: Bereitstellung
-title: AI Short Bereitstellung - Vercel & Docker
+title: AI one Bereitstellung - Vercel & Docker
 description: Einfache Bereitstellung Ihrer Prompt-Bibliothek. Anleitungen für Vercel, Docker und automatische Updates.
 ---
 
@@ -8,7 +8,7 @@ description: Einfache Bereitstellung Ihrer Prompt-Bibliothek. Anleitungen für V
 
 ## Konfiguration und Anpassung
 
-AI Short ist ein Open-Source-Projekt, das es Ihnen ermöglicht, den Website-Titel, die Beschreibung, Prompts und andere Inhalte frei nach Ihren Bedürfnissen zu ändern. Im Folgenden finden Sie gängige Änderungsoptionen und Bedienungsanleitungen:
+AI one ist ein Open-Source-Projekt, das es Ihnen ermöglicht, den Website-Titel, die Beschreibung, Prompts und andere Inhalte frei nach Ihren Bedürfnissen zu ändern. Im Folgenden finden Sie gängige Änderungsoptionen und Bedienungsanleitungen:
 
 - **Website-Titel und -Beschreibung ändern**
   Um den Titel und die Beschreibung der Website zu ändern, bearbeiten Sie bitte die Konfigurationsdatei `docusaurus.config.js`.
@@ -108,9 +108,9 @@ yarn build --locale zh-Hans && yarn build --locale en
 
 ### Vercel-Bereitstellung
 
-Klicken Sie auf die Schaltfläche unten, um ChatGPT-Shortcut mit einem Klick auf der Vercel-Plattform bereitzustellen:
+Klicken Sie auf die Schaltfläche unten, um Chat-instructions mit einem Klick auf der Vercel-Plattform bereitzustellen:
 
-[![Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Frockbenben%2FChatGPT-Shortcut%2Ftree%2Fmain)
+[![Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Frockbenben%2FChat-instructions%2Ftree%2Fmain)
 
 **Hinweis**: Die kostenlose Version von Vercel kann aufgrund unzureichenden Speichers einen Fehler melden. Wenn Sie auf diese Situation stoßen, können Sie eine Bereitstellung in einer einzelnen Sprache wählen. Die spezifischen Operationen sind wie folgt:
 
@@ -122,7 +122,7 @@ Klicken Sie auf die Schaltfläche unten, um ChatGPT-Shortcut mit einem Klick auf
 
 Klicken Sie auf die Schaltfläche oder den Link unten, um dieses Projekt zu forken, und folgen Sie dann den Anweisungen zur Bereitstellung auf Cloudflare Pages:
 
-👉 [Dieses Projekt forken](https://github.com/rockbenben/ChatGPT-Shortcut/fork)
+👉 [Dieses Projekt forken](https://github.com/rockbenben/Chat-instructions/fork)
 
 Bereitstellungsschritte:
 

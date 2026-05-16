@@ -1,12 +1,12 @@
 ---
 sidebar_label: Come usare l'estensione
-title: Guida AI Short - Barra laterale e scorciatoie
-description: Padroneggia l'estensione AI Short! Attiva la barra laterale con Alt+Shift+S.
+title: Guida AI one - Barra laterale e scorciatoie
+description: Padroneggia l'estensione AI one! Attiva la barra laterale con Alt+Shift+S.
 ---
 
 # Come usare l'estensione del browser?
 
-ChatGPT Shortcut supporta 13 lingue principali. La lingua dell'estensione viene impostata automaticamente in base al browser. Puoi anche cambiarla manualmente nelle impostazioni.
+Chat instructions supporta 13 lingue principali. La lingua dell'estensione viene impostata automaticamente in base al browser. Puoi anche cambiarla manualmente nelle impostazioni.
 
 ![](/img/docs/extension-settings.png)
 

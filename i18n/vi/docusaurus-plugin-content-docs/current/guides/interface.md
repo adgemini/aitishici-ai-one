@@ -1,12 +1,12 @@
 ---
 sidebar_label: Hướng dẫn Giao diện
-title: Hướng dẫn Giao diện AI Short | Lọc theo Thẻ & Tìm kiếm Thông minh
-description: Làm chủ giao diện AI Short! Nhanh chóng định vị prompt qua lọc thẻ và tìm kiếm từ khóa, hiểu chi tiết thẻ và các thao tác bộ sưu tập.
+title: Hướng dẫn Giao diện AI one | Lọc theo Thẻ & Tìm kiếm Thông minh
+description: Làm chủ giao diện AI one! Nhanh chóng định vị prompt qua lọc thẻ và tìm kiếm từ khóa, hiểu chi tiết thẻ và các thao tác bộ sưu tập.
 ---
 
 # Hướng dẫn Giao diện
 
-Trang AiShort cung cấp cho người dùng một giao diện trực quan để duyệt và lọc prompt. Trang chủ yếu bao gồm khu vực thẻ, khu vực tìm kiếm và khu vực hiển thị prompt.
+Trang AI one cung cấp cho người dùng một giao diện trực quan để duyệt và lọc prompt. Trang chủ yếu bao gồm khu vực thẻ, khu vực tìm kiếm và khu vực hiển thị prompt.
 
 ![](/img/docs/interface-home.png)
 
@@ -37,7 +37,7 @@ Chức năng tìm kiếm từ khóa hỗ trợ tìm kiếm tiêu đề, mô tả
 
 Nhấp vào thẻ prompt để mở popup chi tiết, nơi bạn có thể xem tiêu đề, mô tả, nội dung prompt đầy đủ, ghi chú và nút sao chép.
 
-![](/img/docs/prompt-card.gif)
+![](/img/docs/prompt-card.png)
 
 ### Sao chép Prompt
 

@@ -10,7 +10,7 @@ Trước khi sử dụng tiện ích Firefox, khuyến nghị làm theo hai bư�
 
 ## 1. Ghim Tiện ích và Truy cập Cài đặt
 
-Đầu tiên, chọn "Ghim Tiện ích ChatGPT Shortcut" (Ghim vào Thanh công cụ) trên thanh công cụ Firefox. Sau đó, vào Trung tâm Tiện ích, tìm mục tiện ích ChatGPT Shortcut và chọn "Tùy chọn". Vào giao diện cài đặt của tiện ích. Các bước cụ thể được hiển thị bên dưới:
+Đầu tiên, chọn "Ghim Tiện ích Chat instructions" (Ghim vào Thanh công cụ) trên thanh công cụ Firefox. Sau đó, vào Trung tâm Tiện ích, tìm mục tiện ích Chat instructions và chọn "Tùy chọn". Vào giao diện cài đặt của tiện ích. Các bước cụ thể được hiển thị bên dưới:
 
 ![Cài đặt Firefox](https://img.newzone.top/2023-12-25-05-51-47.png?imageMogr2/format/webp)
 

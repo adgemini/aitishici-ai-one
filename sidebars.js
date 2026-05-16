@@ -31,24 +31,11 @@ const sidebars = {
         type: "generated-index",
       },
       collapsed: false,
-      items: ["guides/interface", "guides/my-collection", "guides/user-prompts", "guides/account", "guides/community", "guides/offline", "guides/faq"],
+      items: ["guides/interface", "guides/my-collection", "guides/user-prompts", "guides/account", "guides/community", "guides/faq"],
     },
     {
       type: "category",
-      label: "浏览器插件",
-      link: {
-        type: "generated-index",
-      },
-      collapsed: false,
-      items: ["extension/README", "extension/usage", "extension/manual-chrome-extension", "extension/manual-chrome-extension-zip", "extension/firefox-extension-setting"],
-    },
-    {
-      type: "doc",
-      id: "deploy",
-    },
-    {
-      type: "category",
-      label: "Policies",
+      label: "政策条款",
       items: ["privacy-policy", "terms-of-service"],
     },
   ],

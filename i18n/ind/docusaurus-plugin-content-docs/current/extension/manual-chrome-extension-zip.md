@@ -1,16 +1,16 @@
 ---
 sidebar_label: Panduan Instal Chrome ZIP
-title: Instal Chrome ZIP - Pengaturan Ekstensi AI Short Manual
-description: Instal ekstensi AI Short di Chrome melalui file ZIP. Ekstrak dan seret ke halaman ekstensi. Cocok saat CRX tidak dapat diinstal.
+title: Instal Chrome ZIP - Pengaturan Ekstensi AI one Manual
+description: Instal ekstensi AI one di Chrome melalui file ZIP. Ekstrak dan seret ke halaman ekstensi. Cocok saat CRX tidak dapat diinstal.
 ---
 
 # Panduan Instalasi Lokal Ekstensi Chrome ZIP
 
 ## Unduh Ekstensi
 
-Unduh paket instalasi ZIP ekstensi ChatGPT Shortcut (ChatGPT_Shortcut-zip-3.x.x.zip) dan ekstrak. (Folder yang diekstrak perlu disimpan di komputer, jadi ingat untuk mengekstrak ke lokasi permanen.)
+Unduh paket instalasi ZIP ekstensi Chat instructions (ChatGPT_Shortcut-zip-3.x.x.zip) dan ekstrak. (Folder yang diekstrak perlu disimpan di komputer, jadi ingat untuk mengekstrak ke lokasi permanen.)
 
-- **GitHub**: [GitHub Release](https://github.com/rockbenben/ChatGPT-Shortcut/releases/latest)
+- **GitHub**: [GitHub Release](https://github.com/rockbenben/Chat-instructions/releases/latest)
 
 ## Aktifkan Mode Developer
 

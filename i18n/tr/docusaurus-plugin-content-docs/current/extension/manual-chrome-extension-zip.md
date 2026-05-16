@@ -1,16 +1,16 @@
 ---
 sidebar_label: Chrome ZIP Kurulum Kılavuzu
-title: Chrome ZIP Kurulumu - Manuel AI Short Uzantı Kurulumu
-description: Chrome'da AI Short uzantısını ZIP dosyası aracılığıyla kurun. Açın ve uzantılar sayfasına sürükleyin. CRX yüklenemediğinde uygundur.
+title: Chrome ZIP Kurulumu - Manuel AI one Uzantı Kurulumu
+description: Chrome'da AI one uzantısını ZIP dosyası aracılığıyla kurun. Açın ve uzantılar sayfasına sürükleyin. CRX yüklenemediğinde uygundur.
 ---
 
 # Chrome ZIP Uzantısı Yerel Kurulum Kılavuzu
 
 ## Uzantıyı İndirin
 
-ChatGPT Shortcut uzantısı ZIP kurulum paketini (ChatGPT_Shortcut-zip-3.x.x.zip) indirin ve açın. (Açılan klasörün bilgisayarda tutulması gerekir, bu nedenle kalıcı bir konuma açmayı unutmayın.)
+Chat instructions uzantısı ZIP kurulum paketini (ChatGPT_Shortcut-zip-3.x.x.zip) indirin ve açın. (Açılan klasörün bilgisayarda tutulması gerekir, bu nedenle kalıcı bir konuma açmayı unutmayın.)
 
-- **GitHub**: [GitHub Release](https://github.com/rockbenben/ChatGPT-Shortcut/releases/latest)
+- **GitHub**: [GitHub Release](https://github.com/rockbenben/Chat-instructions/releases/latest)
 
 ## Geliştirici Modunu Etkinleştirin
 

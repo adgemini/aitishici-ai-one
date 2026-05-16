@@ -1,17 +1,17 @@
 ---
 slug: /
-sidebar_label: Introduction à AI Short
-title: AI Short - Bibliothèque de Prompts ChatGPT
+sidebar_label: Introduction à AI one
+title: AI one - Bibliothèque de Prompts ChatGPT
 description: Améliorez vos réponses ChatGPT. Copiez des prompts optimisés et gérez votre collection personnelle pour plus de productivité.
 ---
 
-# Introduction à AI Short
+# Introduction à AI one
 
-AI Short (ChatGPT Shortcut) fournit une liste concise et facile à utiliser de prompts IA pour aider les utilisateurs à trouver rapidement des prompts adaptés à différents scénarios.
+AI one (Chat instructions) fournit une liste concise et facile à utiliser de prompts IA pour aider les utilisateurs à trouver rapidement des prompts adaptés à différents scénarios.
 
 ## ⚡ Démarrage rapide en 30 secondes
 
-1. Ouvrez AI Short
+1. Ouvrez AI one
 2. Recherchez ou parcourez le prompt dont vous avez besoin
 3. Cliquez sur "Copier" et collez-le dans n'importe quel modèle de conversation IA
 
@@ -43,14 +43,3 @@ C'est aussi simple que ça ! Pour plus de fonctionnalités, continuez à lire ou
 
 Les prompts proviennent de sélections internet, de partages communautaires et de [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts). Nous mettons régulièrement à jour pour vous apporter continuellement de nouveaux prompts et de l'inspiration.
 
-## Rejoindre la communauté
-
-Bienvenue dans notre communauté pour échanger des idées et des retours :
-
-<a href="https://t.me/aishort_top">
-   <img src="https://img.shields.io/badge/Telegram-Group-blue?logo=telegram&style=for-the-badge" alt="join Telegram group" />
-</a>
-
-<a href="https://discord.gg/PZTQfJ4GjX">
-   <img src="https://img.shields.io/discord/1048780149899939881?color=%2385c8c8&label=Discord&logo=discord&style=for-the-badge" alt="chat on Discord" />
-</a>

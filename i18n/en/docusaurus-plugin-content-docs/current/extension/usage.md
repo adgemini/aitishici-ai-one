@@ -1,12 +1,12 @@
 ---
 sidebar_label: How to Use Extension
-title: AI Short Extension Guide - Sidebar & Shortcuts Mastered
-description: Master the AI Short browser extension! Enable sidebar, one-click invoke prompt library with Alt+Shift+S.
+title: AI one Extension Guide - Sidebar & Shortcuts Mastered
+description: Master the AI one browser extension! Enable sidebar, one-click invoke prompt library with Alt+Shift+S.
 ---
 
 # How to Use Browser Extension?
 
-ChatGPT Shortcut supports 13 mainstream languages, and the extension language will be automatically set according to your browser environment. You can also manually change the language in the settings page.
+Chat instructions supports 13 mainstream languages, and the extension language will be automatically set according to your browser environment. You can also manually change the language in the settings page.
 
 ![](/img/docs/extension-settings.png)
 

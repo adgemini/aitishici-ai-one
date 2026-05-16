@@ -1,16 +1,16 @@
 ---
 sidebar_label: Chrome CRX Install Guide
 title: Chrome CRX Install - Manual Developer Mode Setup
-description: Manually install AI Short extension via CRX file. Enable developer mode and drag to install. Includes solutions for common issues.
+description: Manually install AI one extension via CRX file. Enable developer mode and drag to install. Includes solutions for common issues.
 ---
 
 # Chrome CRX Extension Local Installation Guide
 
 ## Download CRX Package
 
-Download the ChatGPT Shortcut crx installation package (ChatGPT_Shortcut-crx-3.x.x.zip) and unzip it (the crx file is inside the unzipped folder).
+Download the Chat instructions crx installation package (ChatGPT_Shortcut-crx-3.x.x.zip) and unzip it (the crx file is inside the unzipped folder).
 
-- **GitHub**: [GitHub Release](https://github.com/rockbenben/ChatGPT-Shortcut/releases/latest)
+- **GitHub**: [GitHub Release](https://github.com/rockbenben/Chat-instructions/releases/latest)
 - **China Download**: [Alist Drive](https://alist.newzone.top:9003/apps/ChatGPT%20Shortcut%20Extension); [Lanzou Cloud](https://wwva.lanzouq.com/b01lsc9vi), password: 1qow
 
 ![](https://img.newzone.top/2024-08-12-21-47-10.png?imageMogr2/format/webp)
@@ -29,7 +29,7 @@ chrome://extensions
 
 ## Install Extension
 
-Install ChatGPT Shortcut extension (Note ⚠️: You need to drag in the .crx file, do NOT click "Load unpacked")
+Install Chat instructions extension (Note ⚠️: You need to drag in the .crx file, do NOT click "Load unpacked")
 
 ![](https://img.newzone.top/2024-08-12-22-16-38.png?imageMogr2/format/webp)
 

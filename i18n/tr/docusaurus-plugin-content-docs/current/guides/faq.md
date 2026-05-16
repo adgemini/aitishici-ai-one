@@ -1,6 +1,6 @@
 ---
 sidebar_label: SSS
-title: AI Short SSS | Prompt Optimizasyonu ve Halüsinasyon Düzeltme
+title: AI one SSS | Prompt Optimizasyonu ve Halüsinasyon Düzeltme
 description: AI yanlış cevaplar mı veriyor? Prompt sorunlarını nasıl düzelteceğinizi, AI halüsinasyonlarından nasıl kaçınacağınızı ve kapsamlı sorun giderme kılavuzumuzla verilerinizi nasıl güvence altına alacağınızı öğrenin.
 ---
 

@@ -1,7 +1,7 @@
 ---
 sidebar_label: إعدادات إضافة Firefox
-title: إعداد إضافة AI Short لـ Firefox - التثبيت والتفويض
-description: دليل خطوة بخطوة لتثبيت وتفويض إضافة AI Short على Firefox. تمكين الشريط الجانبي لـ ChatGPT و Gemini بسهولة.
+title: إعداد إضافة AI one لـ Firefox - التثبيت والتفويض
+description: دليل خطوة بخطوة لتثبيت وتفويض إضافة AI one على Firefox. تمكين الشريط الجانبي لـ ChatGPT و Gemini بسهولة.
 ---
 
 # إعدادات إضافة Firefox
@@ -10,7 +10,7 @@ description: دليل خطوة بخطوة لتثبيت وتفويض إضافة A
 
 ## 1. تثبيت الإضافة وإعدادات الوصول
 
-أولاً، حدد "تثبيت إضافة ChatGPT Shortcut" (Pin to Toolbar) على شريط أدوات Firefox. بعد ذلك، أدخل مركز الإضافات، وابحث عن إدخال إضافة ChatGPT Shortcut وحدد "خيارات" (Options). ادخل واجهة إعدادات الإضافة. الخطوات المحددة موضحة أدناه:
+أولاً، حدد "تثبيت إضافة Chat instructions" (Pin to Toolbar) على شريط أدوات Firefox. بعد ذلك، أدخل مركز الإضافات، وابحث عن إدخال إضافة Chat instructions وحدد "خيارات" (Options). ادخل واجهة إعدادات الإضافة. الخطوات المحددة موضحة أدناه:
 
 ![إعدادات Firefox](https://img.newzone.top/2023-12-25-05-51-47.png?imageMogr2/format/webp)
 

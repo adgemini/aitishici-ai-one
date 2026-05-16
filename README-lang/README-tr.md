@@ -1,20 +1,20 @@
 <h1 align="center">
-    <a href="https://www.aishort.top/">
-        <img src="../static/img/logo.png" alt="AiShort Logo" width="120" height="120" />
+    <a href="https://www.onebiu.cn/">
+        <img src="../static/img/logo.png" alt="AI one Logo" width="120" height="120" />
     </a>
     <br>
-    AiShort (ChatGPT Shortcut) - Kullanımı Kolay Yapay Zeka İstem Yönetim Aracı
+    AI one (Chat instructions) - Kullanımı Kolay Yapay Zeka İstem Yönetim Aracı
 </h1>
 
 <p align="center">
-    <a href="https://github.com/rockbenben/ChatGPT-Shortcut/blob/main/LICENSE">
-        <img src="https://img.shields.io/github/license/rockbenben/ChatGPT-Shortcut?color=blue&label=License" alt="License" />
+    <a href="https://github.com/rockbenben/Chat-instructions/blob/main/LICENSE">
+        <img src="https://img.shields.io/github/license/rockbenben/Chat-instructions?color=blue&label=License" alt="License" />
     </a>
-    <a href="https://github.com/rockbenben/ChatGPT-Shortcut/stargazers">
-        <img src="https://img.shields.io/github/stars/rockbenben/ChatGPT-Shortcut?style=social" alt="GitHub Stars" />
+    <a href="https://github.com/rockbenben/Chat-instructions/stargazers">
+        <img src="https://img.shields.io/github/stars/rockbenben/Chat-instructions?style=social" alt="GitHub Stars" />
     </a>
-    <a href="https://github.com/rockbenben/ChatGPT-Shortcut/releases">
-        <img src="https://img.shields.io/github/v/release/rockbenben/ChatGPT-Shortcut?color=green" alt="Version" />
+    <a href="https://github.com/rockbenben/Chat-instructions/releases">
+        <img src="https://img.shields.io/github/v/release/rockbenben/Chat-instructions?color=green" alt="Version" />
     </a>
     <a href="https://discord.gg/PZTQfJ4GjX">
         <img src="https://img.shields.io/discord/1048780149899939881?color=%2385c8c8&label=Discord&logo=discord&style=flat" alt="Discord" />
@@ -39,22 +39,22 @@ Türkçe |
 <a href="./README-bn.md">বাংলা</a>
 </p>
 <p align="center">
-    <em>AiShort (ChatGPT Shortcut) - Verimliliğinizi ve Üretkenliğinizi En Üst Düzeye Çıkarın</em>
+    <em>AI one (Chat instructions) - Verimliliğinizi ve Üretkenliğinizi En Üst Düzeye Çıkarın</em>
 </p>
 
 ## ⚡ Hızlı Başlangıç
 
-1. [aishort.top](https://www.aishort.top/tr/) adresini ziyaret edin
+1. [onebiu.cn](https://www.onebiu.cn/tr/) adresini ziyaret edin
 2. İhtiyacınız olan istemi (prompt) arayın veya göz atın
 3. "Kopyala"ya tıklayın ve herhangi bir yapay zeka modeline yapıştırın
 
-![AiShort Interface](../static/img/docs/interface-home.png)
+![AI one Interface](../static/img/docs/interface-home.png)
 
-İşte bu kadar basit! Daha fazla özellik için okumaya devam edin veya [Kullanıcı Kılavuzu](https://www.aishort.top/tr/docs/guides/getting-started)'nu kontrol edin.
+İşte bu kadar basit! Daha fazla özellik için okumaya devam edin veya [Kullanıcı Kılavuzu](https://www.onebiu.cn/tr/docs/guides/getting-started)'nu kontrol edin.
 
-## Neden AiShort Kullanmalısınız?
+## Neden AI one Kullanmalısınız?
 
-AiShort (ChatGPT Shortcut), her senaryo için hızlı bir şekilde istem bulmanıza yardımcı olan, seçilmiş bir yapay zeka istemleri listesi sunar.
+AI one (Chat instructions), her senaryo için hızlı bir şekilde istem bulmanıza yardımcı olan, seçilmiş bir yapay zeka istemleri listesi sunar.
 
 ### Temel Özellikler
 
@@ -80,20 +80,20 @@ AiShort (ChatGPT Shortcut), her senaryo için hızlı bir şekilde istem bulman�
 
 ## Tarayıcı Eklentisi
 
-AiShort istemlerine tarayıcı eklentimizle istediğiniz zaman erişin. Chrome, Edge ve Firefox'u destekler ve `Alt + Shift + S` ile açılan bir kenar çubuğu içerir.
+AI one istemlerine tarayıcı eklentimizle istediğiniz zaman erişin. Chrome, Edge ve Firefox'u destekler ve `Alt + Shift + S` ile açılan bir kenar çubuğu içerir.
 
 - **Chrome**: [Chrome Web Mağazası](https://chrome.google.com/webstore/detail/chatgpt-shortcut/blcgeoojgdpodnmnhfpohphdhfncblnj)
 - **Edge**: [Microsoft Edge Eklentileri](https://microsoftedge.microsoft.com/addons/detail/chatgpt-shortcut/hnggpalhfjmdhhmgfjpmhlfilnbmjoin)
 - **Firefox**: [Firefox Eklentileri](https://addons.mozilla.org/addon/chatgpt-shortcut/)
-- **GitHub**: [Sürümler](https://github.com/rockbenben/ChatGPT-Shortcut/releases/latest)
+- **GitHub**: [Sürümler](https://github.com/rockbenben/Chat-instructions/releases/latest)
 
-Ayrıca AiShort kenar çubuğunu herhangi bir web sitesinde kullanmak için [ChatGPT Shortcut Anywhere](https://greasyfork.org/scripts/482907-chatgpt-shortcut-anywhere) Tampermonkey betiğini sunuyoruz.
+Ayrıca AI one kenar çubuğunu herhangi bir web sitesinde kullanmak için [Chat instructions Anywhere](https://greasyfork.org/scripts/482907-chatgpt-shortcut-anywhere) Tampermonkey betiğini sunuyoruz.
 
 ## Dağıtım
 
-Kendi örneğinizi Vercel, Cloudflare Pages, Docker veya yerel olarak dağıtın. [Dağıtım Kılavuzu](https://www.aishort.top/tr/docs/deploy)'na bakın.
+Kendi örneğinizi Vercel, Cloudflare Pages, Docker veya yerel olarak dağıtın. [Dağıtım Kılavuzu](https://www.onebiu.cn/tr/docs/deploy)'na bakın.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Frockbenben%2FChatGPT-Shortcut%2Ftree%2Fmain)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Frockbenben%2FChat-instructions%2Ftree%2Fmain)
 
 ## Güncellemeleri Eşitle
 

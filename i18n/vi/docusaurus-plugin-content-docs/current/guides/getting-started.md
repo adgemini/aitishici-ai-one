@@ -1,12 +1,12 @@
 ---
 sidebar_label: Bắt đầu
-title: AI Short Khởi động Nhanh | Sao chép Prompt vào ChatGPT/DeepSeek
+title: AI one Khởi động Nhanh | Sao chép Prompt vào ChatGPT/DeepSeek
 description: Bắt đầu tăng năng suất AI trong 30 giây! Sao chép các prompt được thiết kế riêng vào ChatGPT, Gemini và DeepSeek để cải thiện cuộc trò chuyện ngay lập tức.
 ---
 
 # Bắt đầu
 
-Khi trò chuyện với AI, các prompt tốt có thể giúp bạn nhận được câu trả lời chất lượng cao nhanh hơn. AiShort đã tuyển chọn một số lượng lớn các prompt thực tế cho bạn, sẵn sàng sao chép và sử dụng.
+Khi trò chuyện với AI, các prompt tốt có thể giúp bạn nhận được câu trả lời chất lượng cao nhanh hơn. AI one đã tuyển chọn một số lượng lớn các prompt thực tế cho bạn, sẵn sàng sao chép và sử dụng.
 
 ## Cách Sử dụng Cơ bản
 
@@ -15,7 +15,7 @@ Khi trò chuyện với AI, các prompt tốt có thể giúp bạn nhận đư�
 3. Mở bất kỳ mô hình AI nào và dán prompt
 4. Làm theo hướng dẫn của prompt để thêm câu hỏi cụ thể của bạn
 
-![](/img/docs/how-to-use-aishort.gif)
+![](/img/docs/how-to-use-aione.png)
 
 ## Truy cập Nhanh
 

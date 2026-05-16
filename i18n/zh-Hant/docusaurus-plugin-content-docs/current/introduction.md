@@ -1,17 +1,17 @@
 ---
 slug: /
-sidebar_label: AI Short 介紹
-title: AIShort - 精選 AI 提示詞庫 | 一鍵複製提升效率
-description: 探索 AI Short 精選提示詞社羣，支持 ChatGPT、DeepSeek 等主流模型。多語言翻譯、收藏管理與社區投票，簡化工作流程。
+sidebar_label: AI one 介紹
+title: AI one - 精選 AI 提示詞庫 | 一鍵複製提升效率
+description: 探索 AI one 精選提示詞社羣，支持 ChatGPT、DeepSeek 等主流模型。多語言翻譯、收藏管理與社區投票，簡化工作流程。
 ---
 
-# AI Short 介紹
+# AI one 介紹
 
-AI Short(ChatGPT Shortcut) 提供了一份簡潔易用的 AI 提示詞列表，幫助用戶快速找到適用於不同場景的提示詞。
+AI one(Chat instructions) 提供了一份簡潔易用的 AI 提示詞列表，幫助用戶快速找到適用於不同場景的提示詞。
 
 ## ⚡ 30 秒快速開始
 
-1. 打開 AI Short
+1. 打開 AI one
 2. 搜索或瀏覽你需要的提示詞
 3. 點擊「複製」，粘貼到任意 AI 對話模型
 
@@ -43,16 +43,3 @@ AI Short(ChatGPT Shortcut) 提供了一份簡潔易用的 AI 提示詞列表，�
 
 提示詞來源於網絡精選、社區分享，以及 [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)。我們會定期更新，持續爲你帶來新的提示詞和靈感。
 
-## 加入社羣
-
-歡迎加入我們的社羣，交流想法與反饋：
-
-<a href="https://t.me/aishort_top">
-   <img src="https://img.shields.io/badge/Telegram-Group-blue?logo=telegram&style=for-the-badge" alt="join Telegram group" />
-</a>
-
-<a href="https://discord.gg/PZTQfJ4GjX">
-   <img src="https://img.shields.io/discord/1048780149899939881?color=%2385c8c8&label=Discord&logo=discord&style=for-the-badge" alt="chat on Discord" />
-</a>
-
-![](https://img.newzone.top/qrcode/qq1092926837.jpg?imageMogr2/thumbnail/300x/format/webp)

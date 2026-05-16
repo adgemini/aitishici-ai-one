@@ -17,7 +17,7 @@ La parte superior de la página de inicio proporciona botones de cambio de vista
 
 El navegador recordará automáticamente tu selección de vista y cambiará a la última vista en tu próxima visita.
 
-![Vista Mi Colección](/img/docs/my-collection-view.gif)
+![Vista Mi Colección](/img/docs/my-collection-view.png)
 
 ## Agregar a la Colección
 
@@ -63,7 +63,7 @@ El ajuste del orden de las tarjetas por arrastrar y soltar es compatible en la v
 
 La función de ordenamiento solo está disponible en la vista Mi Colección.
 
-![Ordenamiento por Arrastrar y Soltar](/img/docs/my-collection-drag.gif)
+![Ordenamiento por Arrastrar y Soltar](/img/docs/my-collection-drag.png)
 
 ## Documentación Relacionada
 

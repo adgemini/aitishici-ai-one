@@ -1,12 +1,12 @@
 ---
 sidebar_label: Como usar a extensão
-title: Guia AI Short - Barra lateral e atalhos
-description: Domine a extensão AI Short! Ative a barra lateral com Alt+Shift+S.
+title: Guia AI one - Barra lateral e atalhos
+description: Domine a extensão AI one! Ative a barra lateral com Alt+Shift+S.
 ---
 
 # Como usar a extensão do navegador?
 
-ChatGPT Shortcut suporta 13 idiomas principais. O idioma da extensão é definido automaticamente de acordo com seu navegador. Você também pode alterá-lo manualmente nas configurações.
+Chat instructions suporta 13 idiomas principais. O idioma da extensão é definido automaticamente de acordo com seu navegador. Você também pode alterá-lo manualmente nas configurações.
 
 ![](/img/docs/extension-settings.png)
 

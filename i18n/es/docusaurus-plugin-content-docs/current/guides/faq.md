@@ -1,6 +1,6 @@
 ---
 sidebar_label: Preguntas Frecuentes
-title: AI Short FAQ - Optimización y Alucinaciones IA
+title: AI one FAQ - Optimización y Alucinaciones IA
 description: Soluciona problemas comunes con IA - mejora tus prompts, evita "alucinaciones" y aprende a respaldar tus datos importantes.
 ---
 

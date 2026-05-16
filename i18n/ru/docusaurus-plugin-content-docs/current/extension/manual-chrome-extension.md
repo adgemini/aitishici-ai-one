@@ -1,16 +1,16 @@
 ---
 sidebar_label: Руководство по Установке CRX для Chrome
-title: Установка расширения AI Short через CRX файл
-description: Ручная установка CRX файла AI Short в Chrome - Включение режима разработчика и решение проблем.
+title: Установка расширения AI one через CRX файл
+description: Ручная установка CRX файла AI one в Chrome - Включение режима разработчика и решение проблем.
 ---
 
 # Руководство по Локальной Установке Расширения CRX для Chrome
 
 ## Скачать Пакет CRX
 
-Скачайте установочный пакет crx ChatGPT Shortcut (ChatGPT_Shortcut-crx-3.x.x.zip) и распакуйте его (файл crx находится внутри распакованной папки).
+Скачайте установочный пакет crx Chat instructions (ChatGPT_Shortcut-crx-3.x.x.zip) и распакуйте его (файл crx находится внутри распакованной папки).
 
-- **GitHub**: [GitHub Release](https://github.com/rockbenben/ChatGPT-Shortcut/releases/latest)
+- **GitHub**: [GitHub Release](https://github.com/rockbenben/Chat-instructions/releases/latest)
 - **Скачивание в Китае**: [Alist Drive](https://alist.newzone.top:9003/apps/ChatGPT%20Shortcut%20Extension); [Lanzou Cloud](https://wwva.lanzouq.com/b01lsc9vi), пароль: 1qow
 
 ![](https://img.newzone.top/2024-08-12-21-47-10.png?imageMogr2/format/webp)
@@ -29,7 +29,7 @@ chrome://extensions
 
 ## Установить Расширение
 
-Установите расширение ChatGPT Shortcut (Примечание ⚠️: Вам нужно перетащить файл .crx, НЕ нажимайте "Загрузить распакованное расширение")
+Установите расширение Chat instructions (Примечание ⚠️: Вам нужно перетащить файл .crx, НЕ нажимайте "Загрузить распакованное расширение")
 
 ![](https://img.newzone.top/2024-08-12-22-16-38.png?imageMogr2/format/webp)
 

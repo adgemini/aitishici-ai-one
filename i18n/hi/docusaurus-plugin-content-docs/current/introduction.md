@@ -1,17 +1,17 @@
 ---
 slug: /
-sidebar_label: AI Short परिचय
-title: AI Short - AI प्रॉम्प्ट लाइब्रेरी और प्रबंधन
-description: AI Short के साथ उत्पादकता बढ़ाएं - ChatGPT और DeepSeek के लिए बेहतर प्रॉम्प्ट, बहु-भाषा अनुवाद और संग्रह प्रबंधन।
+sidebar_label: AI one परिचय
+title: AI one - AI प्रॉम्प्ट लाइब्रेरी और प्रबंधन
+description: AI one के साथ उत्पादकता बढ़ाएं - ChatGPT और DeepSeek के लिए बेहतर प्रॉम्प्ट, बहु-भाषा अनुवाद और संग्रह प्रबंधन।
 ---
 
-# AI Short परिचय
+# AI one परिचय
 
-AI Short (ChatGPT Shortcut) उपयोगकर्ताओं को विभिन्न परिदृश्यों के लिए उपयुक्त प्रॉम्प्ट जल्दी से खोजने में मदद करने के लिए एक संक्षिप्त और उपयोग में आसान AI प्रॉम्प्ट सूची प्रदान करता है।
+AI one (Chat instructions) उपयोगकर्ताओं को विभिन्न परिदृश्यों के लिए उपयुक्त प्रॉम्प्ट जल्दी से खोजने में मदद करने के लिए एक संक्षिप्त और उपयोग में आसान AI प्रॉम्प्ट सूची प्रदान करता है।
 
 ## ⚡ 30 सेकंड में शुरू करें
 
-1. AI Short खोलें
+1. AI one खोलें
 2. उन प्रॉम्प्ट को खोजें या ब्राउज़ करें जिनकी आपको आवश्यकता है
 3. "कॉपी" पर क्लिक करें और किसी भी AI संवाद मॉडल में पेस्ट करें
 
@@ -43,14 +43,3 @@ AI Short (ChatGPT Shortcut) उपयोगकर्ताओं को वि�
 
 प्रॉम्प्ट इंटरनेट चयन, सामुदायिक साझाकरण और [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) से आते हैं। हम आपको नए प्रॉम्प्ट और प्रेरणा लाने के लिए नियमित रूप से अपडेट करते हैं।
 
-## समुदाय में शामिल हों
-
-विचारों और प्रतिक्रिया का आदान-प्रदान करने के लिए हमारे समुदाय में स्वागत है:
-
-<a href="https://t.me/aishort_top">
-   <img src="https://img.shields.io/badge/Telegram-Group-blue?logo=telegram&style=for-the-badge" alt="join Telegram group" />
-</a>
-
-<a href="https://discord.gg/PZTQfJ4GjX">
-   <img src="https://img.shields.io/discord/1048780149899939881?color=%2385c8c8&label=Discord&logo=discord&style=for-the-badge" alt="chat on Discord" />
-</a>

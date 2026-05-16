@@ -1,12 +1,12 @@
 ---
 sidebar_label: Comment utiliser l'extension
-title: Guide AI Short - Barre latérale et raccourcis
-description: Maîtrisez l'extension AI Short ! Activez la barre latérale avec Alt+Shift+S.
+title: Guide AI one - Barre latérale et raccourcis
+description: Maîtrisez l'extension AI one ! Activez la barre latérale avec Alt+Shift+S.
 ---
 
 # Comment utiliser l'extension ?
 
-ChatGPT Shortcut prend en charge 13 langues principales. La langue de l'extension est automatiquement définie selon votre navigateur. Vous pouvez aussi la changer manuellement dans les paramètres.
+Chat instructions prend en charge 13 langues principales. La langue de l'extension est automatiquement définie selon votre navigateur. Vous pouvez aussi la changer manuellement dans les paramètres.
 
 ![](/img/docs/extension-settings.png)
 

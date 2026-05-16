@@ -1,6 +1,6 @@
 ---
 sidebar_label: Custom Prompts
-title: AI Short Custom Prompts | Create, Save & Share
+title: AI one Custom Prompts | Create, Save & Share
 description: Create and save your own AI prompts for instant access. Share with the community or keep them private, and export backups anytime.
 ---
 

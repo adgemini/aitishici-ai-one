@@ -1,7 +1,7 @@
 ---
 sidebar_label: FAQ
-title: FAQ AI Short - Ottimizzazione Prompt e Risoluzione Problemi
-description: Domande frequenti su AI Short - Risolvi problemi di login, ottimizza i tuoi prompt e impara a gestire le allucinazioni dell'IA. Tutto ciò che devi sapere.
+title: FAQ AI one - Ottimizzazione Prompt e Risoluzione Problemi
+description: Domande frequenti su AI one - Risolvi problemi di login, ottimizza i tuoi prompt e impara a gestire le allucinazioni dell'IA. Tutto ciò che devi sapere.
 ---
 
 # FAQ

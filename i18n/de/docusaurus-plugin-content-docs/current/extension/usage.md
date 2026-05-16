@@ -1,12 +1,12 @@
 ---
 sidebar_label: Erweiterung verwenden
-title: AI Short Erweiterung - Seitenleiste & Tastenkürzel
-description: Meistern Sie die AI Short Erweiterung! Seitenleiste mit Alt+Shift+S aktivieren.
+title: AI one Erweiterung - Seitenleiste & Tastenkürzel
+description: Meistern Sie die AI one Erweiterung! Seitenleiste mit Alt+Shift+S aktivieren.
 ---
 
 # Wie verwende ich die Browser-Erweiterung?
 
-ChatGPT Shortcut unterstützt 13 Hauptsprachen. Die Sprache der Erweiterung wird automatisch nach Ihrer Browser-Umgebung eingestellt. Sie können sie auch manuell in den Einstellungen ändern.
+Chat instructions unterstützt 13 Hauptsprachen. Die Sprache der Erweiterung wird automatisch nach Ihrer Browser-Umgebung eingestellt. Sie können sie auch manuell in den Einstellungen ändern.
 
 ![](/img/docs/extension-settings.png)
 

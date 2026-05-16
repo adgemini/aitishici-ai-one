@@ -1,12 +1,12 @@
 ---
 sidebar_label: 開始上手
-title: AI Short 入門指南 | 複製提示詞到 ChatGPT/DeepSeek
+title: AI one 入門指南 | 複製提示詞到 ChatGPT/DeepSeek
 description: 30 秒快速上手！複製提示詞到 ChatGPT、Gemini、DeepSeek 等 AI 模型，立即提升對話質量與工作效率。
 ---
 
 # 開始上手
 
-在與 AI 對話時，好的提示詞能幫助你更快獲得高質量的回答。AiShort 爲你整理了大量實用提示詞，複製粘貼即可使用。
+在與 AI 對話時，好的提示詞能幫助你更快獲得高質量的回答。AI one 爲你整理了大量實用提示詞，複製粘貼即可使用。
 
 ## 基本使用
 
@@ -15,7 +15,7 @@ description: 30 秒快速上手！複製提示詞到 ChatGPT、Gemini、DeepSeek
 3. 打開任意 AI 模型，將提示詞粘貼進去
 4. 按照提示詞的指引，補充你的具體問題
 
-![](/img/docs/how-to-use-aishort.gif)
+![](/img/docs/how-to-use-aione.png)
 
 ## 快速入口
 

@@ -46251,7 +46251,7 @@
   "255": {
     "zh-Hans": [
       {
-        "q": "AiShort 的引导式对话能解决什么问题？",
+        "q": "AI one 的引导式对话能解决什么问题？",
         "a": "适合你不清楚自己需求时,它会反复追问直到需求明确。已经清楚要什么的时候反而多余——直接给 AI 写清楚任务更快。模糊需求时用它,明确需求时跳过。"
       },
       {
@@ -46261,7 +46261,7 @@
     ],
     "zh-Hant": [
       {
-        "q": "AiShort 的引導式對話能解決什麼問題？",
+        "q": "AI one 的引導式對話能解決什麼問題？",
         "a": "適合你不清楚自己需求時,它會反覆追問直到需求明確。已經清楚要什麼的時候反而多餘——直接給 AI 寫清楚任務更快。模糊需求時用它,明確需求時跳過。"
       },
       {
@@ -46271,7 +46271,7 @@
     ],
     "en": [
       {
-        "q": "What problems does AiShort's guided dialogue solve?",
+        "q": "What problems does AI one's guided dialogue solve?",
         "a": "Fits when you don't know your needs; it keeps asking until they're clear. When you already know what you want it becomes redundant. Writing the task to the AI directly is faster. Use it for fuzzy needs, skip it for clear ones."
       },
       {
@@ -46281,7 +46281,7 @@
     ],
     "ja": [
       {
-        "q": "AiShortの誘導型対話はどんな問題を解決しますか?",
+        "q": "AI oneの誘導型対話はどんな問題を解決しますか?",
         "a": "自分の要求が曖昧な時、明確になるまで繰り返し追問してくれるのに向きます。既に欲しいものが明確な時は逆に余計で、AIに直接タスクを書き下す方が速いです。曖昧な要求の時に使い、明確な時は飛ばしてください。"
       },
       {
@@ -46291,7 +46291,7 @@
     ],
     "ko": [
       {
-        "q": "AiShort의 안내형 대화가 무슨 문제를 해결할 수 있나요?",
+        "q": "AI one의 안내형 대화가 무슨 문제를 해결할 수 있나요?",
         "a": "자신의 요구사항이 명확하지 않을 때 적합해요. 요구사항이 명확해질 때까지 반복 추가 질문해요. 이미 뭘 원하는지 아는 경우에는 오히려 잉여예요. AI에게 작업을 직접 명확히 써주는 게 더 빨라요. 모호한 요구사항에는 이걸 쓰고, 명확한 요구사항에는 건너뛰어요."
       },
       {
@@ -46301,7 +46301,7 @@
     ],
     "es": [
       {
-        "q": "¿Qué aporta el diálogo guiado de AiShort?",
+        "q": "¿Qué aporta el diálogo guiado de AI one?",
         "a": "Sirve cuando no sabes qué necesitas: irá preguntándote hasta que la necesidad quede clara. Si ya sabes qué quieres, es redundante: escribe la tarea directa. Úsalo ante necesidades difusas; sáltalo cuando tienes claridad."
       },
       {
@@ -46311,7 +46311,7 @@
     ],
     "fr": [
       {
-        "q": "Quels problèmes le dialogue guidé d'AiShort résout-il ?",
+        "q": "Quels problèmes le dialogue guidé d'AI one résout-il ?",
         "a": "Il est utile quand tu ne sais pas ce que tu veux : il interroge jusqu'à la précision. Si tu sais déjà, il devient superflu, écrire la tâche directement est plus rapide. En cas de flou, sers-t'en ; en cas de clarté, saute-le."
       },
       {
@@ -46321,7 +46321,7 @@
     ],
     "de": [
       {
-        "q": "Was löst der geführte Dialog von AiShort?",
+        "q": "Was löst der geführte Dialog von AI one?",
         "a": "Er passt, wenn du deine Anforderung noch nicht klar hast – die KI fragt nach, bis es konkret ist. Bei klaren Anforderungen ist der Umweg unnötig, dann direkt formulieren. Nebulös nutzen, klar überspringen."
       },
       {
@@ -46331,7 +46331,7 @@
     ],
     "it": [
       {
-        "q": "Quali problemi risolve il dialogo guidato di AiShort?",
+        "q": "Quali problemi risolve il dialogo guidato di AI one?",
         "a": "Quando non hai chiara l'esigenza, ti interroga finché non diventa esplicita. Se sai già cosa ti serve è ridondante: vai diretto all'AI. Per bisogni sfumati è utilissimo, per quelli chiari saltalo."
       },
       {
@@ -46341,7 +46341,7 @@
     ],
     "ru": [
       {
-        "q": "Какие задачи решает управляемый диалог AiShort?",
+        "q": "Какие задачи решает управляемый диалог AI one?",
         "a": "Подходит, когда сам не понимаешь, что тебе нужно, — он задаёт уточняющие вопросы, пока запрос не станет чётким. Если задача уже ясна, промпт избыточен: быстрее сразу описать задачу AI. Применяй при туманных запросах, а при ясных пропускай."
       },
       {
@@ -46351,7 +46351,7 @@
     ],
     "pt": [
       {
-        "q": "O diálogo guiado do AiShort resolve que problema?",
+        "q": "O diálogo guiado do AI one resolve que problema?",
         "a": "Serve quando você não sabe o que precisa; ele pergunta até clarear. Se já sabe o que quer, é redundante — escreva o prompt direto. Use em pedidos vagos; pule quando o objetivo é claro."
       },
       {
@@ -46361,7 +46361,7 @@
     ],
     "hi": [
       {
-        "q": "AiShort के guided संवाद से क्या समस्या हल होती है?",
+        "q": "AI one के guided संवाद से क्या समस्या हल होती है?",
         "a": "जब आप अपनी ज़रूरत स्पष्ट नहीं जानते, यह स्पष्ट होने तक पूछता है। पहले से पता हो क्या चाहिए तो यह अनावश्यक—सीधे AI को task लिखना तेज़। अस्पष्ट needs के लिए, स्पष्ट needs पर skip।"
       },
       {
@@ -46371,7 +46371,7 @@
     ],
     "ar": [
       {
-        "q": "ما الذي تحله محادثة AiShort الموجِّهة؟",
+        "q": "ما الذي تحله محادثة AI one الموجِّهة؟",
         "a": "تناسب حين لا تكون احتياجاتك واضحة؛ تواصل السؤال حتى تتبلور. أما حين تعرف ما تريد فتصبح زائدة، والأسرع أن تكتب المهمة للذكاء الاصطناعي مباشرة. استخدمها مع الطلبات الضبابية، وتجاوزها مع الطلبات الواضحة."
       },
       {
@@ -46381,7 +46381,7 @@
     ],
     "bn": [
       {
-        "q": "AiShort-এর guided conversation কোন সমস্যা সমাধান করতে পারে?",
+        "q": "AI one-এর guided conversation কোন সমস্যা সমাধান করতে পারে?",
         "a": "তুমি নিজের চাহিদা স্পষ্ট না হলে উপযুক্ত, এটা repeatedly follow-up করবে যতক্ষণ না চাহিদা স্পষ্ট হয়। ইতিমধ্যে স্পষ্ট হলে বরং অতিরিক্ত—সরাসরি AI কে task পরিষ্কার লেখা দ্রুত। Vague চাহিদায় ব্যবহার করো, স্পষ্ট চাহিদায় skip করো।"
       },
       {
@@ -46391,7 +46391,7 @@
     ],
     "vi": [
       {
-        "q": "Đối thoại dẫn dắt của AiShort có thể giải quyết vấn đề gì?",
+        "q": "Đối thoại dẫn dắt của AI one có thể giải quyết vấn đề gì?",
         "a": "Phù hợp khi bạn không rõ nhu cầu của mình, nó sẽ hỏi gặng liên tục đến khi nhu cầu rõ ràng. Ngược lại, khi đã biết mình muốn gì thì lại thừa — viết rõ nhiệm vụ cho AI trực tiếp sẽ nhanh hơn. Nhu cầu mơ hồ thì dùng nó, nhu cầu rõ ràng thì bỏ qua."
       },
       {
@@ -46401,7 +46401,7 @@
     ],
     "th": [
       {
-        "q": "การสนทนาแบบชักนำของ AiShort ช่วยแก้ปัญหาอะไรได้",
+        "q": "การสนทนาแบบชักนำของ AI one ช่วยแก้ปัญหาอะไรได้",
         "a": "เหมาะเมื่อคุณยังไม่รู้ว่าต้องการอะไร มันจะถามซ้ำ ๆ จนความต้องการชัด ถ้าชัดอยู่แล้วจะกลับกลายเป็นเกินจำเป็น เขียนงานชัด ๆ ให้ AI ตรง ๆ เร็วกว่า ใช้ตอนความต้องการคลุมเครือ ข้ามไปได้เมื่อชัดเจน"
       },
       {
@@ -46411,7 +46411,7 @@
     ],
     "tr": [
       {
-        "q": "AiShort'un rehberli diyaloğu hangi sorunu çözer?",
+        "q": "AI one'un rehberli diyaloğu hangi sorunu çözer?",
         "a": "İhtiyacının belirsiz olduğu durumlarda işe yarar; netleşinceye kadar sorar durur. Zaten ne istediğini biliyorsan gereksizdir; AI'a görevi doğrudan yazmak daha hızlıdır. Belirsiz ihtiyaçta kullan, net ihtiyaçta atla."
       },
       {
@@ -46421,7 +46421,7 @@
     ],
     "ind": [
       {
-        "q": "Dialog terbimbing AiShort bisa menyelesaikan masalah apa?",
+        "q": "Dialog terbimbing AI one bisa menyelesaikan masalah apa?",
         "a": "Cocok saat kamu tidak tahu pasti kebutuhanmu — dia akan menanyai berulang sampai kebutuhan jadi jelas. Kalau kamu sudah tahu mau apa, justru kelamaan — lebih cepat langsung tulis tugas yang jelas ke AI. Gunakan untuk kebutuhan samar; untuk kebutuhan jelas, skip saja."
       },
       {

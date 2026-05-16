@@ -1,14 +1,14 @@
 ---
 sidebar_label: Развертывание
-title: Развертывание AI Short - Гайд для Vercel, Docker и Cloudflare
-description: Разверните AI Short легко - Поддержка Vercel, Docker и Cloudflare. Инструкции по настройке и автообновлению.
+title: Развертывание AI one - Гайд для Vercel, Docker и Cloudflare
+description: Разверните AI one легко - Поддержка Vercel, Docker и Cloudflare. Инструкции по настройке и автообновлению.
 ---
 
 # Развертывание проекта
 
 ## Настройка и персонализация
 
-AI Short — это проект с открытым исходным кодом, который позволяет вам свободно изменять название веб-сайта, описание, подсказки и другой контент в соответствии с вашими потребностями. Ниже приведены общие параметры модификации и инструкции по эксплуатации:
+AI one — это проект с открытым исходным кодом, который позволяет вам свободно изменять название веб-сайта, описание, подсказки и другой контент в соответствии с вашими потребностями. Ниже приведены общие параметры модификации и инструкции по эксплуатации:
 
 - **Изменить название и описание веб-сайта**
   Чтобы изменить название и описание веб-сайта, отредактируйте файл конфигурации `docusaurus.config.js`.
@@ -108,9 +108,9 @@ yarn build --locale zh-Hans && yarn build --locale en
 
 ### Развертывание на Vercel
 
-Нажмите кнопку ниже, чтобы развернуть ChatGPT-Shortcut на платформе Vercel в один клик:
+Нажмите кнопку ниже, чтобы развернуть Chat-instructions на платформе Vercel в один клик:
 
-[![Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Frockbenben%2FChatGPT-Shortcut%2Ftree%2Fmain)
+[![Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Frockbenben%2FChat-instructions%2Ftree%2Fmain)
 
 **Примечание**: Бесплатная версия Vercel может сообщить об ошибке из-за нехватки памяти. Если вы столкнулись с этой ситуацией, вы можете выбрать развертывание на одном языке. Конкретные операции следующие:
 
@@ -122,7 +122,7 @@ yarn build --locale zh-Hans && yarn build --locale en
 
 Нажмите кнопку или ссылку ниже, чтобы сделать Fork этого проекта, затем следуйте инструкциям для развертывания на Cloudflare Pages:
 
-👉 [Сделать Fork этого проекта](https://github.com/rockbenben/ChatGPT-Shortcut/fork)
+👉 [Сделать Fork этого проекта](https://github.com/rockbenben/Chat-instructions/fork)
 
 Шаги развертывания:
 

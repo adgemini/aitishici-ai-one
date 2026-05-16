@@ -1,7 +1,7 @@
 ---
 sidebar_label: Prompts da Comunidade
-title: Comunidade AI Short - Compartilhe e Descubra Prompts
-description: Explore a comunidade AI Short - Vote nos melhores prompts, compartilhe os seus ou mantenha-os privados.
+title: Comunidade AI one - Compartilhe e Descubra Prompts
+description: Explore a comunidade AI one - Vote nos melhores prompts, compartilhe os seus ou mantenha-os privados.
 ---
 
 # Prompts da Comunidade

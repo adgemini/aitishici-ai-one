@@ -1,12 +1,12 @@
 ---
 sidebar_label: Gestión de Cuenta
-title: Cuenta AI Short - Login Google y Sin Contraseña
+title: Cuenta AI one - Login Google y Sin Contraseña
 description: Accede a tus prompts con Google o email sin contraseña. Gestiona tu cuenta y recupera datos fácilmente con nuestra guía de acceso seguro.
 ---
 
 # Gestión de Cuenta
 
-AiShort proporciona múltiples métodos de inicio de sesión para facilitar el acceso a tus datos personales en cualquier momento.
+AI one proporciona múltiples métodos de inicio de sesión para facilitar el acceso a tus datos personales en cualquier momento.
 
 ## Métodos de Inicio de Sesión
 

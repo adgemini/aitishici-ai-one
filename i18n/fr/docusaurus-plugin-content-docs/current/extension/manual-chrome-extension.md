@@ -8,9 +8,9 @@ description: Installez facilement le fichier CRX en mode développeur. Instructi
 
 ## Télécharger le paquet CRX
 
-Téléchargez le paquet d'installation crx de ChatGPT Shortcut (ChatGPT_Shortcut-crx-3.x.x.zip) et décompressez-le (le fichier crx est dans le dossier décompressé).
+Téléchargez le paquet d'installation crx de Chat instructions (ChatGPT_Shortcut-crx-3.x.x.zip) et décompressez-le (le fichier crx est dans le dossier décompressé).
 
-- **GitHub** : [GitHub Release](https://github.com/rockbenben/ChatGPT-Shortcut/releases/latest)
+- **GitHub** : [GitHub Release](https://github.com/rockbenben/Chat-instructions/releases/latest)
 - **Téléchargement en Chine** : [Alist Drive](https://alist.newzone.top:9003/apps/ChatGPT%20Shortcut%20Extension) ; [Lanzou Cloud](https://wwva.lanzouq.com/b01lsc9vi), mot de passe : 1qow
 
 ![](https://img.newzone.top/2024-08-12-21-47-10.png?imageMogr2/format/webp)
@@ -29,7 +29,7 @@ chrome://extensions
 
 ## Installer l'extension
 
-Installez l'extension ChatGPT Shortcut (Note ⚠️ : Vous devez faire glisser le fichier .crx, NE cliquez PAS sur "Charger l'extension non empaquetée")
+Installez l'extension Chat instructions (Note ⚠️ : Vous devez faire glisser le fichier .crx, NE cliquez PAS sur "Charger l'extension non empaquetée")
 
 ![](https://img.newzone.top/2024-08-12-22-16-38.png?imageMogr2/format/webp)
 

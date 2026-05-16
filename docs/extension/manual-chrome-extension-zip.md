@@ -1,16 +1,16 @@
 ---
 sidebar_label: Chrome ZIP 安装指南
-title: AI Short Chrome ZIP 安装 | 解压文件夹加载扩展
-description: 通过 ZIP 文件在 Chrome 中安装 AI Short 插件，解压后拖入扩展页面即可。适用于无法安装 CRX 的情况。
+title: AI one Chrome ZIP 安装 | 解压文件夹加载扩展
+description: 通过 ZIP 文件在 Chrome 中安装 AI one 插件，解压后拖入扩展页面即可。适用于无法安装 CRX 的情况。
 ---
 
 # Chrome ZIP 插件本地安装指南
 
 ## 下载插件
 
-下载 ChatGPT Shortcut 插件 Zip 安装包（ChatGPT_Shortcut-zip-3.x.x.zip），并解压。（解压后的文件夹需要一直保留在电脑中，所以记得解压到一个永久的位置哦）
+下载 Chat instructions 插件 Zip 安装包（ChatGPT_Shortcut-zip-3.x.x.zip），并解压。（解压后的文件夹需要一直保留在电脑中，所以记得解压到一个永久的位置哦）
 
-- **GitHub**: [GitHub Release](https://github.com/rockbenben/ChatGPT-Shortcut/releases/latest)
+- **GitHub**: [GitHub Release](https://github.com/rockbenben/Chat-instructions/releases/latest)
 - **国内下载**: [Alist 云盘](https://alist.newzone.top:9003/apps/ChatGPT%20Shortcut%20Extension)；[蓝奏云](https://wwva.lanzouq.com/b01lsc9vi),密码:1qow
 
 ## 开启开发者模式

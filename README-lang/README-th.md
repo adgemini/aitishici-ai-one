@@ -1,20 +1,20 @@
 <h1 align="center">
-    <a href="https://www.aishort.top/">
-        <img src="../static/img/logo.png" alt="AiShort Logo" width="120" height="120" />
+    <a href="https://www.onebiu.cn/">
+        <img src="../static/img/logo.png" alt="AI one Logo" width="120" height="120" />
     </a>
     <br>
-    AiShort (ChatGPT Shortcut) - เครื่องมือจัดการคำสั่ง AI ที่ใช้งานง่าย
+    AI one (Chat instructions) - เครื่องมือจัดการคำสั่ง AI ที่ใช้งานง่าย
 </h1>
 
 <p align="center">
-    <a href="https://github.com/rockbenben/ChatGPT-Shortcut/blob/main/LICENSE">
-        <img src="https://img.shields.io/github/license/rockbenben/ChatGPT-Shortcut?color=blue&label=License" alt="License" />
+    <a href="https://github.com/rockbenben/Chat-instructions/blob/main/LICENSE">
+        <img src="https://img.shields.io/github/license/rockbenben/Chat-instructions?color=blue&label=License" alt="License" />
     </a>
-    <a href="https://github.com/rockbenben/ChatGPT-Shortcut/stargazers">
-        <img src="https://img.shields.io/github/stars/rockbenben/ChatGPT-Shortcut?style=social" alt="GitHub Stars" />
+    <a href="https://github.com/rockbenben/Chat-instructions/stargazers">
+        <img src="https://img.shields.io/github/stars/rockbenben/Chat-instructions?style=social" alt="GitHub Stars" />
     </a>
-    <a href="https://github.com/rockbenben/ChatGPT-Shortcut/releases">
-        <img src="https://img.shields.io/github/v/release/rockbenben/ChatGPT-Shortcut?color=green" alt="Version" />
+    <a href="https://github.com/rockbenben/Chat-instructions/releases">
+        <img src="https://img.shields.io/github/v/release/rockbenben/Chat-instructions?color=green" alt="Version" />
     </a>
     <a href="https://discord.gg/PZTQfJ4GjX">
         <img src="https://img.shields.io/discord/1048780149899939881?color=%2385c8c8&label=Discord&logo=discord&style=flat" alt="Discord" />
@@ -39,22 +39,22 @@
 <a href="./README-bn.md">বাংলা</a>
 </p>
 <p align="center">
-    <em>AiShort (ChatGPT Shortcut) - เพิ่มประสิทธิภาพและประสิทธิผลของคุณด้วยคำสั่งลัด</em>
+    <em>AI one (Chat instructions) - เพิ่มประสิทธิภาพและประสิทธิผลของคุณด้วยคำสั่งลัด</em>
 </p>
 
 ## ⚡ เริ่มต้นใช้งานด่วน
 
-1. ไปที่ [aishort.top](https://www.aishort.top/th/)
+1. ไปที่ [onebiu.cn](https://www.onebiu.cn/th/)
 2. ค้นหาหรือเลือกดู Prompt ที่คุณต้องการ
 3. คลิก "Copy" และวางลงใน AI model ใดก็ได้
 
-![AiShort Interface](../static/img/docs/interface-home.png)
+![AI one Interface](../static/img/docs/interface-home.png)
 
-ง่ายๆ แค่นี้! สำหรับฟีเจอร์เพิ่มเติม อ่านต่อหรือดูที่ [คู่มือการใช้งาน](https://www.aishort.top/th/docs/guides/getting-started)
+ง่ายๆ แค่นี้! สำหรับฟีเจอร์เพิ่มเติม อ่านต่อหรือดูที่ [คู่มือการใช้งาน](https://www.onebiu.cn/th/docs/guides/getting-started)
 
-## ทำไมต้องใช้ AiShort?
+## ทำไมต้องใช้ AI one?
 
-AiShort (ChatGPT Shortcut) รวบรวมรายชื่อ AI prompts ที่คัดสรรมาแล้ว ช่วยให้คุณค้นหา prompt สำหรับทุกสถานการณ์ได้อย่างรวดเร็ว
+AI one (Chat instructions) รวบรวมรายชื่อ AI prompts ที่คัดสรรมาแล้ว ช่วยให้คุณค้นหา prompt สำหรับทุกสถานการณ์ได้อย่างรวดเร็ว
 
 ### ฟีเจอร์หลัก
 
@@ -80,20 +80,20 @@ AiShort (ChatGPT Shortcut) รวบรวมรายชื่อ AI prompts �
 
 ## ส่วนขยายเบราว์เซอร์
 
-เข้าถึง prompts ของ AiShort ได้ทุกที่ด้วยส่วนขยายเบราว์เซอร์ รองรับ Chrome, Edge, และ Firefox พร้อมแถบด้านข้างที่เปิดด้วย `Alt + Shift + S`
+เข้าถึง prompts ของ AI one ได้ทุกที่ด้วยส่วนขยายเบราว์เซอร์ รองรับ Chrome, Edge, และ Firefox พร้อมแถบด้านข้างที่เปิดด้วย `Alt + Shift + S`
 
 - **Chrome**: [Chrome Web Store](https://chrome.google.com/webstore/detail/chatgpt-shortcut/blcgeoojgdpodnmnhfpohphdhfncblnj)
 - **Edge**: [Microsoft Edge Addons](https://microsoftedge.microsoft.com/addons/detail/chatgpt-shortcut/hnggpalhfjmdhhmgfjpmhlfilnbmjoin)
 - **Firefox**: [Firefox Add-ons](https://addons.mozilla.org/addon/chatgpt-shortcut/)
-- **GitHub**: [Releases](https://github.com/rockbenben/ChatGPT-Shortcut/releases/latest)
+- **GitHub**: [Releases](https://github.com/rockbenben/Chat-instructions/releases/latest)
 
-นอกจากนี้เรายังมีสคริปต์ Tampermonkey [ChatGPT Shortcut Anywhere](https://greasyfork.org/scripts/482907-chatgpt-shortcut-anywhere) สำหรับใช้งานแถบด้านข้าง AiShort บนเว็บไซต์ใดก็ได้
+นอกจากนี้เรายังมีสคริปต์ Tampermonkey [Chat instructions Anywhere](https://greasyfork.org/scripts/482907-chatgpt-shortcut-anywhere) สำหรับใช้งานแถบด้านข้าง AI one บนเว็บไซต์ใดก็ได้
 
 ## การติดตั้ง
 
-ติดตั้งอินสแตนซ์ของคุณเองผ่าน Vercel, Cloudflare Pages, Docker หรือแบบ local ดู [คู่มือการติดตั้ง](https://www.aishort.top/th/docs/deploy)
+ติดตั้งอินสแตนซ์ของคุณเองผ่าน Vercel, Cloudflare Pages, Docker หรือแบบ local ดู [คู่มือการติดตั้ง](https://www.onebiu.cn/th/docs/deploy)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Frockbenben%2FChatGPT-Shortcut%2Ftree%2Fmain)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Frockbenben%2FChat-instructions%2Ftree%2Fmain)
 
 ## อัปเดตข้อมูล
 

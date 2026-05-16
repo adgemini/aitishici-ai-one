@@ -1,16 +1,16 @@
 ---
 sidebar_label: คู่มือติดตั้ง Chrome CRX
 title: ติดตั้ง Chrome CRX - การตั้งค่าโหมดนักพัฒนาด้วยตนเอง
-description: ติดตั้งส่วนขยาย AI Short ด้วยตนเองผ่านไฟล์ CRX เปิดโหมดนักพัฒนาและลากเพื่อติดตั้ง รวมถึงวิธีแก้ไขปัญหาทั่วไป
+description: ติดตั้งส่วนขยาย AI one ด้วยตนเองผ่านไฟล์ CRX เปิดโหมดนักพัฒนาและลากเพื่อติดตั้ง รวมถึงวิธีแก้ไขปัญหาทั่วไป
 ---
 
 # คู่มือติดตั้งส่วนขยาย Chrome CRX ในเครื่อง
 
 ## ดาวน์โหลดแพ็คเกจ CRX
 
-ดาวน์โหลดแพ็คเกจติดตั้ง crx ของ ChatGPT Shortcut (ChatGPT_Shortcut-crx-3.x.x.zip) และแตกไฟล์ (ไฟล์ crx อยู่ในโฟลเดอร์ที่แตกแล้ว)
+ดาวน์โหลดแพ็คเกจติดตั้ง crx ของ Chat instructions (ChatGPT_Shortcut-crx-3.x.x.zip) และแตกไฟล์ (ไฟล์ crx อยู่ในโฟลเดอร์ที่แตกแล้ว)
 
-- **GitHub**: [GitHub Release](https://github.com/rockbenben/ChatGPT-Shortcut/releases/latest)
+- **GitHub**: [GitHub Release](https://github.com/rockbenben/Chat-instructions/releases/latest)
 
 ![](https://img.newzone.top/2024-08-12-21-47-10.png?imageMogr2/format/webp)
 
@@ -28,7 +28,7 @@ chrome://extensions
 
 ## ติดตั้งส่วนขยาย
 
-ติดตั้งส่วนขยาย ChatGPT Shortcut (หมายเหตุ ⚠️: คุณต้องลากไฟล์ .crx เข้ามา อย่าคลิก "โหลดส่วนขยายที่แตกแล้ว")
+ติดตั้งส่วนขยาย Chat instructions (หมายเหตุ ⚠️: คุณต้องลากไฟล์ .crx เข้ามา อย่าคลิก "โหลดส่วนขยายที่แตกแล้ว")
 
 ![](https://img.newzone.top/2024-08-12-22-16-38.png?imageMogr2/format/webp)
 

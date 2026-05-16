@@ -10,7 +10,7 @@ Firefox 拡張機能を使用する前に、以下の 2 つのステップに従
 
 ## 1. 拡張機能の固定とアクセス設定
 
-まず、Firefox ツールバーで「ChatGPT Shortcut 拡張機能を固定」（Pin to Toolbar）を選択します。次に、拡張機能センターに入り、ChatGPT Shortcut 拡張機能のエントリを見つけて「オプション」（Options）を選択します。拡張機能の設定インターフェースに入ります。具体的な手順は以下の図の通りです：
+まず、Firefox ツールバーで「Chat instructions 拡張機能を固定」（Pin to Toolbar）を選択します。次に、拡張機能センターに入り、Chat instructions 拡張機能のエントリを見つけて「オプション」（Options）を選択します。拡張機能の設定インターフェースに入ります。具体的な手順は以下の図の通りです：
 
 ![Firefox settings](https://img.newzone.top/2023-12-25-05-51-47.png?imageMogr2/format/webp)
 

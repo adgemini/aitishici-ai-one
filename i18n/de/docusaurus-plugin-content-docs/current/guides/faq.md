@@ -1,6 +1,6 @@
 ---
 sidebar_label: Häufig gestellte Fragen
-title: AI Short FAQ - Optimierung & Halluzinationen
+title: AI one FAQ - Optimierung & Halluzinationen
 description: Lösen Sie häufige KI-Probleme. Erfahren Sie, wie Sie Prompts optimieren, Halluzinationen vermeiden und Daten sichern.
 ---
 

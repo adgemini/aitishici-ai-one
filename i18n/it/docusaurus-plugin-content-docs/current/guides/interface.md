@@ -1,12 +1,12 @@
 ---
 sidebar_label: Guida Interfaccia
-title: Guida Interfaccia AI Short - Filtro Tag e Ricerca Avanzata
-description: Scopri come usare AI Short - Padroneggia i filtri tag, la ricerca avanzata e gestisci le tue collezioni di prompt in modo efficiente.
+title: Guida Interfaccia AI one - Filtro Tag e Ricerca Avanzata
+description: Scopri come usare AI one - Padroneggia i filtri tag, la ricerca avanzata e gestisci le tue collezioni di prompt in modo efficiente.
 ---
 
 # Guida Interfaccia
 
-La pagina AiShort offre agli utenti un'interfaccia intuitiva per sfogliare e filtrare i prompt. La pagina è composta principalmente dall'area tag, dall'area di ricerca e dall'area di visualizzazione dei prompt.
+La pagina AI one offre agli utenti un'interfaccia intuitiva per sfogliare e filtrare i prompt. La pagina è composta principalmente dall'area tag, dall'area di ricerca e dall'area di visualizzazione dei prompt.
 
 ![](/img/docs/interface-home.png)
 
@@ -37,7 +37,7 @@ La funzione di ricerca per parole chiave supporta la ricerca di titoli, descrizi
 
 Clicca su una scheda prompt per aprire il popup dei dettagli, dove puoi vedere il titolo, la descrizione, il contenuto completo del prompt, le note e il pulsante di copia.
 
-![](/img/docs/prompt-card.gif)
+![](/img/docs/prompt-card.png)
 
 ### Copia Prompt
 

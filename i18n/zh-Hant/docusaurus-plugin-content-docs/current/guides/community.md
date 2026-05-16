@@ -1,6 +1,6 @@
 ---
 sidebar_label: 社區提示詞
-title: AI Short 社區 | 發現分享優質 AI 提示詞
+title: AI one 社區 | 發現分享優質 AI 提示詞
 description: 發現社區精選 AI 提示詞！通過投票篩選優質內容，分享你的創意獲得曝光，或設爲私密僅自己可見。
 ---
 

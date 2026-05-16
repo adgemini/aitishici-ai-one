@@ -1,12 +1,12 @@
 ---
 sidebar_label: Guide de l'interface
 title: Guide de l'interface - Recherche et Filtres
-description: Maîtrisez AI Short. Apprenez à filtrer par étiquettes et utiliser la recherche intelligente pour trouver le prompt parfait.
+description: Maîtrisez AI one. Apprenez à filtrer par étiquettes et utiliser la recherche intelligente pour trouver le prompt parfait.
 ---
 
 # Guide de l'interface
 
-La page AiShort offre aux utilisateurs une interface intuitive pour parcourir et filtrer les prompts. La page se compose principalement de la zone de balises, de la zone de recherche et de la zone d'affichage des prompts.
+La page AI one offre aux utilisateurs une interface intuitive pour parcourir et filtrer les prompts. La page se compose principalement de la zone de balises, de la zone de recherche et de la zone d'affichage des prompts.
 
 ![](/img/docs/interface-home.png)
 
@@ -37,7 +37,7 @@ La fonction de recherche par mots-clés prend en charge la recherche des titres,
 
 Cliquez sur une carte de prompt pour ouvrir la fenêtre contextuelle des détails, où vous pouvez voir le titre, la description, le contenu complet du prompt, les remarques et le bouton de copie.
 
-![](/img/docs/prompt-card.gif)
+![](/img/docs/prompt-card.png)
 
 ### Copier le prompt
 

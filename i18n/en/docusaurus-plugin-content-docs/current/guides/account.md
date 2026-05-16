@@ -1,12 +1,12 @@
 ---
 sidebar_label: Account
-title: AI Short Account | Google & Passwordless Login Guide
-description: Access your AI Short prompts anywhere with Google or passwordless login. Manage your account settings and recover data securely in seconds.
+title: AI one Account | Google & Passwordless Login Guide
+description: Access your AI one prompts anywhere with Google or passwordless login. Manage your account settings and recover data securely in seconds.
 ---
 
 # Account Management
 
-AiShort provides multiple login methods to facilitate access to your personal data at any time.
+AI one provides multiple login methods to facilitate access to your personal data at any time.
 
 ## Login Methods
 

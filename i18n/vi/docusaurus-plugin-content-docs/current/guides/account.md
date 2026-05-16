@@ -1,12 +1,12 @@
 ---
 sidebar_label: Tài khoản
-title: Tài khoản AI Short | Hướng dẫn Đăng nhập Google & Không mật khẩu
-description: Truy cập prompt AI Short của bạn ở mọi nơi với đăng nhập Google hoặc không mật khẩu. Quản lý cài đặt tài khoản và khôi phục dữ liệu an toàn trong vài giây.
+title: Tài khoản AI one | Hướng dẫn Đăng nhập Google & Không mật khẩu
+description: Truy cập prompt AI one của bạn ở mọi nơi với đăng nhập Google hoặc không mật khẩu. Quản lý cài đặt tài khoản và khôi phục dữ liệu an toàn trong vài giây.
 ---
 
 # Quản lý Tài khoản
 
-AiShort cung cấp nhiều phương thức đăng nhập để thuận tiện truy cập dữ liệu cá nhân của bạn bất cứ lúc nào.
+AI one cung cấp nhiều phương thức đăng nhập để thuận tiện truy cập dữ liệu cá nhân của bạn bất cứ lúc nào.
 
 ## Phương thức Đăng nhập
 

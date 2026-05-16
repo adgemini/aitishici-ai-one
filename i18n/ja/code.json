@@ -111,7 +111,7 @@
     "message": "リストに戻る"
   },
   "community.description": {
-    "message": "もっと実用的なAIプロンプトが欲しい？AiShortコミュニティで高品質なテンプレートを発見し、最適化のコツを交換しましょう。"
+    "message": "もっと実用的なAIプロンプトが欲しい？AI oneコミュニティで高品質なテンプレートを発見し、最適化のコツを交換しましょう。"
   },
   "community.loading": {
     "message": "読み込み中..."
@@ -126,7 +126,7 @@
     "message": "コミュニティプロンプト"
   },
   "community.title": {
-    "message": "AIプロンプトコミュニティ | 発見・共有 - AiShort"
+    "message": "AIプロンプトコミュニティ | 発見・共有 - AI one"
   },
   "description.clearCache.short": {
     "message": "ローカルキャッシュデータを更新"
@@ -138,7 +138,7 @@
     "message": "JSONファイルからプロンプトとお気に入りをインポート"
   },
   "faq.a1": {
-    "message": "AiShort（旧名 ChatGPT Shortcut）は、さまざまなシーンに適した指示を素早く見つけられる、厳選されたプロンプトリストを提供するオープンソースの AI プロンプト管理ツールです。プロジェクトは当初 ChatGPT に焦点を当てていたため、GitHub リポジトリ名は ChatGPT-Shortcut のままです。現在は Claude、Gemini、DeepSeek、Kimi など、すべての主要な大規模言語モデルに対応しています。名前は歴史的経緯から保持されています。"
+    "message": "AI one（旧名 Chat instructions）は、さまざまなシーンに適した指示を素早く見つけられる、厳選されたプロンプトリストを提供するオープンソースの AI プロンプト管理ツールです。プロジェクトは当初 ChatGPT に焦点を当てていたため、GitHub リポジトリ名は Chat-instructions のままです。現在は Claude、Gemini、DeepSeek、Kimi など、すべての主要な大規模言語モデルに対応しています。名前は歴史的経緯から保持されています。"
   },
   "faq.a2": {
     "message": "3 ステップ：(1) ホームページでプロンプトを検索またはタグで閲覧；(2) カードの「コピー」ボタンをクリック；(3) 任意の AI チャットツールに貼り付け、プロンプトの指示に従って具体的な質問を追加。"
@@ -147,7 +147,7 @@
     "message": "プロンプトはモデルに依存せず、すべての主流大規模言語モデルで使用可能です。国際モデル：ChatGPT、Claude、Gemini、Grok。中国モデル：DeepSeek、通義千問、文心一言、豆包、Kimi、智譜清言、訊飛星火、騰訊元宝。API プラットフォーム：OpenRouter、SiliconFlow、Groq。"
   },
   "faq.a4": {
-    "message": "Awesome ChatGPT Prompts は AiShort のコンテンツソースの一つです。AiShort はその上に、タグフィルタ付きグラフィカル閲覧画面、18 言語翻訳、個人プロンプト管理（お気に入り／並べ替え／タグ）、コミュニティ共有と投票、Chrome/Edge/Firefox ブラウザ拡張（Alt+Shift+S でサイドバー起動）、JSON データのエクスポート＆バックアップ、企業内ネットワーク向けオフライン展開版を提供します。"
+    "message": "Awesome ChatGPT Prompts は AI one のコンテンツソースの一つです。AI one はその上に、タグフィルタ付きグラフィカル閲覧画面、18 言語翻訳、個人プロンプト管理（お気に入り／並べ替え／タグ）、コミュニティ共有と投票、Chrome/Edge/Firefox ブラウザ拡張（Alt+Shift+S でサイドバー起動）、JSON データのエクスポート＆バックアップ、企業内ネットワーク向けオフライン展開版を提供します。"
   },
   "faq.a5": {
     "message": "完全無料かつオープンソース（コードは GitHub でホスト）。プロンプトの閲覧・検索・コピーには登録不要です。登録すると、ドラッグ＆ドロップ並べ替え対応のお気に入り、カスタムタグ、個人プロンプトの作成・管理、コミュニティ共有と投票、JSON エクスポート＆バックアップ、デバイス間同期がご利用いただけます。"
@@ -159,22 +159,22 @@
     "message": "よくある質問"
   },
   "faq.q1": {
-    "message": "AiShort とは何ですか？なぜ「ChatGPT Shortcut」と呼ばれるのですか？"
+    "message": "AI one とは何ですか？なぜ「Chat instructions」と呼ばれるのですか？"
   },
   "faq.q2": {
-    "message": "AiShort の使い方は？"
+    "message": "AI one の使い方は？"
   },
   "faq.q3": {
     "message": "ChatGPT 専用ですか？他の AI モデルにも対応していますか？"
   },
   "faq.q4": {
-    "message": "AiShort と Awesome ChatGPT Prompts などのオープンソースプロンプト集との違いは？"
+    "message": "AI one と Awesome ChatGPT Prompts などのオープンソースプロンプト集との違いは？"
   },
   "faq.q5": {
-    "message": "AiShort は無料ですか？登録は必要ですか？"
+    "message": "AI one は無料ですか？登録は必要ですか？"
   },
   "faq.q6": {
-    "message": "AiShort を社内イントラネットやオフライン環境で使えますか？"
+    "message": "AI one を社内イントラネットやオフライン環境で使えますか？"
   },
   "faq.scenario.a": {
     "message": "このページのタイトルと説明に関連するタスクに適しています。初回で十分な結果が得られない場合は、プレースホルダーに文脈を追記したり、「手順を追って答えて」「例を挙げて」などの制約を加えてください。"
@@ -207,13 +207,13 @@
     "message": "フィードバックと提案"
   },
   "homepage.description": {
-    "message": "AIの回答がいつも的外れ？AiShortは執筆・プログラミング・翻訳に役立つ実用的なプロンプトを収録。ワンクリックでコピーして作業効率を倍増！"
+    "message": "AIの回答がいつも的外れ？AI oneは執筆・プログラミング・翻訳に役立つ実用的なプロンプトを収録。ワンクリックでコピーして作業効率を倍増！"
   },
   "homepage.slogan": {
     "message": "厳選AIプロンプト、ワンクリックで使える"
   },
   "homepage.title": {
-    "message": "AiShort - AIプロンプト集 | 厳選テンプレートで生産性向上"
+    "message": "AI one - AIプロンプト集 | 厳選テンプレートで生産性向上"
   },
   "howto.step1.name": {
     "message": "プロンプトをコピー"

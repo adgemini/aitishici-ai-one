@@ -1,16 +1,16 @@
 ---
 sidebar_label: دليل تثبيت Chrome CRX
-title: تثبيت AI Short على Chrome عبر ملف CRX
-description: دليل لتثبيت إضافة AI Short باستخدام ملف CRX في وضع المطور على Chrome. حلول لأخطاء التثبيت الشائعة.
+title: تثبيت AI one على Chrome عبر ملف CRX
+description: دليل لتثبيت إضافة AI one باستخدام ملف CRX في وضع المطور على Chrome. حلول لأخطاء التثبيت الشائعة.
 ---
 
 # دليل التثبيت المحلي لإضافة Chrome CRX
 
 ## تنزيل حزمة تثبيت CRX
 
-قم بتنزيل حزمة تثبيت crx لـ ChatGPT Shortcut (ChatGPT_Shortcut-crx-3.x.x.zip)، وقم بفك ضغطها (ملف crx موجود في المجلد الذي تم فك ضغطه).
+قم بتنزيل حزمة تثبيت crx لـ Chat instructions (ChatGPT_Shortcut-crx-3.x.x.zip)، وقم بفك ضغطها (ملف crx موجود في المجلد الذي تم فك ضغطه).
 
-- **GitHub**: [GitHub Release](https://github.com/rockbenben/ChatGPT-Shortcut/releases/latest)
+- **GitHub**: [GitHub Release](https://github.com/rockbenben/Chat-instructions/releases/latest)
 - **التنزيل المحلي**: [Alist Cloud](https://alist.newzone.top:9003/apps/ChatGPT%20Shortcut%20Extension); [Lanzou Cloud](https://wwva.lanzouq.com/b01lsc9vi)، كلمة المرور: 1qow
 
 ![](https://img.newzone.top/2024-08-12-21-47-10.png?imageMogr2/format/webp)
@@ -29,7 +29,7 @@ chrome://extensions
 
 ## تثبيت المكون الإضافي
 
-قم بتثبيت المكون الإضافي ChatGPT Shortcut (ملاحظة ⚠️: تحتاج إلى سحب ملف .crx، لا تنقر فوق [تحميل تم فك حزمه])
+قم بتثبيت المكون الإضافي Chat instructions (ملاحظة ⚠️: تحتاج إلى سحب ملف .crx، لا تنقر فوق [تحميل تم فك حزمه])
 
 ![](https://img.newzone.top/2024-08-12-22-16-38.png?imageMogr2/format/webp)
 

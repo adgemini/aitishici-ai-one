@@ -1,12 +1,12 @@
 ---
 sidebar_label: Cara Menggunakan Ekstensi
-title: Panduan Ekstensi AI Short - Sidebar & Pintasan
-description: Kuasai ekstensi browser AI Short! Aktifkan sidebar, panggil perpustakaan prompt dengan satu klik menggunakan Alt+Shift+S.
+title: Panduan Ekstensi AI one - Sidebar & Pintasan
+description: Kuasai ekstensi browser AI one! Aktifkan sidebar, panggil perpustakaan prompt dengan satu klik menggunakan Alt+Shift+S.
 ---
 
 # Cara Menggunakan Ekstensi Browser?
 
-ChatGPT Shortcut mendukung 13 bahasa utama, dan bahasa ekstensi akan diatur secara otomatis sesuai dengan lingkungan browser Anda. Anda juga dapat mengubah bahasa secara manual di halaman pengaturan.
+Chat instructions mendukung 13 bahasa utama, dan bahasa ekstensi akan diatur secara otomatis sesuai dengan lingkungan browser Anda. Anda juga dapat mengubah bahasa secara manual di halaman pengaturan.
 
 ![](/img/docs/extension-settings.png)
 

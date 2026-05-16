@@ -1,12 +1,12 @@
 ---
 sidebar_label: Gestion de compte
-title: Compte AI Short - Connexion Google et Email
+title: Compte AI one - Connexion Google et Email
 description: Accédez à vos prompts via Google ou email sans mot de passe. Gérez votre compte et récupérez vos données facilement.
 ---
 
 # Gestion de compte
 
-AiShort fournit plusieurs méthodes de connexion pour faciliter l'accès à vos données personnelles à tout moment.
+AI one fournit plusieurs méthodes de connexion pour faciliter l'accès à vos données personnelles à tout moment.
 
 ## Méthodes de connexion
 

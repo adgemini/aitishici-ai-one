@@ -1,16 +1,16 @@
 ---
 sidebar_label: คู่มือติดตั้ง Chrome ZIP
-title: ติดตั้ง Chrome ZIP - การตั้งค่าส่วนขยาย AI Short ด้วยตนเอง
-description: ติดตั้งส่วนขยาย AI Short ใน Chrome ผ่านไฟล์ ZIP แตกไฟล์และลากเข้าหน้าส่วนขยาย เหมาะเมื่อไม่สามารถติดตั้ง CRX ได้
+title: ติดตั้ง Chrome ZIP - การตั้งค่าส่วนขยาย AI one ด้วยตนเอง
+description: ติดตั้งส่วนขยาย AI one ใน Chrome ผ่านไฟล์ ZIP แตกไฟล์และลากเข้าหน้าส่วนขยาย เหมาะเมื่อไม่สามารถติดตั้ง CRX ได้
 ---
 
 # คู่มือติดตั้งส่วนขยาย Chrome ZIP ในเครื่อง
 
 ## ดาวน์โหลดส่วนขยาย
 
-ดาวน์โหลดแพ็คเกจติดตั้ง ZIP ของส่วนขยาย ChatGPT Shortcut (ChatGPT_Shortcut-zip-3.x.x.zip) และแตกไฟล์ (โฟลเดอร์ที่แตกแล้วต้องเก็บไว้บนคอมพิวเตอร์ ดังนั้นจำไว้ว่าให้แตกไปยังตำแหน่งถาวร)
+ดาวน์โหลดแพ็คเกจติดตั้ง ZIP ของส่วนขยาย Chat instructions (ChatGPT_Shortcut-zip-3.x.x.zip) และแตกไฟล์ (โฟลเดอร์ที่แตกแล้วต้องเก็บไว้บนคอมพิวเตอร์ ดังนั้นจำไว้ว่าให้แตกไปยังตำแหน่งถาวร)
 
-- **GitHub**: [GitHub Release](https://github.com/rockbenben/ChatGPT-Shortcut/releases/latest)
+- **GitHub**: [GitHub Release](https://github.com/rockbenben/Chat-instructions/releases/latest)
 
 ## เปิดโหมดนักพัฒนา
 

@@ -1,12 +1,12 @@
 ---
 sidebar_label: Cách Sử dụng Tiện ích
-title: Hướng dẫn Tiện ích AI Short - Thanh bên & Phím tắt
-description: Làm chủ tiện ích trình duyệt AI Short! Bật thanh bên, kích hoạt thư viện prompt bằng một cú nhấp với Alt+Shift+S.
+title: Hướng dẫn Tiện ích AI one - Thanh bên & Phím tắt
+description: Làm chủ tiện ích trình duyệt AI one! Bật thanh bên, kích hoạt thư viện prompt bằng một cú nhấp với Alt+Shift+S.
 ---
 
 # Cách Sử dụng Tiện ích Trình duyệt?
 
-ChatGPT Shortcut hỗ trợ 13 ngôn ngữ chính, và ngôn ngữ tiện ích sẽ được tự động đặt theo môi trường trình duyệt của bạn. Bạn cũng có thể thay đổi ngôn ngữ thủ công trong trang cài đặt.
+Chat instructions hỗ trợ 13 ngôn ngữ chính, và ngôn ngữ tiện ích sẽ được tự động đặt theo môi trường trình duyệt của bạn. Bạn cũng có thể thay đổi ngôn ngữ thủ công trong trang cài đặt.
 
 ![](/img/docs/extension-settings.png)
 

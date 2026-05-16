@@ -1,6 +1,6 @@
 ---
 sidebar_label: よくある質問
-title: AI Short FAQ：プロンプト最適化と幻覚対策
+title: AI one FAQ：プロンプト最適化と幻覚対策
 description: AIの回答が変？プロンプトのコツやAIの「幻覚」対策、データのバックアップ方法など、よくあるトラブル解決法をまとめました。
 ---
 

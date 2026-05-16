@@ -1,6 +1,6 @@
 ---
 sidebar_label: Prompts de la communauté
-title: Communauté AI Short - Votez et Partagez
+title: Communauté AI one - Votez et Partagez
 description: Découvrez les meilleurs prompts votés par la communauté. Partagez vos idées ou gardez-les privées. Trouvez l'inspiration pour l'IA.
 ---
 

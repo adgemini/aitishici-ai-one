@@ -1,16 +1,16 @@
 ---
 sidebar_label: Chrome ZIP इंस्टॉलेशन गाइड
-title: Chrome में AI Short ZIP फ़ाइल कैसे इंस्टॉल करें
-description: Chrome में AI Short एक्सटेंशन को ZIP फ़ाइल का उपयोग करके मैन्युअल रूप से इंस्टॉल करने के लिए गाइड। डेवलपर मोड सक्षम करें और लोड करें।
+title: Chrome में AI one ZIP फ़ाइल कैसे इंस्टॉल करें
+description: Chrome में AI one एक्सटेंशन को ZIP फ़ाइल का उपयोग करके मैन्युअल रूप से इंस्टॉल करने के लिए गाइड। डेवलपर मोड सक्षम करें और लोड करें।
 ---
 
 # Chrome ZIP एक्सटेंशन स्थानीय इंस्टॉलेशन गाइड
 
 ## प्लगइन डाउनलोड करें
 
-ChatGPT Shortcut प्लगइन ज़िप इंस्टॉलेशन पैकेज (ChatGPT_Shortcut-zip-3.x.x.zip) डाउनलोड करें और इसे अनज़िप करें। (अनज़िप किए गए फ़ोल्डर को कंप्यूटर पर रखने की आवश्यकता है, इसलिए इसे स्थायी स्थान पर अनज़िप करना याद रखें)
+Chat instructions प्लगइन ज़िप इंस्टॉलेशन पैकेज (ChatGPT_Shortcut-zip-3.x.x.zip) डाउनलोड करें और इसे अनज़िप करें। (अनज़िप किए गए फ़ोल्डर को कंप्यूटर पर रखने की आवश्यकता है, इसलिए इसे स्थायी स्थान पर अनज़िप करना याद रखें)
 
-- **GitHub**: [GitHub Release](https://github.com/rockbenben/ChatGPT-Shortcut/releases/latest)
+- **GitHub**: [GitHub Release](https://github.com/rockbenben/Chat-instructions/releases/latest)
 - **घरेलू डाउनलोड**: [Alist Cloud](https://alist.newzone.top:9003/apps/ChatGPT%20Shortcut%20Extension); [Lanzou Cloud](https://wwva.lanzouq.com/b01lsc9vi), पासवर्ड: 1qow
 
 ## डेवलपर मोड सक्षम करें

@@ -1,14 +1,14 @@
 ---
 sidebar_label: Triển khai
-title: Triển khai AI Short | Thiết lập Vercel, Docker & Cloudflare
-description: Muốn tự lưu trữ thư viện prompt AI của riêng bạn? Triển khai AI Short dễ dàng bằng Vercel, Docker hoặc Cloudflare. Bao gồm mẹo cấu hình và script tự động cập nhật.
+title: Triển khai AI one | Thiết lập Vercel, Docker & Cloudflare
+description: Muốn tự lưu trữ thư viện prompt AI của riêng bạn? Triển khai AI one dễ dàng bằng Vercel, Docker hoặc Cloudflare. Bao gồm mẹo cấu hình và script tự động cập nhật.
 ---
 
 # Triển khai Dự án
 
 ## Cấu hình và Tùy chỉnh
 
-AI Short là dự án mã nguồn mở cho phép bạn tự do sửa đổi tiêu đề trang web, mô tả, prompt và nội dung khác theo nhu cầu của bạn. Dưới đây là các tùy chọn sửa đổi phổ biến và hướng dẫn thao tác:
+AI one là dự án mã nguồn mở cho phép bạn tự do sửa đổi tiêu đề trang web, mô tả, prompt và nội dung khác theo nhu cầu của bạn. Dưới đây là các tùy chọn sửa đổi phổ biến và hướng dẫn thao tác:
 
 - **Sửa đổi Tiêu đề và Mô tả Trang web**
   Để thay đổi thông tin tiêu đề và mô tả của trang web, vui lòng chỉnh sửa tệp cấu hình `docusaurus.config.js`.
@@ -71,9 +71,9 @@ yarn build --locale vi
 
 ### Triển khai Vercel
 
-Nhấp nút bên dưới để triển khai một cú nhấp ChatGPT-Shortcut lên nền tảng Vercel:
+Nhấp nút bên dưới để triển khai một cú nhấp Chat-instructions lên nền tảng Vercel:
 
-[![Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Frockbenben%2FChatGPT-Shortcut%2Ftree%2Fmain)
+[![Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Frockbenben%2FChat-instructions%2Ftree%2Fmain)
 
 ### Triển khai Docker
 

@@ -1,6 +1,6 @@
 ---
 sidebar_label: Özel Promptlar
-title: AI Short Özel Promptlar | Oluştur, Kaydet ve Paylaş
+title: AI one Özel Promptlar | Oluştur, Kaydet ve Paylaş
 description: Anında erişim için kendi AI promptlarınızı oluşturun ve kaydedin. Toplulukla paylaşın veya özel tutun ve istediğiniz zaman yedek dışa aktarın.
 ---
 

@@ -8,9 +8,9 @@ description: CRX 사용 불가 시 해결책. ZIP 파일 압축 해제 후 Chrom
 
 ## 확장 프로그램 다운로드
 
-ChatGPT Shortcut 확장 프로그램 Zip 설치 패키지(ChatGPT_Shortcut-zip-3.x.x.zip)를 다운로드하고 압축을 풉니다. (압축을 푼 폴더는 컴퓨터에 보관해야 하므로 영구적인 위치에 압축을 풀어야 합니다)
+Chat instructions 확장 프로그램 Zip 설치 패키지(ChatGPT_Shortcut-zip-3.x.x.zip)를 다운로드하고 압축을 풉니다. (압축을 푼 폴더는 컴퓨터에 보관해야 하므로 영구적인 위치에 압축을 풀어야 합니다)
 
-- **GitHub**: [GitHub Release](https://github.com/rockbenben/ChatGPT-Shortcut/releases/latest)
+- **GitHub**: [GitHub Release](https://github.com/rockbenben/Chat-instructions/releases/latest)
 - **중국 다운로드**: [Alist 클라우드 드라이브](https://alist.newzone.top:9003/apps/ChatGPT%20Shortcut%20Extension); [Lanzou Cloud](https://wwva.lanzouq.com/b01lsc9vi), 비밀번호: 1qow
 
 ## 개발자 모드 활성화

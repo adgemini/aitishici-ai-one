@@ -10,7 +10,7 @@ Bevor Sie die Firefox-Erweiterung verwenden, wird empfohlen, diese zwei Schritte
 
 ## 1. Erweiterung anheften und Zugriffseinstellungen
 
-Wählen Sie zuerst "ChatGPT Shortcut Erweiterung anheften" (Pin to Toolbar) in der Firefox-Symbolleiste. Gehen Sie dann ins Erweiterungscenter, suchen Sie den Eintrag für die ChatGPT Shortcut Erweiterung und wählen Sie "Optionen" (Options). Betreten Sie die Erweiterungs-Einstellungsoberfläche. Die spezifischen Schritte sind unten dargestellt:
+Wählen Sie zuerst "Chat instructions Erweiterung anheften" (Pin to Toolbar) in der Firefox-Symbolleiste. Gehen Sie dann ins Erweiterungscenter, suchen Sie den Eintrag für die Chat instructions Erweiterung und wählen Sie "Optionen" (Options). Betreten Sie die Erweiterungs-Einstellungsoberfläche. Die spezifischen Schritte sind unten dargestellt:
 
 ![Firefox settings](https://img.newzone.top/2023-12-25-05-51-47.png?imageMogr2/format/webp)
 

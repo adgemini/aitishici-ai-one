@@ -17,7 +17,7 @@ Ana sayfanın üst kısmında iki modu destekleyen görünüm değiştirme düğ
 
 Tarayıcı görünüm seçiminizi otomatik olarak hatırlayacak ve bir sonraki ziyaretinizde son görünüme geçecektir.
 
-![Koleksiyonum Görünümü](/img/docs/my-collection-view.gif)
+![Koleksiyonum Görünümü](/img/docs/my-collection-view.png)
 
 ## Koleksiyona Ekle
 
@@ -63,7 +63,7 @@ Koleksiyonum görünümünde kart sırasının sürükle-bırak ayarlaması dest
 
 Sıralama işlevi yalnızca Koleksiyonum görünümünde kullanılabilir.
 
-![Sürükle-Bırak Sıralama](/img/docs/my-collection-drag.gif)
+![Sürükle-Bırak Sıralama](/img/docs/my-collection-drag.png)
 
 ## İlgili Belgeler
 

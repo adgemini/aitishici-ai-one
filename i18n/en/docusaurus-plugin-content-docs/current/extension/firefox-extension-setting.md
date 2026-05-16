@@ -10,7 +10,7 @@ Before using the Firefox extension, it is recommended to follow these two steps 
 
 ## 1. Pin Extension and Access Settings
 
-First, select "Pin ChatGPT Shortcut Extension" (Pin to Toolbar) on the Firefox toolbar. Then, enter the Extension Center, find the ChatGPT Shortcut extension entry and select "Options". Enter the extension's settings interface. Specific steps are shown below:
+First, select "Pin Chat instructions Extension" (Pin to Toolbar) on the Firefox toolbar. Then, enter the Extension Center, find the Chat instructions extension entry and select "Options". Enter the extension's settings interface. Specific steps are shown below:
 
 ![Firefox settings](https://img.newzone.top/2023-12-25-05-51-47.png?imageMogr2/format/webp)
 

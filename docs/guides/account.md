@@ -1,12 +1,12 @@
 ---
 sidebar_label: 账户管理
-title: AI Short 账户管理 | Google 登录与无密码登录
+title: AI one 账户管理 | Google 登录与无密码登录
 description: 支持 Google 一键登录、邮箱无密码登录，快速访问个人收藏。忘记密码可一键重置，轻松找回账户数据。
 ---
 
 # 账户管理
 
-AiShort 提供多种登录方式，方便您随时访问个人数据。
+AI one 提供多种登录方式，方便您随时访问个人数据。
 
 ## 登录方式
 

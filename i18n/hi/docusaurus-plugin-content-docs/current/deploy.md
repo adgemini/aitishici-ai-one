@@ -1,14 +1,14 @@
 ---
 sidebar_label: तैनाती (Deployment)
-title: AI Short तैनाती (Deployment) गाइड - Vercel और Docker के लिए
-description: AI Short को आसानी से तैनात करें - Vercel, Docker और Cloudflare का समर्थन। सेटअप और ऑटो-अपडेट गाइड।
+title: AI one तैनाती (Deployment) गाइड - Vercel और Docker के लिए
+description: AI one को आसानी से तैनात करें - Vercel, Docker और Cloudflare का समर्थन। सेटअप और ऑटो-अपडेट गाइड।
 ---
 
 # परियोजना तैनाती
 
 ## कॉन्फ़िगरेशन और अनुकूलन
 
-AI Short एक ओपन-सोर्स प्रोजेक्ट है, जो आपको अपनी आवश्यकताओं के अनुसार साइट के शीर्षक, विवरण और प्रॉम्प्ट को संशोधित करने की अनुमति देता है। नीचे सामान्य संशोधन विकल्प और निर्देश दिए गए हैं:
+AI one एक ओपन-सोर्स प्रोजेक्ट है, जो आपको अपनी आवश्यकताओं के अनुसार साइट के शीर्षक, विवरण और प्रॉम्प्ट को संशोधित करने की अनुमति देता है। नीचे सामान्य संशोधन विकल्प और निर्देश दिए गए हैं:
 
 - **साइट का शीर्षक और विवरण संशोधित करें**
   साइट के शीर्षक और विवरण को बदलने के लिए, कृपया `docusaurus.config.js` कॉन्फ़िगरेशन फ़ाइल को संपादित करें।
@@ -108,9 +108,9 @@ yarn build --locale zh-Hans && yarn build --locale en
 
 ### Vercel तैनाती
 
-ChatGPT-Shortcut को Vercel प्लेटफ़ॉर्म पर एक क्लिक में तैनात करने के लिए नीचे दिए गए बटन पर क्लिक करें:
+Chat-instructions को Vercel प्लेटफ़ॉर्म पर एक क्लिक में तैनात करने के लिए नीचे दिए गए बटन पर क्लिक करें:
 
-[![Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Frockbenben%2FChatGPT-Shortcut%2Ftree%2Fmain)
+[![Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Frockbenben%2FChat-instructions%2Ftree%2Fmain)
 
 **नोट**: Vercel का मुफ़्त संस्करण अपर्याप्त मेमोरी के कारण विफल हो सकता है। यदि आप इस स्थिति का सामना करते हैं, तो आप एकल-भाषा तैनाती चुन सकते हैं। विशिष्ट ऑपरेशन इस प्रकार हैं:
 
@@ -122,7 +122,7 @@ ChatGPT-Shortcut को Vercel प्लेटफ़ॉर्म पर एक �
 
 नीचे दिए गए बटन या लिंक पर क्लिक करें, इस प्रोजेक्ट को Fork करें, और Cloudflare Pages पर तैनात करने के लिए निर्देशों का पालन करें:
 
-👉 [इस प्रोजेक्ट को Fork करें](https://github.com/rockbenben/ChatGPT-Shortcut/fork)
+👉 [इस प्रोजेक्ट को Fork करें](https://github.com/rockbenben/Chat-instructions/fork)
 
 तैनाती के चरण:
 

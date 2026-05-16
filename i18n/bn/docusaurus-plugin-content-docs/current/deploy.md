@@ -1,14 +1,14 @@
 ---
 sidebar_label: স্থাপना (Deployment)
-title: AI Short ডিপ্লয়মেন্ট গাইড - Vercel এবং Docker
-description: AI Short সহজেই ডিপ্লয় করুন - Vercel, Docker এবং Cloudflare সমর্থন। সেটআপ, কনফিগারেশন এবং অটো-আপডেট গাইড।
+title: AI one ডিপ্লয়মেন্ট গাইড - Vercel এবং Docker
+description: AI one সহজেই ডিপ্লয় করুন - Vercel, Docker এবং Cloudflare সমর্থন। সেটআপ, কনফিগারেশন এবং অটো-আপডেট গাইড।
 ---
 
 # প্রজেক্ট স্থাপনা
 
 ## কনফিগারেশন এবং কাস্টমাইজেশন
 
-AI Short একটি ওপেন-সোর্স প্রজেক্ট, যা আপনাকে আপনার প্রয়োজন অনুযায়ী সাইটের শিরোনাম, বিবরণ এবং প্রম্পট সংশোধন করার অনুমতি দেয়। নিচে সাধারণ সংশোধনের বিকল্প এবং নির্দেশাবলী দেওয়া হলো:
+AI one একটি ওপেন-সোর্স প্রজেক্ট, যা আপনাকে আপনার প্রয়োজন অনুযায়ী সাইটের শিরোনাম, বিবরণ এবং প্রম্পট সংশোধন করার অনুমতি দেয়। নিচে সাধারণ সংশোধনের বিকল্প এবং নির্দেশাবলী দেওয়া হলো:
 
 - **সাইটের শিরোনাম এবং বিবরণ সংশোধন করুন**
   সাইটের শিরোনাম এবং বিবরণ পরিবর্তন করতে, দয়া করে `docusaurus.config.js` কনফিগারেশন ফাইলটি সম্পাদনা করুন।
@@ -108,9 +108,9 @@ yarn build --locale zh-Hans && yarn build --locale en
 
 ### Vercel স্থাপনা
 
-ChatGPT-Shortcut কে Vercel প্ল্যাটফর্মে এক ক্লিকে স্থাপন করতে নিচের বাটনে ক্লিক করুন:
+Chat-instructions কে Vercel প্ল্যাটফর্মে এক ক্লিকে স্থাপন করতে নিচের বাটনে ক্লিক করুন:
 
-[![Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Frockbenben%2FChatGPT-Shortcut%2Ftree%2Fmain)
+[![Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Frockbenben%2FChat-instructions%2Ftree%2Fmain)
 
 **নোট**: অপর্যাপ্ত মেমোরির কারণে Vercel-এর বিনামূল্যের সংস্করণ ব্যর্থ হতে পারে। যদি আপনি এই পরিস্থিতির সম্মুখীন হন, তবে আপনি একক-ভাষা স্থাপনা বেছে নিতে পারেন। নির্দিষ্ট অপারেশনগুলি নিম্নরূপ:
 
@@ -122,7 +122,7 @@ ChatGPT-Shortcut কে Vercel প্ল্যাটফর্মে এক ক�
 
 নিচের বাটন বা লিঙ্কে ক্লিক করুন, এই প্রজেক্টটি Fork করুন, এবং Cloudflare Pages-এ স্থাপন করার জন্য নির্দেশাবলী অনুসরণ করুন:
 
-👉 [এই প্রজেক্টটি Fork করুন](https://github.com/rockbenben/ChatGPT-Shortcut/fork)
+👉 [এই প্রজেক্টটি Fork করুন](https://github.com/rockbenben/Chat-instructions/fork)
 
 স্থাপনার ধাপ:
 

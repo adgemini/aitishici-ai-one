@@ -1,6 +1,6 @@
 ---
 sidebar_label: Prompt Kustom
-title: Prompt Kustom AI Short | Buat, Simpan & Bagikan
+title: Prompt Kustom AI one | Buat, Simpan & Bagikan
 description: Buat dan simpan prompt AI Anda sendiri untuk akses instan. Bagikan dengan komunitas atau simpan pribadi, dan ekspor cadangan kapan saja.
 ---
 

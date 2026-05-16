@@ -1,16 +1,16 @@
 ---
 sidebar_label: Руководство по Установке ZIP для Chrome
-title: Ручная установка расширения AI Short из ZIP архива
-description: Как установить расширение AI Short через ZIP файл - Инструкция по распаковке и загрузке в Chrome.
+title: Ручная установка расширения AI one из ZIP архива
+description: Как установить расширение AI one через ZIP файл - Инструкция по распаковке и загрузке в Chrome.
 ---
 
 # Руководство по Локальной Установке Расширения ZIP для Chrome
 
 ## Скачать Расширение
 
-Скачайте установочный пакет ZIP расширения ChatGPT Shortcut (ChatGPT_Shortcut-zip-3.x.x.zip) и распакуйте его. (Распакованную папку нужно сохранить на компьютере, поэтому не забудьте распаковать ее в постоянное место).
+Скачайте установочный пакет ZIP расширения Chat instructions (ChatGPT_Shortcut-zip-3.x.x.zip) и распакуйте его. (Распакованную папку нужно сохранить на компьютере, поэтому не забудьте распаковать ее в постоянное место).
 
-- **GitHub**: [GitHub Release](https://github.com/rockbenben/ChatGPT-Shortcut/releases/latest)
+- **GitHub**: [GitHub Release](https://github.com/rockbenben/Chat-instructions/releases/latest)
 - **Скачивание в Китае**: [Alist Drive](https://alist.newzone.top:9003/apps/ChatGPT%20Shortcut%20Extension); [Lanzou Cloud](https://wwva.lanzouq.com/b01lsc9vi), пароль: 1qow
 
 ## Включить Режим Разработчика

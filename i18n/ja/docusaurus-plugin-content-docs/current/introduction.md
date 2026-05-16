@@ -1,17 +1,17 @@
 ---
 slug: /
-sidebar_label: AI Short 紹介
-title: AI Short：厳選ChatGPTプロンプトライブラリ
+sidebar_label: AI one 紹介
+title: AI one：厳選ChatGPTプロンプトライブラリ
 description: ChatGPTやClaudeの回答精度に悩みですか？厳選プロンプトをコピーして即座に生産性アップ。コレクション管理機能も充実。
 ---
 
-# AI Short 紹介
+# AI one 紹介
 
-AI Short (ChatGPT Shortcut) は、ユーザーがさまざまなシナリオに適したプロンプトを素早く見つけるのに役立つ、簡潔で使いやすい AI プロンプトリストを提供します。
+AI one (Chat instructions) は、ユーザーがさまざまなシナリオに適したプロンプトを素早く見つけるのに役立つ、簡潔で使いやすい AI プロンプトリストを提供します。
 
 ## ⚡ 30 秒クイックスタート
 
-1. AI Short を開く
+1. AI one を開く
 2. 必要なプロンプトを検索または閲覧する
 3. 「コピー」をクリックし、任意の AI 会話モデルに貼り付ける
 
@@ -43,14 +43,3 @@ AI Short (ChatGPT Shortcut) は、ユーザーがさまざまなシナリオに�
 
 プロンプトはインターネットの厳選、コミュニティ共有、および [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) から提供されています。新しいプロンプトとインスピレーションを継続的にお届けするために、定期的に更新しています。
 
-## コミュニティに参加
-
-アイデアやフィードバックを交換するために、私たちのコミュニティに参加することを歓迎します：
-
-<a href="https://t.me/aishort_top">
-   <img src="https://img.shields.io/badge/Telegram-Group-blue?logo=telegram&style=for-the-badge" alt="join Telegram group" />
-</a>
-
-<a href="https://discord.gg/PZTQfJ4GjX">
-   <img src="https://img.shields.io/discord/1048780149899939881?color=%2385c8c8&label=Discord&logo=discord&style=for-the-badge" alt="chat on Discord" />
-</a>

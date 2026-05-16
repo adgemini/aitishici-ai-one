@@ -111,7 +111,7 @@
     "message": "Torna alla lista"
   },
   "community.description": {
-    "message": "Vuoi più prompt IA testati? Unisciti alla community AiShort per scoprire modelli pratici e condividere tecniche di ottimizzazione."
+    "message": "Vuoi più prompt IA testati? Unisciti alla community AI one per scoprire modelli pratici e condividere tecniche di ottimizzazione."
   },
   "community.loading": {
     "message": "Caricamento..."
@@ -126,7 +126,7 @@
     "message": "Prompt della comunità"
   },
   "community.title": {
-    "message": "Community Prompt IA | Scopri e Condividi - AiShort"
+    "message": "Community Prompt IA | Scopri e Condividi - AI one"
   },
   "description.clearCache.short": {
     "message": "Aggiorna dati cache locale"
@@ -138,7 +138,7 @@
     "message": "Importa prompt e preferiti da file JSON"
   },
   "faq.a1": {
-    "message": "AiShort (originariamente chiamato ChatGPT Shortcut) è uno strumento open source di gestione dei prompt AI che fornisce un elenco curato di prompt per aiutarti a trovare rapidamente istruzioni adatte a vari scenari. Il progetto si è inizialmente concentrato su ChatGPT, quindi il nome del repository GitHub rimane ChatGPT-Shortcut; oggi supporta tutti i principali modelli linguistici (inclusi Claude, Gemini, DeepSeek, Kimi, ecc.). Il nome è mantenuto per continuità storica."
+    "message": "AI one (originariamente chiamato Chat instructions) è uno strumento open source di gestione dei prompt AI che fornisce un elenco curato di prompt per aiutarti a trovare rapidamente istruzioni adatte a vari scenari. Il progetto si è inizialmente concentrato su ChatGPT, quindi il nome del repository GitHub rimane Chat-instructions; oggi supporta tutti i principali modelli linguistici (inclusi Claude, Gemini, DeepSeek, Kimi, ecc.). Il nome è mantenuto per continuità storica."
   },
   "faq.a2": {
     "message": "Tre passi: (1) Cerca o sfoglia i prompt per tag nella home page; (2) Clicca sul pulsante \"Copia\" su qualsiasi scheda; (3) Incollalo in qualsiasi strumento di chat AI e aggiungi la tua domanda specifica seguendo le istruzioni del prompt."
@@ -147,34 +147,34 @@
     "message": "I prompt sono indipendenti dal modello e funzionano con tutti i principali modelli linguistici. Modelli internazionali: ChatGPT, Claude, Gemini, Grok. Modelli cinesi: DeepSeek, Qwen, ERNIE Bot, Doubao, Kimi, ChatGLM, Spark, Hunyuan. Piattaforme API: OpenRouter, SiliconFlow, Groq."
   },
   "faq.a4": {
-    "message": "Awesome ChatGPT Prompts è una delle fonti di contenuto di AiShort. AiShort vi aggiunge: un'interfaccia grafica di navigazione con filtri per tag, traduzioni in 18 lingue, gestione personale dei prompt (preferiti/ordinamento/tag), condivisione e voto in community, estensioni browser Chrome/Edge/Firefox (Alt+Shift+S per aprire la barra laterale), esportazione e backup dati in JSON, e un'edizione offline per intranet aziendali."
+    "message": "Awesome ChatGPT Prompts è una delle fonti di contenuto di AI one. AI one vi aggiunge: un'interfaccia grafica di navigazione con filtri per tag, traduzioni in 18 lingue, gestione personale dei prompt (preferiti/ordinamento/tag), condivisione e voto in community, estensioni browser Chrome/Edge/Firefox (Alt+Shift+S per aprire la barra laterale), esportazione e backup dati in JSON, e un'edizione offline per intranet aziendali."
   },
   "faq.a5": {
     "message": "Completamente gratuito e open source (codice ospitato su GitHub). Sfogliare, cercare e copiare prompt non richiede registrazione. La registrazione sblocca: preferiti con ordinamento drag-and-drop, tag personalizzati, creazione e gestione di prompt personali, condivisione e voto in community, esportazione e backup JSON, e sincronizzazione tra dispositivi."
   },
   "faq.a6": {
-    "message": "AiShort fornisce un'edizione offline indipendente progettata per intranet aziendali, reti governative e altri ambienti senza accesso a internet. Non richiede server backend né account utente, funziona immediatamente dopo il deployment e mantiene funzionalità principali come navigazione, ricerca, preferiti e prompt personalizzati. Il formato dati è compatibile con la versione online."
+    "message": "AI one fornisce un'edizione offline indipendente progettata per intranet aziendali, reti governative e altri ambienti senza accesso a internet. Non richiede server backend né account utente, funziona immediatamente dopo il deployment e mantiene funzionalità principali come navigazione, ricerca, preferiti e prompt personalizzati. Il formato dati è compatibile con la versione online."
   },
   "faq.heading": {
     "message": "FAQ"
   },
   "faq.q1": {
-    "message": "Cos'è AiShort? Perché si chiama \"ChatGPT Shortcut\"?"
+    "message": "Cos'è AI one? Perché si chiama \"Chat instructions\"?"
   },
   "faq.q2": {
-    "message": "Come uso AiShort?"
+    "message": "Come uso AI one?"
   },
   "faq.q3": {
-    "message": "AiShort è solo per ChatGPT? Supporta altri modelli AI?"
+    "message": "AI one è solo per ChatGPT? Supporta altri modelli AI?"
   },
   "faq.q4": {
-    "message": "In cosa differisce AiShort da Awesome ChatGPT Prompts e altre raccolte di prompt open source?"
+    "message": "In cosa differisce AI one da Awesome ChatGPT Prompts e altre raccolte di prompt open source?"
   },
   "faq.q5": {
-    "message": "AiShort è gratuito? Devo registrarmi?"
+    "message": "AI one è gratuito? Devo registrarmi?"
   },
   "faq.q6": {
-    "message": "AiShort può essere utilizzato in intranet aziendali o ambienti offline?"
+    "message": "AI one può essere utilizzato in intranet aziendali o ambienti offline?"
   },
   "faq.scenario.a": {
     "message": "Va bene per compiti correlati al titolo e alla descrizione di questa pagina. Se al primo tentativo il risultato non soddisfa, aggiungi più contesto nel segnaposto o vincoli come «rispondi passo dopo passo» o «fai degli esempi»."
@@ -207,13 +207,13 @@
     "message": "Feedback e Suggerimenti"
   },
   "homepage.description": {
-    "message": "Frustrato dalle risposte IA irrilevanti? AiShort offre modelli pratici per scrittura, codice e traduzioni. Copia con un clic e raddoppia la tua efficienza!"
+    "message": "Frustrato dalle risposte IA irrilevanti? AI one offre modelli pratici per scrittura, codice e traduzioni. Copia con un clic e raddoppia la tua efficienza!"
   },
   "homepage.slogan": {
     "message": "Prompt IA selezionati, pronti all'uso con un clic"
   },
   "homepage.title": {
-    "message": "AiShort - Libreria Prompt IA | Modelli per Aumentare la Produttività"
+    "message": "AI one - Libreria Prompt IA | Modelli per Aumentare la Produttività"
   },
   "howto.step1.name": {
     "message": "Copia il prompt"

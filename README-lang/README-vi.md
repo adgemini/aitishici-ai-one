@@ -1,20 +1,20 @@
 <h1 align="center">
-    <a href="https://www.aishort.top/">
-        <img src="../static/img/logo.png" alt="AiShort Logo" width="120" height="120" />
+    <a href="https://www.onebiu.cn/">
+        <img src="../static/img/logo.png" alt="AI one Logo" width="120" height="120" />
     </a>
     <br>
-    AiShort (ChatGPT Shortcut) - Công cụ quản lý prompt AI đơn giản và dễ sử dụng
+    AI one (Chat instructions) - Công cụ quản lý prompt AI đơn giản và dễ sử dụng
 </h1>
 
 <p align="center">
-    <a href="https://github.com/rockbenben/ChatGPT-Shortcut/blob/main/LICENSE">
-        <img src="https://img.shields.io/github/license/rockbenben/ChatGPT-Shortcut?color=blue&label=License" alt="License" />
+    <a href="https://github.com/rockbenben/Chat-instructions/blob/main/LICENSE">
+        <img src="https://img.shields.io/github/license/rockbenben/Chat-instructions?color=blue&label=License" alt="License" />
     </a>
-    <a href="https://github.com/rockbenben/ChatGPT-Shortcut/stargazers">
-        <img src="https://img.shields.io/github/stars/rockbenben/ChatGPT-Shortcut?style=social" alt="GitHub Stars" />
+    <a href="https://github.com/rockbenben/Chat-instructions/stargazers">
+        <img src="https://img.shields.io/github/stars/rockbenben/Chat-instructions?style=social" alt="GitHub Stars" />
     </a>
-    <a href="https://github.com/rockbenben/ChatGPT-Shortcut/releases">
-        <img src="https://img.shields.io/github/v/release/rockbenben/ChatGPT-Shortcut?color=green" alt="Version" />
+    <a href="https://github.com/rockbenben/Chat-instructions/releases">
+        <img src="https://img.shields.io/github/v/release/rockbenben/Chat-instructions?color=green" alt="Version" />
     </a>
     <a href="https://discord.gg/PZTQfJ4GjX">
         <img src="https://img.shields.io/discord/1048780149899939881?color=%2385c8c8&label=Discord&logo=discord&style=flat" alt="Discord" />
@@ -39,22 +39,22 @@ Tiếng Việt |
 <a href="./README-bn.md">বাংলা</a>
 </p>
 <p align="center">
-    <em>AiShort (ChatGPT Shortcut) - Tối đa hóa Hiệu quả và Năng suất của bạn</em>
+    <em>AI one (Chat instructions) - Tối đa hóa Hiệu quả và Năng suất của bạn</em>
 </p>
 
 ## ⚡ Bắt đầu nhanh
 
-1. Truy cập [aishort.top](https://www.aishort.top/vi/)
+1. Truy cập [onebiu.cn](https://www.onebiu.cn/vi/)
 2. Tìm kiếm hoặc duyệt các prompt bạn cần
 3. Nhấn "Copy" và dán vào bất kỳ mô hình AI nào
 
-![AiShort Interface](../static/img/docs/interface-home.png)
+![AI one Interface](../static/img/docs/interface-home.png)
 
-Đơn giản vậy thôi! Để biết thêm tính năng, hãy đọc tiếp hoặc xem [Hướng dẫn sử dụng](https://www.aishort.top/vi/docs/guides/getting-started).
+Đơn giản vậy thôi! Để biết thêm tính năng, hãy đọc tiếp hoặc xem [Hướng dẫn sử dụng](https://www.onebiu.cn/vi/docs/guides/getting-started).
 
-## Tại sao nên dùng AiShort?
+## Tại sao nên dùng AI one?
 
-AiShort (ChatGPT Shortcut) cung cấp danh sách các prompt AI được chọn lọc, giúp bạn nhanh chóng tìm thấy prompt cho mọi tình huống.
+AI one (Chat instructions) cung cấp danh sách các prompt AI được chọn lọc, giúp bạn nhanh chóng tìm thấy prompt cho mọi tình huống.
 
 ### Tính năng cốt lõi
 
@@ -80,20 +80,20 @@ AiShort (ChatGPT Shortcut) cung cấp danh sách các prompt AI được chọn 
 
 ## Tiện ích mở rộng trình duyệt
 
-Truy cập AiShort prompt mọi lúc với tiện ích mở rộng trình duyệt của chúng tôi. Hỗ trợ Chrome, Edge, và Firefox với thanh bên mở bằng `Alt + Shift + S`.
+Truy cập AI one prompt mọi lúc với tiện ích mở rộng trình duyệt của chúng tôi. Hỗ trợ Chrome, Edge, và Firefox với thanh bên mở bằng `Alt + Shift + S`.
 
 - **Chrome**: [Cửa hàng Chrome trực tuyến](https://chrome.google.com/webstore/detail/chatgpt-shortcut/blcgeoojgdpodnmnhfpohphdhfncblnj)
 - **Edge**: [Tiện ích bổ trợ Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/chatgpt-shortcut/hnggpalhfjmdhhmgfjpmhlfilnbmjoin)
 - **Firefox**: [Tiện ích bổ trợ Firefox](https://addons.mozilla.org/addon/chatgpt-shortcut/)
-- **GitHub**: [Bản phát hành](https://github.com/rockbenben/ChatGPT-Shortcut/releases/latest)
+- **GitHub**: [Bản phát hành](https://github.com/rockbenben/Chat-instructions/releases/latest)
 
-Chúng tôi cũng cung cấp script Tampermonkey [ChatGPT Shortcut Anywhere](https://greasyfork.org/scripts/482907-chatgpt-shortcut-anywhere) để sử dụng thanh bên AiShort trên mọi trang web.
+Chúng tôi cũng cung cấp script Tampermonkey [Chat instructions Anywhere](https://greasyfork.org/scripts/482907-chatgpt-shortcut-anywhere) để sử dụng thanh bên AI one trên mọi trang web.
 
 ## Triển khai
 
-Triển khai instance của riêng bạn qua Vercel, Cloudflare Pages, Docker hoặc cục bộ. Xem [Hướng dẫn triển khai](https://www.aishort.top/vi/docs/deploy).
+Triển khai instance của riêng bạn qua Vercel, Cloudflare Pages, Docker hoặc cục bộ. Xem [Hướng dẫn triển khai](https://www.onebiu.cn/vi/docs/deploy).
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Frockbenben%2FChatGPT-Shortcut%2Ftree%2Fmain)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Frockbenben%2FChat-instructions%2Ftree%2Fmain)
 
 ## Đồng bộ cập nhật
 

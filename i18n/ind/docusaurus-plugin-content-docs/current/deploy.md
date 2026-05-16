@@ -1,14 +1,14 @@
 ---
 sidebar_label: Deployment
-title: Deploy AI Short | Pengaturan Vercel, Docker & Cloudflare
-description: Ingin menghosting perpustakaan prompt AI Anda sendiri? Deploy AI Short dengan mudah menggunakan Vercel, Docker, atau Cloudflare. Termasuk tips konfigurasi dan script pembaruan otomatis.
+title: Deploy AI one | Pengaturan Vercel, Docker & Cloudflare
+description: Ingin menghosting perpustakaan prompt AI Anda sendiri? Deploy AI one dengan mudah menggunakan Vercel, Docker, atau Cloudflare. Termasuk tips konfigurasi dan script pembaruan otomatis.
 ---
 
 # Deployment Proyek
 
 ## Konfigurasi dan Kustomisasi
 
-AI Short adalah proyek open source yang memungkinkan Anda memodifikasi judul website, deskripsi, prompt, dan konten lainnya secara bebas sesuai kebutuhan. Berikut adalah opsi modifikasi umum dan petunjuk operasi:
+AI one adalah proyek open source yang memungkinkan Anda memodifikasi judul website, deskripsi, prompt, dan konten lainnya secara bebas sesuai kebutuhan. Berikut adalah opsi modifikasi umum dan petunjuk operasi:
 
 - **Modifikasi Judul dan Deskripsi Website**
   Untuk mengubah informasi judul dan deskripsi website, silakan edit file konfigurasi `docusaurus.config.js`.
@@ -69,9 +69,9 @@ yarn build --locale ind
 
 ### Deployment Vercel
 
-Klik tombol di bawah untuk men-deploy ChatGPT-Shortcut ke platform Vercel dengan satu klik:
+Klik tombol di bawah untuk men-deploy Chat-instructions ke platform Vercel dengan satu klik:
 
-[![Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Frockbenben%2FChatGPT-Shortcut%2Ftree%2Fmain)
+[![Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Frockbenben%2FChat-instructions%2Ftree%2Fmain)
 
 ### Deployment Docker
 

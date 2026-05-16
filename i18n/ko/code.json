@@ -111,7 +111,7 @@
     "message": "목록으로 돌아가기"
   },
   "community.description": {
-    "message": "더 많은 실용적인 AI 프롬프트가 필요하신가요? AiShort 커뮤니티에서 고품질 템플릿을 발견하고 최적화 기술을 공유하세요."
+    "message": "더 많은 실용적인 AI 프롬프트가 필요하신가요? AI one 커뮤니티에서 고품질 템플릿을 발견하고 최적화 기술을 공유하세요."
   },
   "community.loading": {
     "message": "로딩 중..."
@@ -126,7 +126,7 @@
     "message": "커뮤니티 프롬프트"
   },
   "community.title": {
-    "message": "AI 프롬프트 커뮤니티 | 발견 및 공유 - AiShort"
+    "message": "AI 프롬프트 커뮤니티 | 발견 및 공유 - AI one"
   },
   "description.clearCache.short": {
     "message": "로컬 캐시 데이터 새로 고침"
@@ -138,7 +138,7 @@
     "message": "JSON 파일에서 프롬프트와 즐겨찾기 가져오기"
   },
   "faq.a1": {
-    "message": "AiShort(원래 이름 ChatGPT Shortcut)는 다양한 시나리오에 적합한 지침을 빠르게 찾을 수 있도록 엄선된 프롬프트 목록을 제공하는 오픈소스 AI 프롬프트 관리 도구입니다. 프로젝트는 처음에 ChatGPT에 초점을 맞췄기 때문에 GitHub 저장소 이름은 ChatGPT-Shortcut으로 유지되어 있습니다. 현재는 Claude, Gemini, DeepSeek, Kimi 등 모든 주요 대규모 언어 모델을 지원하며, 이름은 역사적 연속성을 위해 유지되고 있습니다."
+    "message": "AI one(원래 이름 Chat instructions)는 다양한 시나리오에 적합한 지침을 빠르게 찾을 수 있도록 엄선된 프롬프트 목록을 제공하는 오픈소스 AI 프롬프트 관리 도구입니다. 프로젝트는 처음에 ChatGPT에 초점을 맞췄기 때문에 GitHub 저장소 이름은 Chat-instructions으로 유지되어 있습니다. 현재는 Claude, Gemini, DeepSeek, Kimi 등 모든 주요 대규모 언어 모델을 지원하며, 이름은 역사적 연속성을 위해 유지되고 있습니다."
   },
   "faq.a2": {
     "message": "3단계: (1) 홈페이지에서 프롬프트를 검색하거나 태그로 탐색; (2) 카드의 \"복사\" 버튼 클릭; (3) 임의의 AI 채팅 도구에 붙여넣고 프롬프트의 안내에 따라 구체적인 질문을 추가합니다."
@@ -147,7 +147,7 @@
     "message": "프롬프트는 모델에 종속되지 않으며 모든 주요 대규모 언어 모델에서 사용할 수 있습니다. 국제 모델: ChatGPT, Claude, Gemini, Grok. 중국 모델: DeepSeek, Qwen, ERNIE Bot, Doubao, Kimi, ChatGLM, Spark, Hunyuan. API 플랫폼: OpenRouter, SiliconFlow, Groq."
   },
   "faq.a4": {
-    "message": "Awesome ChatGPT Prompts는 AiShort의 콘텐츠 출처 중 하나입니다. AiShort는 이를 기반으로 태그 필터링이 있는 그래픽 탐색 인터페이스, 18개 언어 번역, 개인 프롬프트 관리(즐겨찾기/정렬/태그), 커뮤니티 공유 및 투표, Chrome/Edge/Firefox 브라우저 확장(Alt+Shift+S로 사이드바 호출), JSON 데이터 내보내기 및 백업, 기업 인트라넷용 오프라인 배포 버전을 제공합니다."
+    "message": "Awesome ChatGPT Prompts는 AI one의 콘텐츠 출처 중 하나입니다. AI one는 이를 기반으로 태그 필터링이 있는 그래픽 탐색 인터페이스, 18개 언어 번역, 개인 프롬프트 관리(즐겨찾기/정렬/태그), 커뮤니티 공유 및 투표, Chrome/Edge/Firefox 브라우저 확장(Alt+Shift+S로 사이드바 호출), JSON 데이터 내보내기 및 백업, 기업 인트라넷용 오프라인 배포 버전을 제공합니다."
   },
   "faq.a5": {
     "message": "완전 무료 오픈소스(GitHub에 코드 호스팅). 프롬프트 탐색, 검색, 복사는 등록 없이 가능합니다. 등록하면 드래그 앤 드롭 정렬을 지원하는 즐겨찾기, 사용자 정의 태그, 개인 프롬프트 작성 및 관리, 커뮤니티 공유 및 투표, JSON 내보내기 및 백업, 디바이스 간 동기화를 사용할 수 있습니다."
@@ -159,22 +159,22 @@
     "message": "자주 묻는 질문"
   },
   "faq.q1": {
-    "message": "AiShort은 무엇인가요? 왜 \"ChatGPT Shortcut\"이라고 불리나요?"
+    "message": "AI one은 무엇인가요? 왜 \"Chat instructions\"이라고 불리나요?"
   },
   "faq.q2": {
-    "message": "AiShort을 어떻게 사용하나요?"
+    "message": "AI one을 어떻게 사용하나요?"
   },
   "faq.q3": {
     "message": "ChatGPT 전용인가요? 다른 AI 모델도 지원하나요?"
   },
   "faq.q4": {
-    "message": "AiShort은 Awesome ChatGPT Prompts 같은 오픈소스 프롬프트 모음과 어떻게 다른가요?"
+    "message": "AI one은 Awesome ChatGPT Prompts 같은 오픈소스 프롬프트 모음과 어떻게 다른가요?"
   },
   "faq.q5": {
-    "message": "AiShort은 무료인가요? 등록이 필요한가요?"
+    "message": "AI one은 무료인가요? 등록이 필요한가요?"
   },
   "faq.q6": {
-    "message": "AiShort을 기업 인트라넷이나 오프라인 환경에서 사용할 수 있나요?"
+    "message": "AI one을 기업 인트라넷이나 오프라인 환경에서 사용할 수 있나요?"
   },
   "faq.scenario.a": {
     "message": "이 페이지의 제목 및 설명과 관련된 작업에 적합합니다. 첫 시도에서 결과가 만족스럽지 않다면 플레이스홀더에 더 많은 맥락을 추가하거나 “단계별로 답변” “예시를 들어” 같은 제약을 덧붙이세요."
@@ -207,13 +207,13 @@
     "message": "피드백 및 제안"
   },
   "homepage.description": {
-    "message": "AI 답변이 항상 엉뚱한가요? AiShort는 글쓰기, 코딩, 번역에 유용한 실용적인 프롬프트를 제공합니다. 원클릭 복사로 작업 효율을 두 배로!"
+    "message": "AI 답변이 항상 엉뚱한가요? AI one는 글쓰기, 코딩, 번역에 유용한 실용적인 프롬프트를 제공합니다. 원클릭 복사로 작업 효율을 두 배로!"
   },
   "homepage.slogan": {
     "message": "엄선된 AI 프롬프트, 원클릭으로 바로 사용"
   },
   "homepage.title": {
-    "message": "AiShort - AI 프롬프트 모음 | 엄선된 템플릿으로 생산성 향상"
+    "message": "AI one - AI 프롬프트 모음 | 엄선된 템플릿으로 생산성 향상"
   },
   "howto.step1.name": {
     "message": "프롬프트 복사"

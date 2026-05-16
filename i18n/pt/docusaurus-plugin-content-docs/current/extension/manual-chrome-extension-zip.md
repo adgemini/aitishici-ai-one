@@ -1,16 +1,16 @@
 ---
 sidebar_label: Guia de Instalação ZIP para Chrome
-title: Instalação Manual da Extensão AI Short via ZIP
-description: Guia passo-a-passo para instalar a extensão AI Short via arquivo ZIP no Chrome.
+title: Instalação Manual da Extensão AI one via ZIP
+description: Guia passo-a-passo para instalar a extensão AI one via arquivo ZIP no Chrome.
 ---
 
 # Guia de Instalação Local de Extensão ZIP para Chrome
 
 ## Baixar Extensão
 
-Baixe o pacote de instalação Zip da extensão ChatGPT Shortcut (ChatGPT_Shortcut-zip-3.x.x.zip) e descompacte-o. (A pasta descompactada precisa ser mantida no computador, então lembre-se de descompactá-la em um local permanente)
+Baixe o pacote de instalação Zip da extensão Chat instructions (ChatGPT_Shortcut-zip-3.x.x.zip) e descompacte-o. (A pasta descompactada precisa ser mantida no computador, então lembre-se de descompactá-la em um local permanente)
 
-- **GitHub**: [GitHub Release](https://github.com/rockbenben/ChatGPT-Shortcut/releases/latest)
+- **GitHub**: [GitHub Release](https://github.com/rockbenben/Chat-instructions/releases/latest)
 - **Download Local**: [Alist Cloud](https://alist.newzone.top:9003/apps/ChatGPT%20Shortcut%20Extension); [Lanzou Cloud](https://wwva.lanzouq.com/b01lsc9vi), Senha: 1qow
 
 ## Ativar Modo de Desenvolvedor

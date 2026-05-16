@@ -1,6 +1,6 @@
 ---
 sidebar_label: Câu hỏi thường gặp
-title: Câu hỏi thường gặp AI Short | Tối ưu Prompt & Sửa lỗi AI
+title: Câu hỏi thường gặp AI one | Tối ưu Prompt & Sửa lỗi AI
 description: AI trả lời sai? Học cách sửa vấn đề prompt, tránh AI "ảo giác" và bảo mật dữ liệu với hướng dẫn xử lý sự cố toàn diện.
 ---
 

@@ -1,6 +1,6 @@
 ---
 sidebar_label: Prompt Cộng đồng
-title: Cộng đồng AI Short | Khám phá & Chia sẻ Prompt AI Chất lượng
+title: Cộng đồng AI one | Khám phá & Chia sẻ Prompt AI Chất lượng
 description: Khám phá các prompt AI được đánh giá cao trong cộng đồng! Lọc theo phiếu bầu, chia sẻ ý tưởng tốt nhất để được hiển thị, hoặc quản lý prompt riêng tư cho sử dụng cá nhân.
 ---
 

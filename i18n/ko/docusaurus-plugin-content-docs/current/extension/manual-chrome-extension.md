@@ -8,9 +8,9 @@ description: 개발자 모드로 CRX 파일 간편 설치. 드래그 앤 드롭 
 
 ## CRX 설치 패키지 다운로드
 
-ChatGPT Shortcut crx 설치 패키지(ChatGPT_Shortcut-crx-3.x.x.zip)를 다운로드하고 압축을 풉니다(crx 파일은 압축을 푼 폴더 안에 있습니다).
+Chat instructions crx 설치 패키지(ChatGPT_Shortcut-crx-3.x.x.zip)를 다운로드하고 압축을 풉니다(crx 파일은 압축을 푼 폴더 안에 있습니다).
 
-- **GitHub**: [GitHub Release](https://github.com/rockbenben/ChatGPT-Shortcut/releases/latest)
+- **GitHub**: [GitHub Release](https://github.com/rockbenben/Chat-instructions/releases/latest)
 - **중국 다운로드**: [Alist 클라우드 드라이브](https://alist.newzone.top:9003/apps/ChatGPT%20Shortcut%20Extension); [Lanzou Cloud](https://wwva.lanzouq.com/b01lsc9vi), 비밀번호: 1qow
 
 ![](https://img.newzone.top/2024-08-12-21-47-10.png?imageMogr2/format/webp)
@@ -29,7 +29,7 @@ chrome://extensions
 
 ## 확장 프로그램 설치
 
-ChatGPT Shortcut 확장 프로그램 설치 (주의 ⚠️: .crx 파일을 드래그해야 합니다. [압축해제된 확장 프로그램을 로드합니다]를 클릭하지 마세요)
+Chat instructions 확장 프로그램 설치 (주의 ⚠️: .crx 파일을 드래그해야 합니다. [압축해제된 확장 프로그램을 로드합니다]를 클릭하지 마세요)
 
 ![](https://img.newzone.top/2024-08-12-22-16-38.png?imageMogr2/format/webp)
 

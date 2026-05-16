@@ -1,17 +1,17 @@
 ---
 slug: /
-sidebar_label: AI Short 소개
-title: AI Short - 엄선된 ChatGPT 프롬프트 라이브러리
+sidebar_label: AI one 소개
+title: AI one - 엄선된 ChatGPT 프롬프트 라이브러리
 description: ChatGPT, Claude 답변 품질이 고민이신가요? 엄선된 프롬프트를 즉시 복사해 생산성을 높이세요. 컬렉션 관리 기능으로 더 편리하게.
 ---
 
-# AI Short 소개
+# AI one 소개
 
-AI Short(ChatGPT Shortcut)는 사용자가 다양한 시나리오에 적합한 프롬프트를 빠르게 찾을 수 있도록 간결하고 사용하기 쉬운 AI 프롬프트 목록을 제공합니다.
+AI one(Chat instructions)는 사용자가 다양한 시나리오에 적합한 프롬프트를 빠르게 찾을 수 있도록 간결하고 사용하기 쉬운 AI 프롬프트 목록을 제공합니다.
 
 ## ⚡ 30초 빠른 시작
 
-1. AI Short 열기
+1. AI one 열기
 2. 필요한 프롬프트 검색 또는 탐색
 3. "복사"를 클릭하고 임의의 AI 대화 모델에 붙여넣기
 
@@ -43,14 +43,3 @@ AI Short(ChatGPT Shortcut)는 사용자가 다양한 시나리오에 적합한 �
 
 프롬프트는 인터넷 엄선, 커뮤니티 공유 및 [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)에서 제공됩니다. 새로운 프롬프트와 영감을 지속적으로 제공하기 위해 정기적으로 업데이트합니다.
 
-## 커뮤니티 참여
-
-아이디어와 피드백을 교환하기 위해 커뮤니티에 참여하는 것을 환영합니다.
-
-<a href="https://t.me/aishort_top">
-   <img src="https://img.shields.io/badge/Telegram-Group-blue?logo=telegram&style=for-the-badge" alt="join Telegram group" />
-</a>
-
-<a href="https://discord.gg/PZTQfJ4GjX">
-   <img src="https://img.shields.io/discord/1048780149899939881?color=%2385c8c8&label=Discord&logo=discord&style=for-the-badge" alt="chat on Discord" />
-</a>

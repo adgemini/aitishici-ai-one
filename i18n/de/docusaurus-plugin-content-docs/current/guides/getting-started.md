@@ -1,12 +1,12 @@
 ---
 sidebar_label: Erste Schritte
-title: AI Short Start - ChatGPT in 30 Sekunden
+title: AI one Start - ChatGPT in 30 Sekunden
 description: Starten Sie in 30 Sekunden. Kopieren Sie Prompts für ChatGPT und Gemini und verbessern Sie sofort Ihre Konversationen.
 ---
 
 # Erste Schritte
 
-Wenn Sie sich mit KI unterhalten, können gute Prompts Ihnen helfen, hochwertige Antworten schneller zu erhalten. AiShort hat eine große Anzahl praktischer Prompts für Sie organisiert, bereit zum Kopieren und Verwenden.
+Wenn Sie sich mit KI unterhalten, können gute Prompts Ihnen helfen, hochwertige Antworten schneller zu erhalten. AI one hat eine große Anzahl praktischer Prompts für Sie organisiert, bereit zum Kopieren und Verwenden.
 
 ## Grundlegende Nutzung
 
@@ -15,7 +15,7 @@ Wenn Sie sich mit KI unterhalten, können gute Prompts Ihnen helfen, hochwertige
 3. Öffnen Sie ein beliebiges KI-Modell und fügen Sie den Prompt ein
 4. Folgen Sie den Anweisungen im Prompt, um Ihre spezifische Frage hinzuzufügen
 
-![](/img/docs/how-to-use-aishort.gif)
+![](/img/docs/how-to-use-aione.png)
 
 ## Schnellzugriff
 

@@ -1,16 +1,16 @@
 ---
 sidebar_label: دليل تثبيت Chrome ZIP
-title: تثبيت AI Short على Chrome عبر ملف ZIP
-description: طريقة يدوية لتثبيت AI Short على Chrome باستخدام ملف ZIP. مثالية عندما لا يتوفر تثبيت CRX - فك الضغط وحمل الإضافة.
+title: تثبيت AI one على Chrome عبر ملف ZIP
+description: طريقة يدوية لتثبيت AI one على Chrome باستخدام ملف ZIP. مثالية عندما لا يتوفر تثبيت CRX - فك الضغط وحمل الإضافة.
 ---
 
 # دليل التثبيت المحلي لإضافة Chrome ZIP
 
 ## تنزيل المكون الإضافي
 
-قم بتنزيل حزمة تثبيت zip للمكون الإضافي ChatGPT Shortcut (ChatGPT_Shortcut-zip-3.x.x.zip) وقم بفك ضغطها. (يجب الاحتفاظ بالمجلد الذي تم فك ضغطه على الكمبيوتر، لذا تذكر فك الضغط في مكان دائم)
+قم بتنزيل حزمة تثبيت zip للمكون الإضافي Chat instructions (ChatGPT_Shortcut-zip-3.x.x.zip) وقم بفك ضغطها. (يجب الاحتفاظ بالمجلد الذي تم فك ضغطه على الكمبيوتر، لذا تذكر فك الضغط في مكان دائم)
 
-- **GitHub**: [GitHub Release](https://github.com/rockbenben/ChatGPT-Shortcut/releases/latest)
+- **GitHub**: [GitHub Release](https://github.com/rockbenben/Chat-instructions/releases/latest)
 - **التنزيل المحلي**: [Alist Cloud](https://alist.newzone.top:9003/apps/ChatGPT%20Shortcut%20Extension); [Lanzou Cloud](https://wwva.lanzouq.com/b01lsc9vi)، كلمة المرور: 1qow
 
 ## تمكين وضع المطور

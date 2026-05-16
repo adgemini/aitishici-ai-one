@@ -1,7 +1,7 @@
 ---
 sidebar_label: Prompt della Community
-title: Community AI Short - Scopri e Condividi Prompt IA
-description: Esplora la Community di AI Short - Trova prompt votati dagli utenti, condividi le tue creazioni o salvale privatamente. Unisciti all'ispirazione collettiva.
+title: Community AI one - Scopri e Condividi Prompt IA
+description: Esplora la Community di AI one - Trova prompt votati dagli utenti, condividi le tue creazioni o salvale privatamente. Unisciti all'ispirazione collettiva.
 ---
 
 # Prompt della Community

@@ -1,12 +1,12 @@
 ---
 sidebar_label: 賬戶管理
-title: AI Short 賬戶管理 | Google 登錄與無密碼登錄
+title: AI one 賬戶管理 | Google 登錄與無密碼登錄
 description: 支持 Google 一鍵登錄、郵箱無密碼登錄，快速訪問個人收藏。忘記密碼可一鍵重置，輕鬆找回賬戶數據。
 ---
 
 # 賬戶管理
 
-AiShort 提供多種登錄方式，方便您隨時訪問個人數據。
+AI one 提供多種登錄方式，方便您隨時訪問個人數據。
 
 ## 登錄方式
 

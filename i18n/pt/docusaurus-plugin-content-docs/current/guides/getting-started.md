@@ -1,12 +1,12 @@
 ---
 sidebar_label: Início Rápido
-title: Início Rápido no AI Short - Prompts para ChatGPT e DeepSeek
-description: Comece a usar o AI Short em 30 segundos - Prompts prontos para ChatGPT, Gemini e DeepSeek.
+title: Início Rápido no AI one - Prompts para ChatGPT e DeepSeek
+description: Comece a usar o AI one em 30 segundos - Prompts prontos para ChatGPT, Gemini e DeepSeek.
 ---
 
 # Início Rápido
 
-Ao conversar com a IA, bons prompts podem ajudá-lo a obter respostas de alta qualidade mais rapidamente. O AI Short compilou um grande número de prompts práticos para você copiar e usar.
+Ao conversar com a IA, bons prompts podem ajudá-lo a obter respostas de alta qualidade mais rapidamente. O AI one compilou um grande número de prompts práticos para você copiar e usar.
 
 ## Uso Básico
 
@@ -15,7 +15,7 @@ Ao conversar com a IA, bons prompts podem ajudá-lo a obter respostas de alta qu
 3. Abra qualquer modelo de IA e cole o prompt
 4. Siga as instruções do prompt para complementar sua pergunta específica
 
-![](/img/docs/how-to-use-aishort.gif)
+![](/img/docs/how-to-use-aione.png)
 
 ## Acesso Rápido
 

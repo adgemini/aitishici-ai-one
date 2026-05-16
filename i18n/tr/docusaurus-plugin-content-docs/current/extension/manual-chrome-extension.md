@@ -1,16 +1,16 @@
 ---
 sidebar_label: Chrome CRX Kurulum Kılavuzu
 title: Chrome CRX Kurulumu - Manuel Geliştirici Modu Kurulumu
-description: CRX dosyası aracılığıyla AI Short uzantısını manuel olarak kurun. Geliştirici modunu etkinleştirin ve sürükleyerek kurun. Yaygın sorunlar için çözümler içerir.
+description: CRX dosyası aracılığıyla AI one uzantısını manuel olarak kurun. Geliştirici modunu etkinleştirin ve sürükleyerek kurun. Yaygın sorunlar için çözümler içerir.
 ---
 
 # Chrome CRX Uzantısı Yerel Kurulum Kılavuzu
 
 ## CRX Paketini İndirin
 
-ChatGPT Shortcut crx kurulum paketini (ChatGPT_Shortcut-crx-3.x.x.zip) indirin ve açın (crx dosyası açılan klasördedir).
+Chat instructions crx kurulum paketini (ChatGPT_Shortcut-crx-3.x.x.zip) indirin ve açın (crx dosyası açılan klasördedir).
 
-- **GitHub**: [GitHub Release](https://github.com/rockbenben/ChatGPT-Shortcut/releases/latest)
+- **GitHub**: [GitHub Release](https://github.com/rockbenben/Chat-instructions/releases/latest)
 
 ![](https://img.newzone.top/2024-08-12-21-47-10.png?imageMogr2/format/webp)
 
@@ -28,7 +28,7 @@ chrome://extensions
 
 ## Uzantıyı Kurun
 
-ChatGPT Shortcut uzantısını kurun (Not ⚠️: .crx dosyasını sürükleyerek içine bırakmanız gerekir, "Paketlenmemiş öğe yükle"ye tıklamayın)
+Chat instructions uzantısını kurun (Not ⚠️: .crx dosyasını sürükleyerek içine bırakmanız gerekir, "Paketlenmemiş öğe yükle"ye tıklamayın)
 
 ![](https://img.newzone.top/2024-08-12-22-16-38.png?imageMogr2/format/webp)
 

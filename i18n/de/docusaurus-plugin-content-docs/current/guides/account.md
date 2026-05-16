@@ -1,12 +1,12 @@
 ---
 sidebar_label: Kontoverwaltung
-title: AI Short Konto - Google-Login & E-Mail
+title: AI one Konto - Google-Login & E-Mail
 description: Greifen Sie per Google oder E-Mail auf Ihre Prompts zu. Einfache Kontoverwaltung und Datenwiederherstellung.
 ---
 
 # Kontoverwaltung
 
-AiShort bietet mehrere Anmeldemethoden, um Ihnen jederzeit einen einfachen Zugriff auf Ihre persönlichen Daten zu ermöglichen.
+AI one bietet mehrere Anmeldemethoden, um Ihnen jederzeit einen einfachen Zugriff auf Ihre persönlichen Daten zu ermöglichen.
 
 ## Anmeldemethoden
 
