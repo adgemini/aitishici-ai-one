@@ -41,17 +41,7 @@ const config = {
   // may want to replace "zh-Hans" with "en". "zh-Hant" hidden to avoid build save
   i18n: {
     defaultLocale: "zh-Hans",
-    locales: ["en", "zh-Hans", "zh-Hant", "ar", "fr", "ja", "ru"],
-    localeConfigs: {
-      ar: {
-        direction: "rtl",
-      },
-      // 历史 URL 用 /ind/，但 ind 不是合法的 BCP 47 语言代码（标准印尼语是 id）
-      // 用 htmlLang 把 <html lang> 和 hreflang 输出为 id，URL 路径保持 /ind/ 不动
-      ind: {
-        htmlLang: "id",
-      },
-    },
+    locales: ["zh-Hans"],
   },
 
   presets: [
@@ -154,8 +144,6 @@ const config = {
             label: "反馈建议",
             position: "left",
           },
-          // remove the language dropdown from the navbar (if you only have one language)
-          { type: "localeDropdown", position: "right" },
         ],
       },
       footer: {
