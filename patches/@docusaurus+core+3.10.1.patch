@@ -1,0 +1,41 @@
+diff --git a/node_modules/@docusaurus/core/lib/client/normalizeLocation.js b/node_modules/@docusaurus/core/lib/client/normalizeLocation.js
+index 350af18..2932775 100644
+--- a/node_modules/@docusaurus/core/lib/client/normalizeLocation.js
++++ b/node_modules/@docusaurus/core/lib/client/normalizeLocation.js
+@@ -6,6 +6,13 @@
+  */
+ import { matchRoutes } from 'react-router-config';
+ import routes from '@generated/routes';
++import i18n from '@generated/i18n';
++
++// Build a set of known locale path segments for prefix stripping
++const localePaths = new Set(
++  i18n.locales.map((l) => i18n.localeConfigs[l]?.path ?? l),
++);
++
+ // Memoize previously normalized pathnames.
+ const pathnames = new Map();
+ export default function normalizeLocation(location) {
+@@ -22,7 +29,21 @@ export default function normalizeLocation(location) {
+         pathnames.set(location.pathname, location.pathname);
+         return location;
+     }
+-    const pathname = location.pathname.trim().replace(/(?:\/index)?\.html$/, '') || '/';
++    // Strip locale prefix (e.g. /en/xxx → /xxx) so routes without locale
++    // prefixes (generated in dev mode) can still match locale-prefixed URLs.
++    // This is needed for the locale dropdown to work during development.
++    let pathname = location.pathname.trim().replace(/(?:\/index)?\.html$/, '') || '/';
++    for (const localePath of localePaths) {
++        const prefix = '/' + localePath;
++        if (pathname === prefix || pathname === prefix + '/') {
++            pathname = '/';
++            break;
++        }
++        if (pathname.startsWith(prefix + '/')) {
++            pathname = pathname.slice(prefix.length) || '/';
++            break;
++        }
++    }
+     pathnames.set(location.pathname, pathname);
+     return {
+         ...location,
