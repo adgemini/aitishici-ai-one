@@ -1,0 +1,13 @@
+diff --git a/node_modules/@docusaurus/theme-classic/lib/theme/NavbarItem/DropdownNavbarItem/Desktop/index.js b/node_modules/@docusaurus/theme-classic/lib/theme/NavbarItem/DropdownNavbarItem/Desktop/index.js
+index ff4ee43..a946c44 100644
+--- a/node_modules/@docusaurus/theme-classic/lib/theme/NavbarItem/DropdownNavbarItem/Desktop/index.js
++++ b/node_modules/@docusaurus/theme-classic/lib/theme/NavbarItem/DropdownNavbarItem/Desktop/index.js
+@@ -50,7 +50,7 @@ export default function DropdownNavbarItemDesktop({
+         href={props.to ? undefined : '#'}
+         className={clsx('navbar__link', className)}
+         {...props}
+-        onClick={props.to ? undefined : (e) => e.preventDefault()}
++        onClick={props.to ? undefined : (e) => { e.preventDefault(); setShowDropdown(!showDropdown); }}
+         onKeyDown={(e) => {
+           if (e.key === 'Enter' || e.key === ' ') {
+             e.preventDefault();
