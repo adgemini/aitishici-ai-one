@@ -21,8 +21,7 @@
     "serve": "docusaurus serve",
     "write-translations": "docusaurus write-translations",
     "write-heading-ids": "docusaurus write-heading-ids",
-    "update": "ncu -u && yarn install",
-    "postinstall": "patch-package"
+    "update": "ncu -u && yarn install"
   },
   "dependencies": {
     "@ant-design/colors": "^8.0.1",
@@ -30,7 +29,7 @@
     "@dnd-kit/sortable": "^10.0.0",
     "@dnd-kit/utilities": "^3.2.2",
     "@docusaurus/core": "3.10.1",
-    "@docusaurus/faster": "^3.10.1",
+    "@docusaurus/faster": "3.10.1",
     "@docusaurus/preset-classic": "3.10.1",
     "@emoji-mart/data": "^1.2.1",
     "@emoji-mart/react": "^1.1.1",
@@ -59,7 +58,6 @@
     "@docusaurus/tsconfig": "3.10.1",
     "@docusaurus/types": "3.10.1",
     "@types/react": "^19.2.7",
-    "patch-package": "^8.0.1",
     "playwright": "^1.60.0",
     "typescript": "~6.0.3"
   },
